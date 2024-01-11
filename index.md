@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Community of Success
           description: Our Stories
-          url: ""
+          url: /community-of-success/communityofsuccess/
         - title: About M³
           description: Who we are
           url: /who-we-are/aboutus/
