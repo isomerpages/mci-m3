@@ -11,9 +11,9 @@ sections:
       subtitle: To build a Community of Success
       background: /images/Hero_Banner_1006.png
       key_highlights:
-        - title: M³@Towns
-          description: Find us near you!
-          url: /m3-towns/all/
+        - title: Community of Success
+          description: Our Stories
+          url: ""
         - title: About M³
           description: Who we are
           url: /who-we-are/aboutus/
