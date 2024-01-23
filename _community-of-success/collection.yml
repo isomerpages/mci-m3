@@ -2,7 +2,7 @@ collections:
   community-of-success:
     output: true
     order:
-      - News Gallery/News Gallery.md
+      - News Gallery/2018.md
       - News Gallery/.keep
       - Community of Success.md
       - Our Pulse/.keep
