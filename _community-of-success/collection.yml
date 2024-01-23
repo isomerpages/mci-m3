@@ -2,6 +2,7 @@ collections:
   community-of-success:
     output: true
     order:
+      - News Gallery/2020.md
       - News Gallery/2019.md
       - News Gallery/2018.md
       - News Gallery/.keep
