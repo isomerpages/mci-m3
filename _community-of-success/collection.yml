@@ -2,8 +2,8 @@ collections:
   community-of-success:
     output: true
     order:
-      - 2018/News Gallery.md
-      - 2018/.keep
+      - News Gallery/News Gallery.md
+      - News Gallery/.keep
       - Community of Success.md
       - Our Pulse/.keep
       - Our Pulse/Language & Culture.md
