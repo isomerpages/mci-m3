@@ -8,7 +8,7 @@ third_nav_title: Our Pulse
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Education.png">
 </div>
-<h3><strong>Education</strong></h3>
+<h2><strong>Education</strong></h2>
 <p></p>
 <p>A future-ready Malay/Muslim community, empowered towards a brighter future.</p>
 <p>Malay/Muslim Singaporeans have made significant strides in education,
