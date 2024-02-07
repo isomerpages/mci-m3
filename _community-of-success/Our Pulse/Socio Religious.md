@@ -62,6 +62,18 @@ present and future challenges.</p>
 </li>
 </ol>
 <p>You may download the prospectus <a href="https://www.fatwaconference.sg/origin/wp-content/themes/muis-fatwaconference/assets/files/fatwa-in-contemporary-societies-2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
+<h3><strong>SalamSG Movement</strong></h3>
+<p>SalamSG Movement, abbreviated as SSGM, is a nationwide community movement
+driven by all mosques in Singapore with the aim of spreading good within
+and beyond the community. Imbued with SMI values, faith programmes and
+services are integrated with initiatives to increase charity and social
+resilience. This effort in shaping our religious life transcends physical
+mosques by growing Virtual Faithspaces, connecting the community with purposeful
+content suited for all, powered by Zakat to strengthen the community.</p>
+<p>Visit the <a href="https://muslim.sg/salamsg/aboutSalamSG" rel="noopener noreferrer nofollow" target="_blank">SalamSG</a> website
+for more information.</p>
+<p></p>
 <h3><strong>Related Content</strong></h3>
 <h3></h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.zakat.sg/zahid-yassin-an-embodiment-of-never-give-up" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/socio1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Zakat SG</div><div class="isomer-card-description">“I told myself that I was going to be independent and didn’t want to depend on anyone else.”, Zahid Yassin, a recipient of zakat, who perseveres through his adversities and condition. </div><div class="isomer-card-link">Read more on Zahid's story</div></div></a>
