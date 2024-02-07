@@ -27,6 +27,13 @@ launched its 'Raikan Ilmu' (Celebrate Knowledge) campaign, expanding it
 to a week. In 2019, MENDAKI, together with the support of community partners,
 transformed Raikan Ilmu into a month-long campaign of fun-filled activities
 for all.</p>
+<p></p>
+<h3><strong>Masyarakat Gemilang Conference</strong></h3>
+<p>Masyarakat Gemilang Conference a platform for community leaders, professionals,
+and youths to come together to discuss the issues faced by the community,
+to come up with fresh ideas, and recommit themselves to the continuing
+patient work that has helped the community to come so far.</p>
+<p></p>
 <h3><strong>Related Content</strong></h3>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.beritaharian.sg/setempat/skim-ttfs-bantu-dua-siswazah-capai-kejayaan-cemerlang" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/education1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Anugerah Cemerlang MENDAKI</div><div class="isomer-card-description">Musa Ahmad Dahlan, 28, attributes a large part of his academic success to MENDAKI’s support.</div><div class="isomer-card-link">Read more on Musa's story</div></div></a>
@@ -72,4 +79,5 @@ have been held on several housing estates to reach out to residents.</div>
 </div>
 </a>
 </div>
+<p></p>
 <p></p>
