@@ -4,9 +4,8 @@ permalink: /community-of-success/communityofsuccess/
 variant: tiptap
 description: ""
 ---
-<h3></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/about_us_collage.png">
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1kQQfVImyLk?si=GtThrkPTePKICN6H"></iframe>
 </div>
 <h3><strong>About Us</strong></h3>
 <p>Singapore’s Malay/Muslim community makes up about 15% of the total population.
