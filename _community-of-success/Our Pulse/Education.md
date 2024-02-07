@@ -27,7 +27,8 @@ launched its 'Raikan Ilmu' (Celebrate Knowledge) campaign, expanding it
 to a week. In 2019, MENDAKI, together with the support of community partners,
 transformed Raikan Ilmu into a month-long campaign of fun-filled activities
 for all.</p>
-<p></p>
+<p>Visit the <a href="https://www.mendaki.org.sg/raikanilmu/" rel="noopener noreferrer nofollow" target="_blank">Raikan Ilmu</a> website
+for more information.</p>
 <h3><strong>Masyarakat Gemilang Conference</strong></h3>
 <p>Masyarakat Gemilang Conference a platform for community leaders, professionals,
 and youths to come together to discuss the issues faced by the community,
