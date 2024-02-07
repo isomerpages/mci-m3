@@ -27,6 +27,9 @@ launched its 'Raikan Ilmu' (Celebrate Knowledge) campaign, expanding it
 to a week. In 2019, MENDAKI, together with the support of community partners,
 transformed Raikan Ilmu into a month-long campaign of fun-filled activities
 for all.</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-the-MENDAKI-40th-Anniversary-in-conjunction-with-Raikan-Ilmu-2022" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Yayasan MENDAKI 40th Anniversary Opening Speech by PM Lee Hsien Loong</div><div class="isomer-card-description">Speech by Prime Minister Lee Hsien Loong at the Yayasan MENDAKI 40th Anniversary Celebration in conjunction with Raikan Ilmu 2022 at NUS University Cultural Centre on 1 October 2022.</div><div class="isomer-card-link">Read More</div></div></a>
+</div>
 <p>Visit the <a href="https://www.mendaki.org.sg/raikanilmu/" rel="noopener noreferrer nofollow" target="_blank">Raikan Ilmu</a> website
 for more information.</p>
 <h3><strong>Masyarakat Gemilang Conference</strong></h3>
