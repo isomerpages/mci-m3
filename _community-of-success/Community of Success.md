@@ -50,7 +50,7 @@ religious guidance and Fatwas. The theme for 2024 is "Empowering Muslim
 Communities of the Future through Fatwas.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Masyarakat Gemilang Conference</div><div class="isomer-card-description">A platform for community leaders, professionals, and youths to come together to discuss the issues faced by the community, to come up with fresh ideas, and recommit themselves to the continuing patient work that has helped the community to come so far.</div><div class="isomer-card-link">Read More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.m3.gov.sg/community-of-success/our-pulse/education/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Masyarakat Gemilang Conference</div><div class="isomer-card-description">A platform for community leaders, professionals, and youths to come together to discuss the issues faced by the community, to come up with fresh ideas, and recommit themselves to the continuing patient work that has helped the community to come so far.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">SalamSG Movement</div>
@@ -60,7 +60,7 @@ and beyond the community.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">M3 Forum</div><div class="isomer-card-description">A half-day event organised to celebrate the efforts of volunteers and partners of M3. It serves as a platform for various stakeholders to network and share best practices to improve outreach and engagement to the Malay/Muslim community, and to encourage more collaborative partnerships.</div><div class="isomer-card-link">Read More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://www.m3.gov.sg/community-of-success/our-pulse/education/" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Raikan Ilmu</div>
 <div class="isomer-card-description">Organised by Yayasan MENDAKI, Raikan Ilmu is a flagship movement of the
