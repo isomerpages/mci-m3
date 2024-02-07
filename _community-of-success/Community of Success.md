@@ -54,8 +54,10 @@ Communities of the Future through Fatwas.</div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Masyarakat Gemilang Conference</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">SalamSG</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-title">SalamSG Movement</div>
+<div class="isomer-card-description">SalamSG Movement, abbreviated as SSGM, is a nationwide community movement
+driven by all mosques in Singapore with the aim of spreading good within
+and beyond the community.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">M3 Forum</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Read More</div></div></a>
@@ -65,6 +67,17 @@ Communities of the Future through Fatwas.</div>
 <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Wakaf Masyarakat Singapura</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Read More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Wakaf Masyarakat Singapura</div><div class="isomer-card-description">Wakaf Masyarakat Singapura (WMS) or Singapore Community Wakaf is an Islamic community endowment fund. It was introduced in June 2020 to fund the future needs of the Singapore Muslim community and its institutions in a sustainable manner.</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Bulan Bahasa (Malay Language Month)</div>
+<div class="isomer-card-description">First launched in 1988 by the Malay Language Council, Singapore, Bulan
+Bahasa encourages the Malay community to embrace the Malay language in
+their daily lives. Users of the Malay language are heirs of the rich Malay
+language, and can ensure the continuity of the language through continuous
+usage.</div>
+<div class="isomer-card-link">Read More</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Hari Warisan (Heritage Day)</div><div class="isomer-card-description">Organised by the Malay Heritage Foundation, it celebrates our cultural champions, welcome tomorrow’s cultural torchbearers and provide a rich platform for cultural dialogue between generations. 2024's theme "Era Then and Now" captures how Malay culture is a vibrant tapestry woven through time. </div><div class="isomer-card-link">Read More</div></div></a>
 </div>
 <p></p>
