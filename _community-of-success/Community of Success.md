@@ -39,3 +39,32 @@ vision of building a Muslim Community of Success that is underpinned by
 the 3Cs – good Character, strong Competency, and active Citizenry. These
 3Cs enable the community to be more confident, independent, and civic-minded
 to look beyond just ourselves, but also the people around us.</p>
+<h3><strong>Key Milestone Events</strong></h3>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">International Conference on Communities of Success (ICCOS)</div><div class="isomer-card-description">ICCOS is a platform for Muslim minority communities around the world to galvanise around a strong narrative of success. In the hope of sharing this vision on a global stage, ICCOS aims to serve as an exemplary model for Muslim communities in contemporary societies.</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Conference on Fatwa in Contemporary Societies 2024</div>
+<div class="isomer-card-description">In Singapore, the fatwa institution plays a pivotal role in shaping the
+socio-religious life of the Muslim community by offering solutions through
+religious guidance and Fatwas. The theme for 2024 is "Empowering Muslim
+Communities of the Future through Fatwas.</div>
+<div class="isomer-card-link">Read More</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Masyarakat Gemilang Conference</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">SalamSG</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">Read More</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">M3 Forum</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Raikan Ilmu</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">Read More</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Wakaf Masyarakat Singapura</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Read More</div></div></a>
+</div>
+<p></p>
