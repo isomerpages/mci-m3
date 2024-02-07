@@ -60,7 +60,7 @@ driven by all mosques in Singapore with the aim of spreading good within
 and beyond the community.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">M3 Forum</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Read More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">M3 Forum</div><div class="isomer-card-description">A half-day event organised to celebrate the efforts of volunteers and partners of M3. It serves as a platform for various stakeholders to network and share best practices to improve outreach and engagement to the Malay/Muslim community, and to encourage more collaborative partnerships.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Raikan Ilmu</div>
