@@ -15,7 +15,6 @@ community resilience, promoting interfaith understanding and nurturing
 a deep sense of religious identity and belonging. Such contributions are
 a testament to the MM community’s commitment to maintaining social and
 religious harmony in Singapore – a shining example of unity in diversity.</p>
-<p></p>
 <h3><strong>International Conference on Communities of Success (ICCOS)</strong></h3>
 <p>The first ICCOS was launched by Prime Minister Lee Hsien Loong on 9 September
 2022. In the hope of sharing this vision to the global stage, which can
@@ -29,6 +28,40 @@ Citizens, Dynamic Institutions”.</p>
 </div>
 <p>
 <br>The next edition of ICCOS will be held in October 2024.</p>
+<p></p>
+<h3><strong>Conference on Fatwa in Contemporary Societies</strong></h3>
+<p>The Conference on Fatwa in Contemporary Societies 2024 seeks to address
+the following key questions:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>How contextualised fatwas can cultivate intellectual and ethical empowerment in Muslims, facilitating their development into principled contributors of their communities and wider societies.</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>In particular, it will discuss the role of fatwas in shaping Muslim communities
+that embody universal values, guided by enduring principles, and can promote
+compassion and harmony. It seeks to discuss the evolving concept of fatwas
+in guiding Muslims to live effectively and confidently in facing contemporary
+challenges in plural societies.</p>
+<p></p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>How fatwa institutions can remain resilient and continue to facilitate the development of robust and comprehensive solutions for the Muslim community in addressing their evolving needs.</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>In particular, it will discuss developments within fatwa thinking and
+solutioning in adopting comprehensive, inclusive and collaborative approaches,
+to facilitate the understanding of complex contemporary issues, and development
+of nuanced and contextually relevant fatwas that empower Muslims to navigate
+present and future challenges.</p>
+</li>
+</ul>
+</li>
+</ol>
+<p>You may download the prospectus <a href="https://www.fatwaconference.sg/origin/wp-content/themes/muis-fatwaconference/assets/files/fatwa-in-contemporary-societies-2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h3><strong>Related Content</strong></h3>
 <h3></h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.zakat.sg/zahid-yassin-an-embodiment-of-never-give-up" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/socio1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Zakat SG</div><div class="isomer-card-description">“I told myself that I was going to be independent and didn’t want to depend on anyone else.”, Zahid Yassin, a recipient of zakat, who perseveres through his adversities and condition. </div><div class="isomer-card-link">Read more on Zahid's story</div></div></a>
