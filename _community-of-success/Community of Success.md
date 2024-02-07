@@ -51,7 +51,7 @@ religious guidance and Fatwas. The theme for 2024 is "Empowering Muslim
 Communities of the Future through Fatwas.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Masyarakat Gemilang Conference</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Read More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Masyarakat Gemilang Conference</div><div class="isomer-card-description">A platform for community leaders, professionals, and youths to come together to discuss the issues faced by the community, to come up with fresh ideas, and recommit themselves to the continuing patient work that has helped the community to come so far.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">SalamSG Movement</div>
@@ -78,6 +78,6 @@ language, and can ensure the continuity of the language through continuous
 usage.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Hari Warisan (Heritage Day)</div><div class="isomer-card-description">Organised by the Malay Heritage Foundation, it celebrates our cultural champions, welcome tomorrow’s cultural torchbearers and provide a rich platform for cultural dialogue between generations. 2024's theme "Era Then and Now" captures how Malay culture is a vibrant tapestry woven through time. </div><div class="isomer-card-link">Read More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Hari Warisan (Heritage Day)</div><div class="isomer-card-description">Organised by the Malay Heritage Foundation, it celebrates our cultural champions, welcome tomorrow’s cultural torchbearers and provide a rich platform for cultural dialogue between generations. 2024's theme "Era Then and Now" captures how Malay culture is a vibrant tapestry woven through time.</div><div class="isomer-card-link">Read More</div></div></a>
 </div>
 <p></p>
