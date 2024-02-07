@@ -64,7 +64,9 @@ and beyond the community.</div>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Raikan Ilmu</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-description">Organised by Yayasan MENDAKI, Raikan Ilmu is a flagship movement of the
+Malay/Muslim community to celebrate knowledge and embrace lifelong learning
+as part of our culture.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Wakaf Masyarakat Singapura</div><div class="isomer-card-description">Wakaf Masyarakat Singapura (WMS) or Singapore Community Wakaf is an Islamic community endowment fund. It was introduced in June 2020 to fund the future needs of the Singapore Muslim community and its institutions in a sustainable manner.</div><div class="isomer-card-link">Read More</div></div></a>
