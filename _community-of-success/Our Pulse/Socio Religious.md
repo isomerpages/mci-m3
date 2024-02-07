@@ -8,7 +8,7 @@ third_nav_title: Our Pulse
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Socio_religious.png">
 </div>
-<h3><strong>Socio-Religious</strong></h3>
+<h2><strong>Socio-Religious</strong></h2>
 <p>A Malay/Muslim community bound by strong spiritual resilience and togetherness.</p>
 <p>Singaporean Malay/Muslims have always played a pivotal role in fostering
 community resilience, promoting interfaith understanding and nurturing
