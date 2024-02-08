@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1kQQfVImyLk?si=Z3MPptt4SD1j9dmU"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1kQQfVImyLk?si=Z3MPptt4SD1j9dmU"></iframe>
 </div>
 <h3><strong>About Us</strong></h3>
 <p>Singapore’s Malay/Muslim community makes up about 15% of the total population.
