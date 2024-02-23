@@ -104,5 +104,5 @@ event. </div>
 </div>
 </a>
 </div>
-<h3><a href="https://staging-mci-m3.netlify.app/community-of-success/language-and-culture/" class="is-half is-left" rel="noopener noreferrer nofollow" target="_blank"><br></a></h3>
+<h3><a href="/community-of-success/language-and-culture/" class="is-half is-left" rel="noopener noreferrer nofollow" target="_blank"><br></a></h3>
 <p></p>
