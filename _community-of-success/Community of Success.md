@@ -40,8 +40,13 @@ the 3Cs – good Character, strong Competency, and active Citizenry. These
 to look beyond just ourselves, but also the people around us.</p>
 <h3><strong>Key Milestone Events</strong></h3>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.m3.gov.sg/community-of-success/our-pulse/socio-religious/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">International Conference on Communities of Success (ICCOS)</div><div class="isomer-card-description">ICCOS is a platform for Muslim minority communities around the world to galvanise around a strong narrative of success. In the hope of sharing this vision on a global stage, ICCOS aims to serve as an exemplary model for Muslim communities in contemporary societies.</div><div class="isomer-card-link">Read More</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.m3.gov.sg/community-of-success/our-pulse/socio-religious/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="iccos" src="/images/iccos.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">International Conference on Communities of Success (ICCOS)</div><div class="isomer-card-description">ICCOS is a platform for Muslim minority communities around the world to galvanise around a strong narrative of success. In the hope of sharing this vision on a global stage, ICCOS aims to serve as an exemplary model for Muslim communities in contemporary societies.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.m3.gov.sg/community-of-success/our-pulse/socio-religious/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="fatwa" src="/images/fatwa.jpg">
+</div>
+</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Conference on Fatwa in Contemporary Societies 2024</div>
 <div class="isomer-card-description">In Singapore, the fatwa institution plays a pivotal role in shaping the
@@ -50,8 +55,13 @@ religious guidance and Fatwas. The theme for 2024 is "Empowering Muslim
 Communities of the Future through Fatwas.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.m3.gov.sg/community-of-success/our-pulse/education/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Masyarakat Gemilang Conference</div><div class="isomer-card-description">A platform for community leaders, professionals, and youths to come together to discuss the issues faced by the community, to come up with fresh ideas, and recommit themselves to the continuing patient work that has helped the community to come so far.</div><div class="isomer-card-link">Read More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.m3.gov.sg/community-of-success/our-pulse/education/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="masyarakat gemilang conference" src="/images/masyarakat_gemilang_conference.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Masyarakat Gemilang Conference</div><div class="isomer-card-description">A platform for community leaders, professionals, and youths to come together to discuss the issues faced by the community, to come up with fresh ideas, and recommit themselves to the continuing patient work that has helped the community to come so far.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.m3.gov.sg/community-of-success/our-pulse/socio-religious/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SSGM" src="/images/salamsg.jpg">
+</div>
+</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">SalamSG Movement</div>
 <div class="isomer-card-description">SalamSG Movement, abbreviated as SSGM, is a nationwide community movement
@@ -59,8 +69,13 @@ driven by all mosques in Singapore with the aim of spreading good within
 and beyond the community.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.m3.gov.sg/community-of-success/our-pulse/education/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">M3 Forum</div><div class="isomer-card-description">A half-day event organised to celebrate the efforts of volunteers and partners of M3. It serves as a platform for various stakeholders to network and share best practices to improve outreach and engagement to the Malay/Muslim community, and to encourage more collaborative partnerships.</div><div class="isomer-card-link">Read More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.m3.gov.sg/community-of-success/our-pulse/education/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="m3forum" src="/images/m3forum.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">M3 Forum</div><div class="isomer-card-description">A half-day event organised to celebrate the efforts of volunteers and partners of M3. It serves as a platform for various stakeholders to network and share best practices to improve outreach and engagement to the Malay/Muslim community, and to encourage more collaborative partnerships.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.m3.gov.sg/community-of-success/our-pulse/education/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="RI" src="/images/raikan_ilmu.jpg">
+</div>
+</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Raikan Ilmu</div>
 <div class="isomer-card-description">Organised by Yayasan MENDAKI, Raikan Ilmu is a flagship movement of the
@@ -68,8 +83,13 @@ Malay/Muslim community to celebrate knowledge and embrace lifelong learning
 as part of our culture.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.m3.gov.sg/community-of-success/our-pulse/socio-religious/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Wakaf Masyarakat Singapura</div><div class="isomer-card-description">Wakaf Masyarakat Singapura (WMS) or Singapore Community Wakaf is an Islamic community endowment fund. It was introduced in June 2020 to fund the future needs of the Singapore Muslim community and its institutions in a sustainable manner.</div><div class="isomer-card-link">Read More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.m3.gov.sg/community-of-success/our-pulse/socio-religious/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="wms" src="/images/wms.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Wakaf Masyarakat Singapura</div><div class="isomer-card-description">Wakaf Masyarakat Singapura (WMS) or Singapore Community Wakaf is an Islamic community endowment fund. It was introduced in June 2020 to fund the future needs of the Singapore Muslim community and its institutions in a sustainable manner.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.m3.gov.sg/community-of-success/our-pulse/language-and-culture/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="BB" src="/images/bulan_bahasa.jpg">
+</div>
+</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Bulan Bahasa (Malay Language Month)</div>
 <div class="isomer-card-description">First launched in 1988 by the Malay Language Council, Singapore, Bulan
@@ -79,6 +99,6 @@ language, and can ensure the continuity of the language through continuous
 usage.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.m3.gov.sg/community-of-success/our-pulse/language-and-culture/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Hari Warisan (Heritage Day)</div><div class="isomer-card-description">Organised by the Malay Heritage Foundation, it celebrates our cultural champions, welcome tomorrow’s cultural torchbearers and provide a rich platform for cultural dialogue between generations. 2024's theme "Era Then and Now" captures how Malay culture is a vibrant tapestry woven through time.</div><div class="isomer-card-link">Read More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.m3.gov.sg/community-of-success/our-pulse/language-and-culture/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="hariwarisan" src="/images/hari_warisan.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Hari Warisan (Heritage Day)</div><div class="isomer-card-description">Organised by the Malay Heritage Foundation, it celebrates our cultural champions, welcome tomorrow’s cultural torchbearers and provide a rich platform for cultural dialogue between generations. 2024's theme "Era Then and Now" captures how Malay culture is a vibrant tapestry woven through time.</div><div class="isomer-card-link">Read More</div></div></a>
 </div>
 <p></p>
