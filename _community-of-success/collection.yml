@@ -1,0 +1,27 @@
+collections:
+  community-of-success:
+    output: true
+    order:
+      - Community of Success.md
+      - Our Pulse/.keep
+      - Our Pulse/Language & Culture.md
+      - Our Pulse/Education.md
+      - Our Pulse/Socio Religious.md
+      - Our Pulse/Social & Health Development.md
+      - Our Pulse/Arts & Sports.md
+      - News Gallery/2024.md
+      - News Gallery/.keep
+      - News Gallery/2023.md
+      - News Gallery/2022.md
+      - News Gallery/2021.md
+      - News Gallery/2020.md
+      - News Gallery/2019.md
+      - News Gallery/2018.md
+      - InspirasiSG/.keep
+      - InspirasiSG/InspirasiSG.md
+      - InspirasiSG/InspirasiSG Stories.md
+      - SGTeguhBersatu/.keep
+      - SGTeguhBersatu/SGTeguhBersatu.md
+      - SGTeguhBersatu/SGTeguhBersatu Taskforce Members.md
+      - SGTeguhBersatu/SGTeguhBersatu Initiatives.md
+      - CiptaSama@M³.md

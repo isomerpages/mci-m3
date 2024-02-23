@@ -1,15 +1,18 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/m3-logo-horizontal.svg
 links:
+  - title: Community of Success
+    collection: community-of-success
+  - title: Who we are
+    collection: who-we-are
+  - title: Focus Areas
+    collection: focus-areas
+  - title: M³@Towns
+    collection: m3-towns
+  - title: Useful links
+    collection: useful-links
+  - title: Media Centre
+    resource_room: true
+  - title: Be A Volunteer!
+    url: /volunteer-m3/
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
