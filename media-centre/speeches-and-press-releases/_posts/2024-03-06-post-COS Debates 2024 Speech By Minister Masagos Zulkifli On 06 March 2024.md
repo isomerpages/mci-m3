@@ -7,3 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<h4><strong>Committee Of Supply Debates 2024 Speech By Minister-In-Charge Of Muslim Affairs, Minister For Social And Family Development, Second Minister For Health Masagos Zulkifli</strong></h4>
+<p></p>
+<p></p>
+<p></p>
