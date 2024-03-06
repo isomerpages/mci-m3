@@ -75,12 +75,13 @@ world stage.</p>
 mesti terus memastikan dasar institusi-institusi agama kekal kukuh. Dengan
 itu, institusi agama dapat memberikan asas moral bagi masyarakat kita berkembang
 maju dalam sektor ekonomi. &nbsp;&nbsp;</p>
-<p><em>&nbsp;</em>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">Dr Syed Harun bertanya bagaimana Muis boleh terus menyokong keperluan masa depan masyarakat kita. </a>Muis
-menubuhkan Wakaf Masyarakat Singapura atau WMS untuk menjana aliran dana
-yang mampan bagi menyokong pelbagai keperluan agama masyarakat pada masa
-hadapan, untuk generasi sekarang dan akan datang. Ini termasuk mendana
-keperluan masjid, membina keupayaan asatizah dan menyokong program kemasyarakatan
-yang lain.&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p><em>&nbsp;</em>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dr Syed
+Harun bertanya bagaimana Muis boleh terus menyokong keperluan masa depan
+masyarakat kita. Muis menubuhkan Wakaf Masyarakat Singapura atau WMS untuk
+menjana aliran dana yang mampan bagi menyokong pelbagai keperluan agama
+masyarakat pada masa hadapan, untuk generasi sekarang dan akan datang.
+Ini termasuk mendana keperluan masjid, membina keupayaan asatizah dan menyokong
+program kemasyarakatan yang lain.&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>&nbsp;10<strong>.</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Encik Sharael Taha</strong> dan <strong>Encik Zhulkarnain</strong> bertanya
 tentang rancangan untuk membina korpus WMS. Di bawah ‘Pelan Pelaburan Wakaf
 Masjid’, masjid melaburkan rizab mereka dalam produk pelaburan yang mematuhi
@@ -117,8 +118,9 @@ dan berbakat.</p>
 <p>&nbsp;14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kedua, penting bagi para
 pemimpin agama dan masyarakat kita untuk terus dibekalkan dengan ilmu,
 kemahiran dan pengalaman supaya cekap memberi bimbingan masyarakat kita
-mengharungi cabaran-cabaran mendatang. <a rel="noopener noreferrer nofollow" target="_blank">Ini termasuk membangunkan kecekapan pelajar madrasah kita yang bakal menjadi pemimpin masyarakat kelak, seperti yang dikatakan </a><strong><a rel="noopener noreferrer nofollow" target="_blank">Dr Syed Harun.</a></strong>
-</p>
+mengharungi cabaran-cabaran mendatang. Ini termasuk membangunkan kecekapan
+pelajar madrasah kita yang bakal menjadi pemimpin masyarakat kelak, seperti
+yang dikatakan Dr Syed Harun.</p>
 <p>&nbsp;15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sejak beberapa tahun lalu,
 barisan asatizah kita telah membimbing masyarakat menghadapi isu-isu yang
 rumit, seperti pemakaian tudung dan pemansuhan Kanun Jenayah Seksyen 377A.</p>
