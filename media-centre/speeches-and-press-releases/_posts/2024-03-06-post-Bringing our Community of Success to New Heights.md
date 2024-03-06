@@ -30,11 +30,11 @@ supported by M3, which marshals the strengths and resources of three institution
 the needs and aspirations of our community.</p>
 <p>&nbsp;3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It has been about
 five years since M³ was set up. <strong>Mr Saktiandi Supaat,</strong>  <strong>Dr Syed Harun </strong>and <strong>Mr Faisal Manap</strong> asked
-about the progress and outcomes of M3. Through a more culturally nuanced
+about the progress and outcomes of M³. Through a more culturally nuanced
 approach that complements national efforts, we have been able to provide
 impactful programmes for the community. For example, through the Bersamamu
-programme, more than 26,000 couples have been supported by Kadi and Naib
-Kadi or Muslim solemnisers to build stronger marriages. To <strong>Dr Syed Harun</strong>’s
+programme, more than 26,000 couples have been supported by the Kadi and
+Naib Kadi or Muslim solemnisers to build stronger marriages. To <strong>Dr Syed Harun</strong>’s
 query, the number of new Malay drug abusers arrested has fallen from 513
 in 2013, to 351 in 2023. The 2-year recidivism rate for Malay offenders
 has also improved over the past decade from 34.7% for the 2011 release
@@ -58,7 +58,7 @@ some of the key issues faced by our community.</p>
 </p>
 <p>&nbsp;6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How can we take
 our Community of Success to greater heights?&nbsp; I believe this lies
-in a <strong>continued spirit of Citizenry, where we support one another to create a bright future for our community and for Singapore</strong>,
+in a <strong>continued spirit of Citizenry, where we support one another to create a brighter future for our community and for Singapore</strong>,
 which my colleagues and I will speak more about today.</p>
 <p>&nbsp;7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I will first
 share three strategies to fortify our Community of Success:</p>
@@ -83,12 +83,13 @@ masyarakat pada masa hadapan, untuk generasi sekarang dan akan datang.
 Ini termasuk mendana keperluan masjid, membina keupayaan asatizah dan menyokong
 program kemasyarakatan yang lain.&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>&nbsp;10<strong>.</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Encik Sharael Taha</strong> dan <strong>Encik Zhulkarnain</strong> bertanya
-tentang rancangan untuk membina korpus WMS. Di bawah ‘Pelan Pelaburan Wakaf
-Masjid’, masjid melaburkan rizab mereka dalam produk pelaburan yang mematuhi
-syariah untuk menghasilkan pulangan yang lebih baik. Sejauh ini, sebanyak
-14 masjid di daerah barat telah melabur lebih $2.7 juta. Muis akan meluaskan
-inisiatif ini kepada semua masjid di daerah lain supaya bersama-sama mereka
-dapat menghasilkan dana yang lebih baik, untuk manfaat masyarakat.&nbsp;&nbsp;&nbsp;&nbsp;</p>
+tentang rancangan untuk membina korpus WMS atau dana pokoknya. Di bawah
+‘Pelan Pelaburan Wakaf Masjid’, masjid melaburkan rizab mereka dalam produk
+pelaburan yang mematuhi syariah untuk menghasilkan pulangan yang lebih
+baik. Sejauh ini, sebanyak 14 masjid di daerah barat telah melabur lebih
+$2.7 juta. Muis akan meluaskan inisiatif ini kepada semua masjid di daerah
+lain supaya bersama-sama mereka dapat menghasilkan dana yang lebih baik,
+untuk manfaat masyarakat.&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>&nbsp;11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Walaupun budaya bergotong
 royong amat sebati dengan masyarakat, kita perlu lebih teratur dan terarah
 dalam melipatgandakan usaha untuk menggalak masyarakat mempertingkat sumbangan
@@ -97,44 +98,50 @@ atas saranan beliau untuk menggalakkan lebih ramai menubuhkan dan menyumbang
 kepada wakaf. Kami akan bekerjasama dengan agensi-agensi yang berkaitan
 untuk mengkaji cadangannya. Menjawab pertanyaan <strong>Encik Sharael Taha</strong> dan <strong>Encik Zhulkarnain,</strong> Muis
 telah memulakan satu inisiatif pendidikan awam untuk melengkapkan masyarakat
-dengan pengetahuan dan alat-alat perancangan harta warisan bagi keperluan
-peribadi dan keluarga. Mereka dapat merancang dan menyumbang rezeki serta
-harta kekayaan lebihan kepada WMS, demi kebaikan masyarakat dan pulangan
-pahala yang berkekalan, InsyaAllah.</p>
+dengan pengetahuan dan alat-alat perancangan harta warisan atau 'financial
+planning' bagi keperluan peribadi dan keluarga. Mereka dapat merancang
+dan menyumbang rezeki serta harta kekayaan lebihan kepada WMS, demi kebaikan
+masyarakat dan pulangan pahala yang berkekalan, InsyaAllah.</p>
 <p>&nbsp;12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Syukur, sejak tahun lalu,
 Muis telah menerima ikrar kepada WMS bernilai lebih $3.6 juta daripada
 orang perseorangan selain pelaburan masjid-masjid. Saya gembira dengan
 sambutan masyarakat setakat ini, dan menggalak lebih ramai untuk menyumbang
-kepada WMS.</p>
-<p>&nbsp;13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Saya harap sumbangan kepada
-WMS akan juga memupuk budaya menyumbang yang lebih mendalam dalam masyarakat
-kita. SMS Zaqy akan menjelaskan bagaimana kita boleh memperkasa masyarakat
-melalui inisiatif MENDAKI, dan dengan kejayaan yang dicapai, kita bersemangat
-untuk menyumbang kembali. SPS Rahayu pula akan berkongsi cara memanfaatkan
-pelbagai peluang untuk menabur bakti menerusi M³ sebagai masyarakat terdidik
-dan berbakat.</p>
+atau berikrar kepada WMS.</p>
+<p>&nbsp;13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Encik Faisal Manap bertanya
+tentang penggunaan Dana Pembinaan Masjid dan MENDAKI ( (MBMF)). Dana Pembinaan
+Masjid menyediakan peruntukan bagi pembangunan semua masjid, termasuk pembinaan,
+peningkatan dan penyenggaraan, di mana peruntukan dana itu bergantung kepada
+keperluan khusus setiap masjid. Bagi semua masjid baru, semua kos tanah
+dan pembangunan dibiayai MBMF. MBMF juga boleh menampung sehingga 75 peratus
+kos peningkatan masjid.</p>
+<p>14. Saya harap sumbangan kepada WMS akan juga memupuk budaya menyumbang
+yang lebih mendalam dalam masyarakat kita. SMS Zaqy akan menjelaskan bagaimana
+kita boleh memperkasa masyarakat melalui inisiatif MENDAKI, dan dengan
+kejayaan yang kita dicapai, kita bersemangat untuk menyumbang kembali.
+SPS Rahayu pula akan berkongsi cara memanfaatkan pelbagai peluang untuk
+menabur bakti menerusi M³ sebagai masyarakat yang terdidik dan berbakat.</p>
 <p><strong>&nbsp;Memperkasa barisan pemimpin agama dan masyarakat yang yakin menghadapi cabaran kontemporari</strong>
 </p>
-<p>&nbsp;14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kedua, penting bagi para
+<p>&nbsp;15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kedua, penting bagi para
 pemimpin agama dan masyarakat kita untuk terus dibekalkan dengan ilmu,
-kemahiran dan pengalaman supaya cekap memberi bimbingan masyarakat kita
-mengharungi cabaran-cabaran mendatang. Ini termasuk membangunkan kecekapan
-pelajar madrasah kita yang bakal menjadi pemimpin masyarakat kelak, seperti
-yang dikatakan Dr Syed Harun.</p>
-<p>&nbsp;15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sejak beberapa tahun lalu,
+kemahiran dan pengalaman supaya cekap memberi bimbingan kepada masyarakat
+kita mengharungi cabaran-cabaran mendatang. Ini termasuk membangunkan kecekapan
+pelajar madrasah kita yang bakal menjadi pemimpin agama masyarakat kelak,
+seperti yang dikatakan Dr Syed Harun tadi.</p>
+<p>&nbsp;16.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sejak beberapa tahun lalu,
 barisan asatizah kita telah membimbing masyarakat menghadapi isu-isu yang
 rumit, seperti pemakaian tudung dan pemansuhan Kanun Jenayah Seksyen 377A.</p>
 <p>&nbsp;<em>Membangunkan gedung-gedung ilmu selaras dengan konteks setempat</em>
 </p>
-<p><em>&nbsp;</em>16<strong>.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cik Nadia Samdin</strong> bertanya
+<p><em>&nbsp;</em>17<strong>.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cik Nadia Samdin</strong> bertanya
 tentang rancangan untuk memperkasa asatizah membimbing masyarakat menghadapi
 isu-isu kontemporari.</p>
-<p>&nbsp;17.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sebagai masyarakat Islam
+<p>&nbsp;18.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sebagai masyarakat Islam
 minoriti, kita menghadapi cabaran yang berbeza jika dibandingkan dengan
 negara-negara majoriti Islam. Dalam hal ini, saya bersetuju dengan <strong>Dr Syed Harun</strong> bahawa
 Muis dan asatizah kita mesti menampilkan kepimpinan dan bimbingan yang
 jelas bagi masyarakat Islam minoriti kita yang hidup dalam konteks kontemporari.</p>
-<p>&nbsp;18.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Muis telah mengambil usaha
+<p>&nbsp;19.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Muis telah mengambil usaha
 bersepadu dalam membangunkan gedung-gedung ilmu, dan satu usaha baru-baru
 ini ialah Persidangan Fatwa dalam Masyarakat Kontemporari bulan lalu. Para
 cendekiawan agama ulung dari dalam dan luar negara membincangkan kepentingan
@@ -148,7 +155,7 @@ unik masing-masing. Malah ia dapat memupuk semangat kewarganegaraan yang
 aktif dalam masyarakatnya. Ini sejajar dengan kata-kata mutiara yang dikongsi
 Mufti Besar Mesir di Persidangan Fatwa bahawa masyarakat Islam minoriti
 perlu mencernakan konsep kewarga-negaraan.</p>
-<p>&nbsp;19.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bagi terus meningkatkan
+<p>&nbsp;20.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bagi terus meningkatkan
 pembangunan para pemimpin agama kita dan pembinaan gedung-gedung ilmu yang
 bertepatan dengan konteks, Muis akan menganjurkan edisi kedua Persidangan
 Antarabangsa Masyarakat Gemilang (ICCOS) Oktober ini. Persidangan ini akan
@@ -157,10 +164,10 @@ yang berpandukan nilai-nilai agama, dan menyumbang kepada pembinaan gedung-gedun
 ilmu mengenai masyarakat Islam minoriti yang maju dalam masyarakat majmuk.</p>
 <p><em>&nbsp;Membina Keupayaan untuk Menyokong Masyarakat</em>
 </p>
-<p>&nbsp;20.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dalam masa yang sama, kita
+<p>&nbsp;21.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dalam masa yang sama, kita
 juga harus mempertingkatkan keupayaan para pemimpin masyarakat kita untuk
 membantu keluarga dan masyarakat dengan lebih berkesan.</p>
-<p>&nbsp;21<strong>.</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Encik Fahmi Aliman</strong> bertanya
+<p>&nbsp;22<strong>.</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Encik Fahmi Aliman</strong> bertanya
 tentang usaha untuk mempertingkatkan kemahiran para Kadi, Naib Kadi dan
 asatizah wanita kita dalam program Bersamamu. Lebih 90% daripada mereka
 telah menjalani latihan untuk membimbing pasangan dengan lebih baik dalam
@@ -168,16 +175,16 @@ membuat persediaan bagi memperkukuh kewangan rumah tangga. Ini membantu
 mereka membina keyakinan dan empati dalam membimbing pasangan. Kami akan
 membangunkan kemahiran mereka dalam bidang lain, supaya mereka boleh memberi
 sokongan yang lebih berkesan kepada para pasangan.</p>
-<p>&nbsp;22.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kami bakal menyambut ulang
+<p>&nbsp;23.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kami bakal menyambut ulang
 tahun Bersamamu yang ke lima lewat tahun ini. Program Bersamamu tidak mungkin
 berjaya tanpa usaha gigih para Kadi, Naib Kadi dan asatizah wanita kita.</p>
 <p>&nbsp;<strong>Demonstrating Citizenry on the World Stage</strong>
 </p>
-<p>&nbsp;23.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Chairman, as a Community
+<p>&nbsp;24.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Chairman, as a Community
 of Success, we take pride not only in actively contributing to society.
 We also can demonstrate active citizenry on the world stage and bring distinction
 to our minority Muslim community and to Singapore.</p>
-<p>&nbsp;24.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Last year, Singapore signed
+<p>&nbsp;25.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Last year, Singapore signed
 our first Memorandum of Understanding (MoU) to mutually&nbsp;recognise&nbsp;halal
 certificates with Saudi Arabia. Such MoUs not only allow for halal-certified
 products from other countries to enter Singapore, but for Singapore companies
@@ -185,22 +192,22 @@ to bring their halal-certified products overseas. To Mr Zhulkarnain’s query,
 Muis works with our economic agencies to do so. Muis will also explore
 opportunities for our asatizah to be involved in halal-related industries.
 &nbsp;</p>
-<p>25.<strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Zhulkarnain</strong> also
+<p>26.<strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Zhulkarnain</strong> also
 asked about the significance of this MoU for our minority Muslim community.
 The MoU with Saudi Arabia is the first MoU they have signed with a country
 where Muslims are not the majority. This reflects the strong trust and
 confidence in our halal standards. More than just expanding business prospects,
 the MoU has enabled Singapore’s minority Muslim community to stand tall
 in the world.</p>
-<p>&nbsp;26.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I was glad to join some
+<p>&nbsp;27.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I was glad to join some
 Singapore business leaders to explore opportunities in Saudi Arabia in
 January. One of them was Mr Jimmy Soh, Managing Director of Growers Agri
 which exports rice and noodles, who shared with me that the MoU was a valuable
 commitment in promoting Singapore brands to the world.</p>
-<p>&nbsp;27.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Beyond the MoU with Saudi
+<p>&nbsp;28.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Beyond the MoU with Saudi
 Arabia, Muis has signed similar MoUs with the United Arab Emirates and
 Jordan, and are looking to do the same with other countries.</p>
-<p>&nbsp;28.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Beyond efforts to strengthen
+<p>&nbsp;29.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Beyond efforts to strengthen
 halal cooperation, our minority Muslim community also contributes at the
 global stage, with how our religious leaders and institutions are internationally
 recognised for their thought leadership. Our Mufti Dr Nazirudin was recently
@@ -213,7 +220,7 @@ inspire other communities and pave the way for fostering peace and harmony
 globally.</p>
 <p><strong>&nbsp;Conclusion</strong>
 </p>
-<p>&nbsp;29.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Chairman, as a community
+<p>&nbsp;30.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Chairman, as a community
 that has done well, it is our mutual responsibility to contribute both
 within our community and to wider society, as well as beyond our shores.
 It is when every one of us does our part as active citizens, that we can
@@ -256,33 +263,39 @@ God-willing.</p>
 mosques, Muis has received more than $3.6 million in WMS pledges from individuals
 since last year. I am heartened by the community’s response, and encourage
 more to contribute.</p>
-<p>&nbsp;13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I hope that contributions
-to WMS will help to foster a stronger culture of giving back within our
-community. SMS Zaqy will elaborate on how we can empower our community
-through MENDAKI’s initiatives, and with the success achieved, we can contribute
-more actively. SPS Rahayu will share ways we can leverage opportunities
-for contribution through M3 as an educated and talented community.</p>
+<p>&nbsp;13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Faisal Manap asked about
+the use of MBMF for our mosques. The Mosque Building Fund provides for
+the development of all mosques, including building, upgrading and maintenance,
+where the funds are subject to the specific needs of each mosque. For all
+new mosques, all land and building cost come from MBMF. MBMF also supports
+up to 75% of the approved cost for mosque upgrading.</p>
+<p>14. I hope that contributions to WMS will help to foster a stronger culture
+of giving back within our community. SMS Zaqy will elaborate on how we
+can empower our community through MENDAKI’s initiatives, and with the success
+achieved, we can contribute more actively. SPS Rahayu will share ways we
+can leverage opportunities for contribution through M3 as an educated and
+talented community.</p>
 <p>&nbsp;<strong>Empowering confident religious and community leaders to face contemporary challenges</strong>
 </p>
-<p>&nbsp;14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Second, it is critical for
+<p>&nbsp;15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Second, it is critical for
 our religious and community leaders to continue to have the knowledge,
 skills and opportunities so that they are competent in guiding our community
 navigate the challenges ahead. This includes developing our madrasah students
 who will be our future religious leaders, as Dr Syed Harun mentioned.</p>
-<p>&nbsp;15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In recent years, our asatizah
+<p>&nbsp;16.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In recent years, our asatizah
 have guided the community through difficult issues, such as the wearing
 of the tudung and the repeal of Section 377A of the Penal Code.</p>
 <p>&nbsp;<em>Grow Contextualised Bodies of Knowledge</em>
 </p>
-<p>&nbsp;16.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Ms Nadia</strong>  <strong>Samdin</strong> asked
+<p>&nbsp;17.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Ms Nadia</strong>  <strong>Samdin</strong> asked
 about our plans to empower our asatizah to guide the community through
 contemporary issues. &nbsp;</p>
-<p>&nbsp;17.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As a minority Muslim community,
+<p>&nbsp;18.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As a minority Muslim community,
 we face a different set of challenges compared to Muslim majority countries.
 In this regard, I agree with <strong>Dr Syed Harun</strong> that Muis and
 our asatizah must provide clear leadership and guidance for our minority
 Muslim community living in such a contemporary context. &nbsp;</p>
-<p>&nbsp;18.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Muis has taken concerted
+<p>&nbsp;19.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Muis has taken concerted
 efforts in this area, and one recent initiative is the Fatwa in Contemporary
 Societies Conference held last month. Eminent religious scholars from around
 the world came together to discuss the importance of the fatwa institution
@@ -294,7 +307,7 @@ only facilitate minority Muslims to thrive in their respective contexts,
 but nurture active citizenry in society. This is in line with the words
 of wisdom by the Grand Mufti of Egypt at the Fatwa Conference that minority
 Muslim communities should embody and exemplify the spirit of active citizenry.</p>
-<p>&nbsp;19.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To further drive the development
+<p>&nbsp;20.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To further drive the development
 of our religious leaders and contextualised bodies of knowledge, Muis will
 convene the second edition of the International Conference on Communities
 of Success (ICCOS) this October. This Conference will focus on how citizenry
@@ -303,17 +316,17 @@ the body of knowledge of how minority Muslim communities can thrive in
 multireligious societies.</p>
 <p>&nbsp;<em>Build Capabilities for Community Support</em>
 </p>
-<p>&nbsp;20.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; At the same time, we must
+<p>&nbsp;21.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; At the same time, we must
 also raise the capabilities of our community leaders to offer effective
 support to families and the community.</p>
-<p>&nbsp;21.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Mr Fahmi Aliman</strong> asked
+<p>&nbsp;22.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Mr Fahmi Aliman</strong> asked
 about our efforts to strengthen the competencies of our Kadi, Naib Kadi
 and female asatizah on the Bersamamu programme. More than 90% of them have
 undergone training to better guide couples in conversations on financial
 preparedness for marriage, which helped them be more confident and empathetic
 in guiding couples. We will further develop their competencies in other
 areas, so that they can provide more effective support to couples.</p>
-<p>&nbsp;22.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We will be commemorating
+<p>&nbsp;23.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We will be commemorating
 the 5th anniversary of Bersamamu later this year. The success of Bersamamu
 would not have been possible without the tireless efforts of our volunteer
 Kadi, Naib Kadi and female asatizah.</p>
