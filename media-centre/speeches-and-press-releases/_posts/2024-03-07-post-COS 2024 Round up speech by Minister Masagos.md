@@ -89,11 +89,12 @@ and contribute generously.</p>
 <p>5. The crisis may well be prolonged, and we do not know what will unfold
 in the coming days. But we must continue to stand together, and strengthen
 the unity that we share. I am heartened that even during such a trying
-time, our community continues to embody the spirit of citizenry – contributing
-to dialogue, giving generously to humanitarian aid, expressing solidarity
-with one another. As we welcome the blessed month of Ramadan next week,
-let us also intensify our prayers for peace and protection - not only for
-the people in Gaza, but also elsewhere in the world and here at home.</p>
+time, our community continues to embody the spirit of citizenry, the Singaporean
+way – contributing to dialogue, giving generously to humanitarian aid,
+expressing solidarity with one another. As we welcome the blessed month
+of Ramadan next week, let us also intensify our prayers for peace and protection
+- not only for the people in Gaza, but also elsewhere in the world and
+here at home.</p>
 <p>6. In conclusion, I would like to thank Members for your support and suggestions
 on how we can continue to deepen our citizenry and grow a culture of contribution.
 By working together with our community partners, I am confident that we
