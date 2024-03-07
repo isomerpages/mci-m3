@@ -7,15 +7,12 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h3><strong>COMMITTEE OF SUPPLY DEBATES 2024 SPEECH BY SENIOR PARLIAMENTARY SECRETARY,</strong></h3>
-<h3><strong>MINISTRY OF HEALTH &amp; MINISTRY OF LAW</strong></h3>
-<h3><strong>RAHAYU MAHZAM</strong></h3>
+<h3><strong>COMMITTEE OF SUPPLY DEBATES 2024 SPEECH BY SENIOR PARLIAMENTARY SECRETARY, MINISTRY OF HEALTH &amp; MINISTRY OF LAW RAHAYU MAHZAM</strong></h3>
 <p><strong><em>Nurturing a Culture of Giving for the Future</em></strong>
 </p>
 <p>&nbsp;Mr Chairman,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p><strong>Introduction</strong>
 </p>
-<p></p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Over
 the last five years, we have worked hand-in-hand with our Malay/Muslim
 organisations to build up the M³ network. The structures we have in place
@@ -23,7 +20,7 @@ have enabled us to deal head on with various needs of our community, while
 complementing the Government’s efforts at the national level.</p>
 <p>&nbsp;2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 A sense of Citizenry has been at the heart of what M³ has accomplished
-so far. Entrenched within is the culture of giving which will continue
+so far. Entrenched within it the culture of giving which will continue
 to be integral to our Community of Success.</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We
 have established a strong foundation for contribution through M³. I will
@@ -44,7 +41,7 @@ pass it on, creating a virtuous cycle of giving.&nbsp;</p>
 create a thriving mentoring culture in the Malay/Muslim community, we set
 up the Youth Mentoring Office, or YMO under MENDAKI, in 2019. Since then,
 YMO has trained and deployed over 1,600 mentors to support more than 5,700
-mentees through various mentoring programmes under M3’s Focus Area 3.&nbsp;</p>
+mentees through various mentoring programmes under M³’s Focus Area 3.&nbsp;</p>
 <p>&nbsp;6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Mr</strong>  <strong>Sharael Taha</strong> asked
 how we ensure the continued relevance of our mentoring programmes. We conducted
 youth mentoring programmes in four M³@Towns at Jurong, Pasir Ris-Punggol,
@@ -111,11 +108,12 @@ dan Masjid Kassim serta sesi-sesi Qigong di balai rakyat sekitar M³@Geylang
 Serai.</p>
 <p>16.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Dr Wan Rizal</strong> bertanya
 bagaimana inisiatif M³ mendorong usaha menjaga kesihatan masyarakat. Sukarelawan
-seperti Iylia membuktikan bahawa Saham Kesihatan boleh memperkasa masyarakat
-Melayu/Islam untuk menerajui program-program kesihatan mereka sendiri.
-Menerusi Saham Kesihatan, mereka boleh menerima sokongan daripada agensi
-M³ seperti PA MESRA dan Lembaga Penggalak Kesihatan, atau HPB, untuk melaksanakan
-program-program kesihatan, termasuk untuk kesejahteraan mental.</p>
+seperti Encik Iylia membuktikan bahawa Saham Kesihatan boleh memperkasa
+masyarakat Melayu/Islam untuk menerajui program-program kesihatan mereka
+sendiri. Menerusi Saham Kesihatan, mereka boleh menerima sokongan daripada
+agensi M³ seperti PA MESRA dan Lembaga Penggalakan Kesihatan, atau HPB,
+untuk melaksanakan program-program kesihatan, termasuk untuk kesejahteraan
+mental.</p>
 <p></p>
 <p>17.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Tahun
 lalu, lebih 500 peserta menyertai program-program Saham Kesihatan. Mereka
@@ -123,8 +121,8 @@ memberi maklum balas bahawa mereka seronok dapat turut serta kumpulan masyarakat
 yang memupuk semangat saling menyokong satu sama lain agar menjalani gaya
 hidup sihat. Tahun ini, kita mahu menggandakan usaha untuk melibatkan 1,000
 peserta. Demi mencapai sasaran ini, saya mengajak lebih ramai individu
-seperti Iylia memanfaatkan Saham Kesihatan supaya program-program kesihatan
-dapat mendekati masyarakat Melayu/Islam kita.</p>
+seperti Encik Iylia memanfaatkan Saham Kesihatan supaya program-program
+kesihatan dapat mendekati masyarakat Melayu/Islam kita.</p>
 <p>&nbsp;18.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Selain
 Saham Kesihatan, M³ juga bekerjasama dengan HPB dan rangkaian Jaga Kesihatan
 Jaga Ummah di mana para anggotanya kerap bergabung menganjurkan inisiatif
@@ -147,7 +145,7 @@ warga yang lebih memerlukan. Dengan adanya rangka kerja ini, kita memerlukan
 lebih ramai sukarelawan tampil untuk membantu menjayakan inisiatif M³.</p>
 <p>21.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Para sukarelawan
 kita, yang turut merangkumi karyawan daripada pelbagai bidang, memainkan
-peranan penting dalam menjalankan program-program di M3@Bandar – termasuk
+peranan penting dalam menjalankan program-program di M³@Bandar – termasuk
 memulakan program baru dan mendampingi keluarga-keluarga yang memerlukan
 agar mereka terhubung dengan program bantuan sosial.</p>
 <p>&nbsp;22.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Justeru,
@@ -188,7 +186,7 @@ peluang-peluang kerja sukarela di bawah M³ yang menepati citarasa dan kemahiran
 mereka yang berminat menyumbang.</p>
 <p>&nbsp;a.&nbsp;&nbsp;&nbsp; Para pelajar pengajian tinggi boleh menyertai
 program #amPowered sebagai mentor kepada murid-murid Program Tuisyen MENDAKI,
-ataupun program “Cool Yah” di M3@Bandar.</p>
+ataupun program “Cool Yah” di M³@Bandar.</p>
 <p>&nbsp;b.&nbsp;&nbsp;&nbsp; Jika anda seorang karyawan, anda boleh menyumbang
 ilmu dan pengalaman sebagai mentor atau penceramah program-program pementoran
 M³, atau menyokong karyawan lain menerusi Rangkaian Karyawan MENDAKI.</p>
@@ -203,7 +201,7 @@ di M³@Bandar semasa waktu bekerja.</p>
 sangat menggalakkan para Anggota Parlimen menguar-uarkan peluang kerja
 sukarela ini di kawasan undi anda. M³ juga bakal menjalankan sesi-sesi
 pengambilan sukarelawan sepanjang tahun ini, dan mereka yang berminat boleh
-mendaftar menerusi laman atau media sosial M3.&nbsp;</p>
+mendaftar menerusi lelaman atau media sosial M³.&nbsp;</p>
 <p><strong>Conclusion</strong>
 </p>
 <p>28.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Chairman,
