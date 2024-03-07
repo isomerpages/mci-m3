@@ -8,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <h3><strong>COMMITTEE OF SUPPLY DEBATES 2024</strong>&nbsp;</h3>
-<h3>&nbsp;<strong>ROUND-UP SPEECH BY MINISTER-IN-CHARGE OF MUSLIM AFFAIRS,</strong>&nbsp;<strong>MINISTER FOR SOCIAL AND FAMILY DEVELOPMENT,</strong>&nbsp;<strong>SECOND MINISTER FOR HEALTH</strong>, <strong>MASAGOS ZULKIFLI</strong>&nbsp;</h3>
+<h3><strong>ROUND-UP SPEECH BY MINISTER-IN-CHARGE OF MUSLIM AFFAIRS,</strong>&nbsp;<strong>MINISTER FOR SOCIAL AND FAMILY DEVELOPMENT,</strong>&nbsp;<strong>SECOND MINISTER FOR HEALTH</strong>, <strong>MASAGOS ZULKIFLI</strong>&nbsp;</h3>
 <p>Tuan Pengerusi,&nbsp;</p>
 <p>&nbsp;1. Saya dan rakan-rakan saya telah berucap tentang semangat kewarganegaraan
 dan usaha bagi memupuk budaya menyumbang kembali kepada masyarakat. Ini
