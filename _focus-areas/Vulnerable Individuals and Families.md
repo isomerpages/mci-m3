@@ -106,8 +106,7 @@ to support inmates, ex-offenders and their families.</p>
 continue this good work, the Malay/Muslim Organisations Rehabilitation
 Network Conference was established to strengthen this existing efforts
 and provide co-ordinated and holistic support to the MM inmates, ex-offenders
-and their families.</p>
-<p>The inaugural conference aims to:</p>
+and their families. The inaugural conference aims to:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Affirm the shared vision of the MMOs in supporting the needs of the inmates,
