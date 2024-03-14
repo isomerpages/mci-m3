@@ -19,7 +19,7 @@ they will have opportunities for progress. This workstream is led by Associate
 Professor Dr Muhammad Faishal Ibrahim, Minister of State, Ministry of Home
 Affairs and Ministry of National Development.</p>
 <h3><strong>FITRAH</strong></h3>
-<p>The FITRAH&nbsp;(Family and Inmates Throughcare Assistance Haven) programme
+<p>The FITRAH*&nbsp;(Family and Inmates Throughcare Assistance Haven) programme
 by the Islamic Religious Council of Singapore (Muis) aims to provide integrated
 and holistic support for inmates as well as their families - from in-care
 to aftercare. The families will be connected to the necessary network of
@@ -48,7 +48,7 @@ and Yellow Ribbon Community Project (YRCP) volunteers, and to offer befriending
 services to inmates in prisons and upon release.</p>
 <h5><strong>Back-to-FITRAH Package</strong></h5>
 <p>FITRAH officers and volunteers are deployed to receive ex-offenders at
-the prison gate and give them a Back-To-FITRAH package which includes fidyah2&nbsp;voucher,
+the prison gate and give them a Back-To-FITRAH package which includes fidyah**&nbsp;voucher,
 an EZ-link card, a prayer mat and an information package on assistance
 available. 320 ex-offenders have benefitted from this initiative.</p>
 <h5><strong>Partnership with Mosques</strong></h5>
@@ -59,7 +59,7 @@ as well as Islamic Education programmes under aLIVE, ADIL and Home-based
 Islamic Learning. The mosques may also refer these families to MENDAKI’s
 programmes (for e.g. MENDAKI Tuition Scheme, SENSE programmes).</p>
 <p>The FITRAH office is located at En-Naeem Mosque. You can also click&nbsp;
-<a href="https://www.facebook.com/Fitrah-Family-and-Inmates-ThRoughcare-Assistance-Haven-400985470741061/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u>
+<a href="https://www.facebook.com/Fitrah-Family-and-Inmates-ThRoughcare-Assistance-Haven-400985470741061/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u> 
 </a>&nbsp;to get in touch with FITRAH today.</p>
 <h3><strong>Family Excellence Circle (FEC)</strong></h3>
 <p>A Family Excellence Circle (FEC) group was specially curated by MENDAKI
@@ -88,8 +88,43 @@ of the community.</p>
 <p>You can also click&nbsp;<a href="/files/PDF/MMO_Network_Directory_of_Programmes_and Services_840KB.pdf" rel="noopener noreferrer nofollow" target="_blank">here </a>to
 find out more on other programmes and services offered in assisting ex-offenders
 and their families.</p>
-<hr>
-<h6><em>1The word “fitrah” in Arabic and Malay refers to a state of purity and innocence, the original form of all human beings.</em></h6>
 <p></p>
-<h6><em>2This is a voucher which may be exchanged for staples at supermarkets, to help with family expenses. The vouchers are funded by Muis through community funds which it manages.</em></h6>
+<h3><strong>Malay/Muslim Organisations Rehabilitation Network</strong></h3>
+<p>The Malay/Muslim Organisations Rehabilitation Network was launched on
+30 November 2021 by Minister of State for Ministry of Home Affairs and
+Ministry of National Development, Associate Professor Muhammad Faishal
+Ibrahim.</p>
+<p>The Malay/Muslim Organisations Rehabilitation Network is a testament of
+the collaborations that Ministry of Home Affairs has established with the
+various MMOs to prevent offending and re-offending. Throughout the years,
+the MMOs have played a crucial role in drug prevention efforts as well
+as providing complementary rehabilitation and reintegration programmes
+to support inmates, ex-offenders and their families.</p>
+<p></p>
+<h4>Malay/Muslim Organisations Rehabilitation Network Conference</h4>
+<p>To support the aspirations of the expressed interest of various MMOs to
+continue this good work, the Malay/Muslim Organisations Rehabilitation
+Network Conference was established to strengthen this existing efforts
+and provide co-ordinated and holistic support to the MM inmates, ex-offenders
+and their families.</p>
+<p>​</p>
+<p>The inaugural conference aims to:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Affirm the shared vision of the MMOs in supporting the needs of the inmates,
+ex-offenders and their families.</p>
+</li>
+<li>
+<p>Optimise mutual learning through sharing research in rehabilitation and
+reintegration, best practices and novel programmes by MMOs.</p>
+</li>
+<li>
+<p>Synergize new areas of collaborations to support MMOs aspirations in uplifting
+this vulnerable group in our community.</p>
+</li>
+</ol>
+<hr>
+<h6><em>*The word “fitrah” in Arabic and Malay refers to a state of purity and innocence, the original form of all human beings.</em></h6>
+<p></p>
+<h6><em>**This is a voucher which may be exchanged for staples at supermarkets, to help with family expenses. The vouchers are funded by Muis through community funds which it manages.</em></h6>
 <p></p>
