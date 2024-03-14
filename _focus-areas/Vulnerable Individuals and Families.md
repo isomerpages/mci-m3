@@ -121,6 +121,10 @@ reintegration, best practices and novel programmes by MMOs.</p>
 this vulnerable group in our community.</p>
 </li>
 </ol>
+<p>The Ministry of Home Affairs has also published a <a href="/files/Paper_on_Working_with_the_MM_Community_to_Prevent_Offending_and_Reoffending_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper on Working with the MMOs to Rehabilitate Ex-Offenders.</a>
+</p>
+<p>Click here to find out more: <a href="/files/MMO_Infographic_19Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">MMO Rehab Network Conference Infographic.</a>
+</p>
 <hr>
 <h6><em>*The word “fitrah” in Arabic and Malay refers to a state of purity and innocence, the original form of all human beings.</em></h6>
 <p></p>
