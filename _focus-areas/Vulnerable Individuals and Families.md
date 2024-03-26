@@ -141,6 +141,11 @@ of Korban meat.
 <li>
 <p><strong>Launch of MMO Rehabilitation Network Workplan </strong>
 <br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MMO Rehab Network Workplan" src="/images/DSC01265.jpg">
+</div>
+<p>
 <br>On 23 May 2023, MHA organized the MMO Rehabilitation Network forum with
 Mr Masagos Zulkifli, Minister for Social and Family Development and Second
 Minister for Health, and Minister-in-charge of Muslim Affairs, as the Guest-of-Honour.</p>
@@ -183,21 +188,39 @@ Action for the Rehabilitation of Ex-Offenders) Network.</p>
 view the MMO Rehabilitation Network Conference Opening Speech by Mr K Shanmugam,
 Minister for Home Affairs and Minister for Law.
 <br>
-<br><strong>Paper on “Working with the Malay/Muslim Community to Prevent Offending and Reoffending”</strong>
+<br><strong>Paper on “Working with the Malay/Muslim Community to Prevent Offending and Reoffending”</strong> 
 <br>
 <br>At the conference, MHA released a paper that documented MHA and the Government’s
 efforts in working with the MM community to prevent offending and re-offending.
 Besides showcasing the community’s effort in tackling drug abuse and reoffending
 issues, the paper aims to inspire more individuals and organisations to
-join this effort.
-<br>Click <a href="https://apac01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.mha.gov.sg%2Fdocs%2Fdefault-source%2Fdefault-document-library%2Fpaper-on-working-with-the-mm-community-to-prevent-offending-and-reoffending.pdf&amp;data=05%7C02%7C%7Cbec87a91ac2543dc70c408dc4d4fc006%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C638470252155363439%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=XugIXieyKXBi%2BpC80uUXj%2BvR5Zqife87kQ6CFd2rXAg%3D&amp;reserved=0" rel="noopener noreferrer" target="_blank"><u>here</u></a> to
+join this effort. Click <a href="https://apac01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.mha.gov.sg%2Fdocs%2Fdefault-source%2Fdefault-document-library%2Fpaper-on-working-with-the-mm-community-to-prevent-offending-and-reoffending.pdf&amp;data=05%7C02%7C%7Cbec87a91ac2543dc70c408dc4d4fc006%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C638470252155363439%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=XugIXieyKXBi%2BpC80uUXj%2BvR5Zqife87kQ6CFd2rXAg%3D&amp;reserved=0" rel="noopener noreferrer" target="_blank"><u>here</u></a> to
 download the paper.
 <br>
 <br>
 </p>
 </li>
 <li>
-<p>Learning Journeys and Sharing Sessions</p>
+<p>Learning Journeys and Sharing Sessions
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MMO Rehab Network LJ1" src="/images/20230926_143240.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MMO Rehab Network LJ2" src="/images/20230926_164903.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MMO Rehab Network LJ3" src="/images/FB_IMG_1670296386274.jpg">
+</div>
+<p>
+<br>The MMO Rehabilitation Network organises regular learning journeys and
+sharing sessions to provide members with the opportunity to better understand
+the various programmes and services provided by the different MMOs. Such
+sessions also provide members with the opportunity to explore ways on how
+their beneficiaries can be better supported.</p>
 </li>
 </ol>
 <h4></h4>
