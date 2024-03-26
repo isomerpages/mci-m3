@@ -89,10 +89,10 @@ of the community.</p>
 find out more on other programmes and services offered in assisting ex-offenders
 and their families.</p>
 <p></p>
+<h3><strong>Malay/Muslim Organisations (MMOs) Rehabilitation Network</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Launch of MMO Rehabilitation Network" src="/images/MMO_Network_Launch.jpg">
 </div>
-<h3><strong>Malay/Muslim Organisations (MMOs) Rehabilitation Network</strong></h3>
 <p>The Ministry of Home Affairs (MHA), Singapore Prisons Service (SPS) and
 Central Narcotics Bureau (CNB) have been working with various MMOs to disseminate
 anti-drug messages, conducting rehabilitation programmes for offenders,
