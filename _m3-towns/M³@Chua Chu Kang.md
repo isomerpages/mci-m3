@@ -54,67 +54,52 @@ there to offer a Mentorship programme for Malay youths.</p>
 <p>Vice-Chairman Mr Faizal Abdul Rahim</p>
 </li>
 <li>
-<p>Member&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Hairul
-Sahamad</p>
+<p>Mr Hairul Sahamad (Member)</p>
 </li>
 <li>
-<p>Member&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mdm Tina Samat</p>
+<p>Mdm Tina Samat (Member)</p>
 </li>
 <li>
-<p>Member&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Mr Ismail
-B Sabtu</p>
+<p>Mr Ismail B Sabtu (Member)</p>
 </li>
 <li>
-<p>Member&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Mdm Noraini
-Binte Esa</p>
+<p>Mdm Noraini Binte Esa (Member)</p>
 </li>
 <li>
-<p>Member&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Mr Imran
-Bin Ahmad, PBM</p>
+<p>Mr Imran Bin Ahmad, PBM (Member)</p>
 </li>
 <li>
-<p>Member&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Mr Osman
-Bin Sinwan</p>
+<p>Mr Osman Bin Sinwan (Member)</p>
 </li>
 <li>
-<p>Member&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Ridwan
-Alwi</p>
+<p>Mr Ridwan Alwi (Member)</p>
 </li>
 <li>
-<p>Member&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Mr Sobri
-Bin Omar</p>
+<p>Mr Sobri Bin Omar (Member)</p>
 </li>
 <li>
-<p>Member&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Ms Murni
-Binte Sab Adi</p>
+<p>Ms Murni Binte Sab Adi (Member)</p>
 </li>
 <li>
-<p>Member&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Ustaz Mohamed
-Ali Bin Atan</p>
+<p>Ustaz Mohamed Ali Bin Atan (Member)</p>
 </li>
 <li>
-<p>Member&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Mr Suhaimi
-Wagiman</p>
+<p>Mr Suhaimi Wagiman (Member)</p>
 </li>
 <li>
-<p>Member&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Mr Aire
-Bin Sidek</p>
+<p>Mr Aire Bin Sidek (Member)</p>
 </li>
 <li>
-<p>Member&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Mr Abdul
-Wahab Bin Ahmad</p>
+<p>Mr Abdul Wahab Bin Ahmad (Member)</p>
 </li>
 <li>
-<p>Member&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Mr Suwanda
-Suma</p>
+<p>Mr Suwanda Suma (Member)</p>
 </li>
 <li>
-<p>Member&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Mr Mohammed
-Yusoff Bin Adenan</p>
+<p>Mr Mohammed Yusoff Bin Adenan (Member)</p>
 </li>
 <li>
-<p>Member&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Mr Ibrahim
-Fergo</p>
+<p>Mr Ibrahim Fergo (Member)</p>
 </li>
 </ul>
 </td>
