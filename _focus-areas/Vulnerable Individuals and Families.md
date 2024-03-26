@@ -89,6 +89,9 @@ of the community.</p>
 find out more on other programmes and services offered in assisting ex-offenders
 and their families.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Launch of MMO Rehabilitation Network" src="/images/MMO_Network_Launch.jpg">
+</div>
 <h3><strong>Malay/Muslim Organisations (MMOs) Rehabilitation Network</strong></h3>
 <p>The Ministry of Home Affairs, Singapore Prisons Service and Central Narcotics
 Bureau have been working with various MMOs to disseminate anti-drug messages,
@@ -108,10 +111,39 @@ Network, providing strategic guidance to rally and steer the collaborative
 efforts of the Network to support efforts undertaken by the Ministry of
 Home Affairs and M3 Focus Area 2.</p>
 <p></p>
+<h4>Developments and Events</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Annual MMO Rehabilitation Network Korban Distribution Event
+<br>
+</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Launch of MMO Rehabilitation Network" src="/images/MMO_Network_Launch.jpg">
-</div>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>An annual event supported by MUIS, where members from the MMO Rehabilitation
+Network reaches out to families impacted by incarceration and provide them
+with korban meat. In 2022, seven MMOs came together to reach out to more
+than 150 families. The event was held at Al-Khair mosque and each family
+were given 2kg worth of Korban meat. In 2023, nine MMOs came together to
+reach out to more than 120 families. The event was held at An-Nur Mosque
+and each family were given 3kg worth of Korban meat.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</li>
+<li>
+<p>Launch of MMO Rehabilitation Network Workplan</p>
+</li>
+<li>
+<p>MMO Rehabilitation Network Conference 2024</p>
+</li>
+<li>
+<p>Learning Journeys and Sharing Sessions</p>
+</li>
+</ol>
 <h4>Malay/Muslim Organisations Rehabilitation Network Conference</h4>
 <p>To support the aspirations of the expressed interest of various MMOs to
 continue this good work, the Malay/Muslim Organisations Rehabilitation
