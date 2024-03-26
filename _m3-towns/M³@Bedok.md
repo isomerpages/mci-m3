@@ -8,10 +8,6 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/M3_Bedok_Option_1.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/M3_Bedok_Group.jpg">
-</div>
 <p>Launched in April 2019, M³@Bedok aims to uplift the lives of the Malay/Muslim
 community in the vibrant neighbourhoods of Bedok and Aljunied.</p>
 <p>M³@Bedok operates based on the values of the C.A.R.E Framework:</p>
