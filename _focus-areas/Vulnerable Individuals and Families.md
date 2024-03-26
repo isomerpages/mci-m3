@@ -89,18 +89,29 @@ of the community.</p>
 find out more on other programmes and services offered in assisting ex-offenders
 and their families.</p>
 <p></p>
-<h3><strong>Malay/Muslim Organisations Rehabilitation Network</strong></h3>
-<p>The Malay/Muslim Organisations Rehabilitation Network was launched on
-30 November 2021 by Minister of State for Ministry of Home Affairs and
-Ministry of National Development, Associate Professor Muhammad Faishal
-Ibrahim.</p>
-<p>The Malay/Muslim Organisations Rehabilitation Network is a testament of
-the collaborations that Ministry of Home Affairs has established with the
-various MMOs to prevent offending and re-offending. Throughout the years,
-the MMOs have played a crucial role in drug prevention efforts as well
-as providing complementary rehabilitation and reintegration programmes
-to support inmates, ex-offenders and their families.</p>
+<h3><strong>Malay/Muslim Organisations (MMOs) Rehabilitation Network</strong></h3>
+<p>The Ministry of Home Affairs, Singapore Prisons Service and Central Narcotics
+Bureau have been working with various MMOs to disseminate anti-drug messages,
+conducting rehabilitation programmes for offenders, and providing support
+to ex-offenders and their families. Following a series of focus group discussions
+and townhall sharing sessions with the MMOs to improve the efforts in preventing
+offending and re-offending, the MMOs expressed their interest to form a
+rehabilitation network to strengthen their existing efforts and to provide
+coordinated and holistic support to Malay offenders, ex-offenders, and
+their families.</p>
 <p></p>
+<p>The MMO Rehabilitation Network was formed, and formalised by Assoc Prof
+Muhammad Faishal Ibrahim, Minister of State, Ministry of Home Affairs &amp;
+Ministry of National Development, on 30 November 2021. Assoc Prof Muhammad
+Faishal Ibrahim leads the M3 Focus Area 2 efforts and heads the MMO Rehabilitation
+Network, providing strategic guidance to rally and steer the collaborative
+efforts of the Network to support efforts undertaken by the Ministry of
+Home Affairs and M3 Focus Area 2.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Launch of MMO Rehabilitation Network" src="/images/MMO_Network_Launch.jpg">
+</div>
 <h4>Malay/Muslim Organisations Rehabilitation Network Conference</h4>
 <p>To support the aspirations of the expressed interest of various MMOs to
 continue this good work, the Malay/Muslim Organisations Rehabilitation
