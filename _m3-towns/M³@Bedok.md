@@ -28,6 +28,8 @@ community in the vibrant neighbourhoods of Bedok and Aljunied.</p>
 <p>With a dedicated team of volunteers and a passion for positive change,
 M³@Bedok strives to create a lasting impact, fostering a sense of unity,
 strength, and growth within the local community.</p>
+<p>Follow us on <a href="https://www.instagram.com/m3atbedok/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> and
+<a href="https://www.facebook.com/M3atBedok" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>!</p>
 <table>
 <tbody>
 <tr>
