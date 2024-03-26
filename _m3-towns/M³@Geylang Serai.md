@@ -16,8 +16,9 @@ Areas. This is achieved through strategic collaboration with various agencies
 and organisations.</p>
 <p>We continue to seek like-minded individuals stepping forward and making
 a difference.</p>
+<p>Learn more about MudaSG and volunteer <a href="https://linktr.ee/mudasg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>Follow M³@Geylang Serai on <a href="https://facebook.com/M3atGeylangSerai" rel="noopener noreferrer nofollow" target="_blank"><u>Facebook</u></a>, <a href="https://www.instagram.com/m3atgeylangserai/" rel="noopener noreferrer nofollow" target="_blank"><u>Instagram</u></a> and
-<a href="https://t.me/M3atGeylangSerai" rel="noopener noreferrer nofollow" target="_blank"><u>Telegram</u> 
+<a href="https://t.me/M3atGeylangSerai" rel="noopener noreferrer nofollow" target="_blank"><u>Telegram</u>
 </a>!</p>
 <table>
 <tbody>
