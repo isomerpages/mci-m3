@@ -17,7 +17,7 @@ and organisations.</p>
 <p>We continue to seek like-minded individuals stepping forward and making
 a difference.</p>
 <p>Follow M³@Geylang Serai on <a href="https://facebook.com/M3atGeylangSerai" rel="noopener noreferrer nofollow" target="_blank"><u>Facebook</u></a>, <a href="https://www.instagram.com/m3atgeylangserai/" rel="noopener noreferrer nofollow" target="_blank"><u>Instagram</u></a> and
-<a href="https://t.me/M3atGeylangSerai" rel="noopener noreferrer nofollow" target="_blank"><u>Telegram</u>
+<a href="https://t.me/M3atGeylangSerai" rel="noopener noreferrer nofollow" target="_blank"><u>Telegram</u> 
 </a>!</p>
 <table>
 <tbody>
@@ -28,81 +28,67 @@ a difference.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Chairperson: </strong>Mr Abdul Haniff Bin Abdul Khalik</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Adviser: </strong>Mr Mohd Fahmi Aliman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Chairperson: Mr Mohamed Fawzi Bin Ishak</p>
+<p>Ms Siti Maryam (M³ Head - PA)</p>
 </li>
 <li>
-<p>Secretariat: Ms Maria Zahid Bte Zahid</p>
+<p>Mr Mohamed Zailani Bin Mohamed Said (Chairman, Geylang Serai CC MAEC)</p>
 </li>
 <li>
-<p>Chaiperson, Kembangan-Chai Chee CC MAEC: Mdm Norami Aliza Haron, PBM</p>
+<p>Mdm Norami Aliza Haron, PBM (Chairperson, Kampong Ubi CC MAEC)</p>
 </li>
 <li>
-<p>Chairman, Marine Parade CC MAEC: Mr M Subeeri Ali Adi</p>
+<p>Mr M Subeeri Ali Adi (Chairman, Marine Parade CC MAEC)</p>
 </li>
 <li>
-<p>Chairman, Geylang Serai CC MAEC: Mr Mohamed Zailani Bin Mohamed Said</p>
+<p>Mdm Amatul Jameel Suhani, BBM (Chairperson, Mountbatten CC MAEC)</p>
 </li>
 <li>
-<p>Cultural/Traditional (Team Lead): Mr Abdul Razak Bin Daud</p>
+<p>Mdm Rahimah Bte Maarof (Chairperson, MacPherson CC MAEC)</p>
 </li>
 <li>
-<p>Outreach (Team Lead): Mr Omar Osman</p>
+<p>Dr Hirman Md Khamis (Chairman, Braddell Heights CC MAEC)</p>
 </li>
 <li>
-<p>Mr Zulkarnaen Bin Hussain</p>
+<p>Mr Hozehfa Mohamed Hussin Topiwala (Chairman, Joo Chiat CC MAEC)</p>
 </li>
 <li>
-<p>Mr Normanshah Bin Mohd Sah</p>
+<p>MOVT Chairman: Mr Omar Osman</p>
 </li>
 <li>
-<p>Mr Muhammad Bukhari Bin Suhaimi</p>
+<p>FA 3 OIC: Maria Zahid</p>
 </li>
 <li>
-<p>Mr Farsiah Sidi</p>
+<p>FA 5 OIC: Muhd. Iylia Bin Mohd. Shukor</p>
 </li>
 <li>
-<p>Mr Abdul Shariff Shaik Ahmad</p>
+<p>Md Zahin Jummary (Co-Chairperson, MudaSG Exco)</p>
 </li>
 <li>
-<p>Mr Abdul Aziz Bin Mohd Shafii</p>
+<p>Nurin Insyirah Md Azhar (Co-Chairperson, MudaSG Exco)</p>
 </li>
 <li>
-<p>Mr Raimi Siraj</p>
+<p>Sherlita Sherhan (Co-Founder, MudaSG)</p>
 </li>
 <li>
-<p>Ms Norain Rafie</p>
+<p>Aniq Ariq (Co-Founder, MudaSG)</p>
 </li>
 <li>
-<p>Mr Azmi Aziz</p>
+<p>Nyla Putri Mohamed Esman (MudaSG Exco)</p>
 </li>
 <li>
-<p>Mr Syed Zulkifli Syed Ahmad</p>
-</li>
-<li>
-<p>Mr Zulkifli Sahamabi</p>
-</li>
-<li>
-<p>Mr Widhi Asmoro</p>
-</li>
-<li>
-<p>Mr Suni Sulaiman</p>
-</li>
-<li>
-<p>Ms Nuraida Khalid (Programmes – Caring Community)</p>
-</li>
-<li>
-<p>Mdm Ramna Bte Kamaludi (Programmes – Lifelong Learning)</p>
-</li>
-<li>
-<p>Mr Mohamad Firdhaus Bin Abdul Jaber (Programmes – Healthy Living)</p>
-</li>
-<li>
-<p>Mr Muhammad Syahiran Bin Rohajat</p>
-</li>
-<li>
-<p>Mr Muhammad Shafi' Bin Rafie (Communications)</p>
+<p>Siti Aisyah Shaik Nordin (Mendaki Team Lead)</p>
 </li>
 </ul>
 </td>
