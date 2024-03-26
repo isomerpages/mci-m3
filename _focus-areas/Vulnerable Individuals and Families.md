@@ -160,7 +160,11 @@ DIH awareness campaign.
 </p>
 </li>
 <li>
-<p>MMO Rehabilitation Network Conference 2024</p>
+<p>MMO Rehabilitation Network Conference 2024
+<br>
+<br>
+<br>
+</p>
 </li>
 <li>
 <p>Learning Journeys and Sharing Sessions</p>
