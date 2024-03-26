@@ -125,8 +125,7 @@ Home Affairs and M3 Focus Area 2.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MMO Korban 2" src="/images/20230715_085939.jpg">
 </div>
-<p>
-<br>An annual event supported by MUIS, where members from the MMO Rehabilitation
+<p>An annual event supported by MUIS, where members from the MMO Rehabilitation
 Network reaches out to families impacted by incarceration and provide them
 with korban meat.</p>
 <p>&nbsp;In 2022, seven MMOs came together to reach out to more than 150
@@ -136,10 +135,11 @@ families. The event was held at Al-Khair mosque and each family were given
 The event was held at An-Nur Mosque and each family were given 3kg worth
 of Korban meat.
 <br>
+<br>
 </p>
 </li>
 <li>
-<p>Launch of MMO Rehabilitation Network Workplan
+<p><strong>Launch of MMO Rehabilitation Network Workplan </strong>
 <br>
 <br>On 23 May 2023, MHA organized the MMO Rehabilitation Network forum with
 Mr Masagos Zulkifli, Minister for Social and Family Development and Second
@@ -157,11 +157,41 @@ support to offenders.</p>
 for CNB to explore ways to build upon, and sustain, the success of the
 DIH awareness campaign.
 <br>
+<br>
 </p>
 </li>
 <li>
-<p>MMO Rehabilitation Network Conference 2024
+<p><strong>MMO Rehabilitation Network Conference 2024 </strong>
 <br>
+<br>The MMO Rehabilitation Network organised its inaugural conference on 25
+January 2024 at Singapore Expo MAX Atria. Themed S.H.U.R.A 2024: Synergizing
+Strengths for Collective Wisdom, it reflects the spirit of the MMOs coming
+together to work towards the betterment of the inmates, ex-offenders, and
+their families. The MMO Rehabilitation Network Conference 2024 seeks to
+fulfil three objectives – (i) to galvanise closer collaboration amongst
+stakeholders, (ii) to provide a better understanding on the programmes
+and services offered by the MMOs, and (iii) to allow members to better
+understand the needs of the MM inmates, ex-offenders, and their families.
+.</p>
+<p>The conference saw presentations by member organisations as well as by
+agencies outside of the MMO Rehabilitation Network. They include KK Women’s
+and Children’s Hospital, Singapore Children Society, Lions Befrienders,
+as well as Singapore Anti-Narcotics Association from the CARE (Community
+Action for the Rehabilitation of Ex-Offenders) Network.</p>
+<p>More than 200 participants from over 30 organisations attended the conference.</p>
+<p>Click <a href="https://apac01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.mha.gov.sg%2Fmediaroom%2Fspeeches%2Fmalay-muslim-organisations-rehabilitation-network-conference-2024-opening-speech-by-mr-k-shanmugam-minister-for-home-affairs-and-minister-for-law%2F&amp;data=05%7C02%7C%7Cbec87a91ac2543dc70c408dc4d4fc006%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C638470252155352133%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=CIIREpUMoHIsDhQalDq2H%2B6Bax1BR0X8LKZeIm2%2FHsA%3D&amp;reserved=0" rel="noopener noreferrer" target="_blank"><u>here</u></a> to
+view the MMO Rehabilitation Network Conference Opening Speech by Mr K Shanmugam,
+Minister for Home Affairs and Minister for Law.
+<br>
+<br><strong>Paper on “Working with the Malay/Muslim Community to Prevent Offending and Reoffending”</strong>
+<br>
+<br>At the conference, MHA released a paper that documented MHA and the Government’s
+efforts in working with the MM community to prevent offending and re-offending.
+Besides showcasing the community’s effort in tackling drug abuse and reoffending
+issues, the paper aims to inspire more individuals and organisations to
+join this effort.
+<br>Click <a href="https://apac01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.mha.gov.sg%2Fdocs%2Fdefault-source%2Fdefault-document-library%2Fpaper-on-working-with-the-mm-community-to-prevent-offending-and-reoffending.pdf&amp;data=05%7C02%7C%7Cbec87a91ac2543dc70c408dc4d4fc006%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C638470252155363439%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=XugIXieyKXBi%2BpC80uUXj%2BvR5Zqife87kQ6CFd2rXAg%3D&amp;reserved=0" rel="noopener noreferrer" target="_blank"><u>here</u></a> to
+download the paper.
 <br>
 <br>
 </p>
