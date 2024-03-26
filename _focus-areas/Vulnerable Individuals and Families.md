@@ -140,7 +140,6 @@ of Korban meat.
 </li>
 <li>
 <p><strong>Launch of MMO Rehabilitation Network Workplan </strong>
-<br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MMO Rehab Network Workplan" src="/images/DSC01265.jpg">
@@ -168,6 +167,15 @@ DIH awareness campaign.
 <li>
 <p><strong>MMO Rehabilitation Network Conference 2024 </strong>
 <br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MMO Rehab Network Conf 1" src="/images/DANS0548.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MMO Rehab Network Conf 2" src="/images/DANS0750.jpg">
+</div>
+<p>
 <br>The MMO Rehabilitation Network organised its inaugural conference on 25
 January 2024 at Singapore Expo MAX Atria. Themed S.H.U.R.A 2024: Synergizing
 Strengths for Collective Wisdom, it reflects the spirit of the MMOs coming
@@ -201,7 +209,7 @@ download the paper.
 </p>
 </li>
 <li>
-<p>Learning Journeys and Sharing Sessions
+<p><strong>Learning Journeys and Sharing Sessions </strong>
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -211,12 +219,7 @@ download the paper.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MMO Rehab Network LJ2" src="/images/20230926_164903.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MMO Rehab Network LJ3" src="/images/FB_IMG_1670296386274.jpg">
-</div>
-<p>
-<br>The MMO Rehabilitation Network organises regular learning journeys and
+<p>The MMO Rehabilitation Network organises regular learning journeys and
 sharing sessions to provide members with the opportunity to better understand
 the various programmes and services provided by the different MMOs. Such
 sessions also provide members with the opportunity to explore ways on how
