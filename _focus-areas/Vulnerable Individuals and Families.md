@@ -93,15 +93,15 @@ and their families.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Launch of MMO Rehabilitation Network" src="/images/MMO_Network_Launch.jpg">
 </div>
 <h3><strong>Malay/Muslim Organisations (MMOs) Rehabilitation Network</strong></h3>
-<p>The Ministry of Home Affairs, Singapore Prisons Service and Central Narcotics
-Bureau have been working with various MMOs to disseminate anti-drug messages,
-conducting rehabilitation programmes for offenders, and providing support
-to ex-offenders and their families. Following a series of focus group discussions
-and townhall sharing sessions with the MMOs to improve the efforts in preventing
-offending and re-offending, the MMOs expressed their interest to form a
-rehabilitation network to strengthen their existing efforts and to provide
-coordinated and holistic support to Malay offenders, ex-offenders, and
-their families.</p>
+<p>The Ministry of Home Affairs (MHA), Singapore Prisons Service (SPS) and
+Central Narcotics Bureau (CNB) have been working with various MMOs to disseminate
+anti-drug messages, conducting rehabilitation programmes for offenders,
+and providing support to ex-offenders and their families. Following a series
+of focus group discussions and townhall sharing sessions with the MMOs
+to improve the efforts in preventing offending and re-offending, the MMOs
+expressed their interest to form a rehabilitation network to strengthen
+their existing efforts and to provide coordinated and holistic support
+to Malay offenders, ex-offenders, and their families.</p>
 <p></p>
 <p>The MMO Rehabilitation Network was formed, and formalised by Assoc Prof
 Muhammad Faishal Ibrahim, Minister of State, Ministry of Home Affairs &amp;
@@ -121,7 +121,12 @@ Home Affairs and M3 Focus Area 2.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MMO Rehab Korban 1" src="/images/DSC_6876.jpg">
 </div>
-<p>An annual event supported by MUIS, where members from the MMO Rehabilitation
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MMO Korban 2" src="/images/20230715_085939.jpg">
+</div>
+<p>
+<br>An annual event supported by MUIS, where members from the MMO Rehabilitation
 Network reaches out to families impacted by incarceration and provide them
 with korban meat.</p>
 <p>&nbsp;In 2022, seven MMOs came together to reach out to more than 150
