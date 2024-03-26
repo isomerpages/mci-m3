@@ -139,13 +139,12 @@ of Korban meat.
 </p>
 </li>
 <li>
-<p><strong>Launch of MMO Rehabilitation Network Workplan </strong>
+<p><strong>Launch of MMO Rehabilitation Network Workplan</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MMO Rehab Network Workplan" src="/images/DSC01265.jpg">
 </div>
-<p>
-<br>On 23 May 2023, MHA organized the MMO Rehabilitation Network forum with
+<p>On 23 May 2023, MHA organized the MMO Rehabilitation Network forum with
 Mr Masagos Zulkifli, Minister for Social and Family Development and Second
 Minister for Health, and Minister-in-charge of Muslim Affairs, as the Guest-of-Honour.</p>
 <p>The forum was held to launch the inaugural workplan for the network that
@@ -175,8 +174,7 @@ DIH awareness campaign.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MMO Rehab Network Conf 2" src="/images/DANS0750.jpg">
 </div>
-<p>
-<br>The MMO Rehabilitation Network organised its inaugural conference on 25
+<p>The MMO Rehabilitation Network organised its inaugural conference on 25
 January 2024 at Singapore Expo MAX Atria. Themed S.H.U.R.A 2024: Synergizing
 Strengths for Collective Wisdom, it reflects the spirit of the MMOs coming
 together to work towards the betterment of the inmates, ex-offenders, and
