@@ -111,31 +111,48 @@ Network, providing strategic guidance to rally and steer the collaborative
 efforts of the Network to support efforts undertaken by the Ministry of
 Home Affairs and M3 Focus Area 2.</p>
 <p></p>
-<h4>Developments and Events</h4>
+<h4><strong>Developments and Events</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Annual MMO Rehabilitation Network Korban Distribution Event
+<p><strong>Annual MMO Rehabilitation Network Korban Distribution Event </strong>
 <br>
 </p>
 <p></p>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MMO Rehab Korban 1" src="/images/DSC_6876.jpg">
+</div>
 <p>An annual event supported by MUIS, where members from the MMO Rehabilitation
 Network reaches out to families impacted by incarceration and provide them
-with korban meat. In 2022, seven MMOs came together to reach out to more
-than 150 families. The event was held at Al-Khair mosque and each family
-were given 2kg worth of Korban meat. In 2023, nine MMOs came together to
-reach out to more than 120 families. The event was held at An-Nur Mosque
-and each family were given 3kg worth of Korban meat.</p>
-</td>
-</tr>
-</tbody>
-</table>
+with korban meat.</p>
+<p>&nbsp;In 2022, seven MMOs came together to reach out to more than 150
+families. The event was held at Al-Khair mosque and each family were given
+2kg worth of Korban meat.</p>
+<p>&nbsp;In 2023, nine MMOs came together to reach out to more than 120 families.
+The event was held at An-Nur Mosque and each family were given 3kg worth
+of Korban meat.
+<br>
+</p>
 </li>
 <li>
-<p>Launch of MMO Rehabilitation Network Workplan</p>
+<p>Launch of MMO Rehabilitation Network Workplan
+<br>
+<br>On 23 May 2023, MHA organized the MMO Rehabilitation Network forum with
+Mr Masagos Zulkifli, Minister for Social and Family Development and Second
+Minister for Health, and Minister-in-charge of Muslim Affairs, as the Guest-of-Honour.</p>
+<p>The forum was held to launch the inaugural workplan for the network that
+was co-created by MHA, SPS, CNB, and members from the network. The workplan
+shared the strategies that would be adopted by the network to further its
+efforts in preventing offending and reoffending within the MM community.</p>
+<p>The forum also provided MHA with the opportunity to share with members,
+the developments under the Dadah Itu Haram campaign, as well as updates
+on SPS’s efforts with working with the MMOs in providing rehabilitation
+support to offenders.</p>
+<p></p>
+<p>A focus group discussion on the Dadah Itu Haram campaign was also facilitated
+for CNB to explore ways to build upon, and sustain, the success of the
+DIH awareness campaign.
+<br>
+</p>
 </li>
 <li>
 <p>MMO Rehabilitation Network Conference 2024</p>
@@ -144,30 +161,7 @@ and each family were given 3kg worth of Korban meat.</p>
 <p>Learning Journeys and Sharing Sessions</p>
 </li>
 </ol>
-<h4>Malay/Muslim Organisations Rehabilitation Network Conference</h4>
-<p>To support the aspirations of the expressed interest of various MMOs to
-continue this good work, the Malay/Muslim Organisations Rehabilitation
-Network Conference was established to strengthen this existing efforts
-and provide co-ordinated and holistic support to the MM inmates, ex-offenders
-and their families. The inaugural conference aims to:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Affirm the shared vision of the MMOs in supporting the needs of the inmates,
-ex-offenders and their families.</p>
-</li>
-<li>
-<p>Optimise mutual learning through sharing research in rehabilitation and
-reintegration, best practices and novel programmes by MMOs.</p>
-</li>
-<li>
-<p>Synergize new areas of collaborations to support MMOs aspirations in uplifting
-this vulnerable group in our community.</p>
-</li>
-</ol>
-<p>The Ministry of Home Affairs has also published a <a href="/files/Paper_on_Working_with_the_MM_Community_to_Prevent_Offending_and_Reoffending_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper on Working with the MMOs to Rehabilitate Ex-Offenders.</a>
-</p>
-<p>Click here to find out more: <a href="/files/MMO_Infographic_19Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">MMO Rehab Network Conference Infographic.</a>
-</p>
+<h4></h4>
 <hr>
 <h6><em>*The word “fitrah” in Arabic and Malay refers to a state of purity and innocence, the original form of all human beings.</em></h6>
 <p></p>
