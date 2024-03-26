@@ -72,8 +72,7 @@ Action for the Rehabilitation of Ex-Offenders) Network.</p>
 <p>Click <a href="https://apac01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.mha.gov.sg%2Fmediaroom%2Fspeeches%2Fmalay-muslim-organisations-rehabilitation-network-conference-2024-opening-speech-by-mr-k-shanmugam-minister-for-home-affairs-and-minister-for-law%2F&amp;data=05%7C02%7C%7Cbec87a91ac2543dc70c408dc4d4fc006%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C638470252155352133%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=CIIREpUMoHIsDhQalDq2H%2B6Bax1BR0X8LKZeIm2%2FHsA%3D&amp;reserved=0" rel="noopener noreferrer" target="_blank"><u>here</u></a> to
 view the MMO Rehabilitation Network Conference Opening Speech by Mr K Shanmugam,
 Minister for Home Affairs and Minister for Law.</p>
-<p><strong>Paper on “Working with the Malay/Muslim Community to Prevent Offending and Reoffending”</strong>
-</p>
+<h4><strong>Paper on “Working with the Malay/Muslim Community to Prevent Offending and Reoffending”</strong></h4>
 <p>At the conference, MHA released a paper that documented MHA and the Government’s
 efforts in working with the MM community to prevent offending and re-offending.
 Besides showcasing the community’s effort in tackling drug abuse and reoffending
