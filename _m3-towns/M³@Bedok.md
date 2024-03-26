@@ -37,6 +37,16 @@ strength, and growth within the local community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Chairperson: </strong>Mohamed Raihan Hafidz bin Mohd Rafiek</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Adviser: </strong>Minister Dr Maliki Osman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>Mr Muhammad Sani bin Ahmad (Chairman, Bedok MAEC)</p>
