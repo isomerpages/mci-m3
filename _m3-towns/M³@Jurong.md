@@ -39,7 +39,7 @@ MENDAKI, community leaders, and volunteers to create programmes, workshops
 and activities that we hope will benefit these residents.</p>
 <p></p>
 <p>Follow M³@Jurong on&nbsp;<a href="https://www.facebook.com/m3atjurong/" rel="noopener noreferrer nofollow" target="_blank"><u>Facebook</u></a>&nbsp;,&nbsp;
-<a href="https://www.instagram.com/m3atjurong/" rel="noopener noreferrer nofollow" target="_blank"><u>Instagram</u>
+<a href="https://www.instagram.com/m3atjurong/" rel="noopener noreferrer nofollow" target="_blank"><u>Instagram</u> 
 </a>&nbsp;and&nbsp;<a href="https://t.me/m3atjurong" rel="noopener noreferrer nofollow" target="_blank"><u>Telegram</u></a>&nbsp;!</p>
 <table>
 <tbody>
