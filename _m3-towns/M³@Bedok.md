@@ -4,4 +4,79 @@ permalink: /m3-towns/bedok/
 variant: tiptap
 description: ""
 ---
-<p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/m3-bedok.jpeg"></div><p>Launched in April 2019, M³@Bedok aims to uplift the lives of the Malay/Muslim community in Bedok Town. M³@Bedok has three strategic focus - Health, Education and Future-Readiness for the community.</p><p>M³@Bedok operates based on the values of the C.A.R.E Framework: -Contact and Connect -Analysis of the Data -Resource Mapping -Effective Engagement through Last Mile Service Delivery</p><p>To better understand the community and its needs and aspirations, the M³@Bedok Household Survey (MHS) was initiated in March 2019. Results of the survey will be used to design programmes tailored for the Malay/Muslim residents within the M³@Bedok Divisions.</p><p>Follow M³@Bedok on <a href="https://www.facebook.com/M3atBedok" rel="noopener noreferrer nofollow" target="_blank"><u>Facebook</u></a> and <a href="https://www.instagram.com/m3atbedok/" rel="noopener noreferrer nofollow" target="_blank"><u>Instagram</u></a>!</p><table><tbody><tr><td rowspan="1" colspan="1"><h5>Key Members of M³@Tampines</h5></td></tr><tr><td rowspan="1" colspan="1"><ul data-tight="true" class="tight"><li><p>Chairperson: Kadir Maideen Bin Mohamed</p></li><li><p>Ramna Kamaludi</p></li><li><p>Mohd Firdhaus Abdul Jaber</p></li><li><p>Razali Bin Subir, PBM</p></li><li><p>Khairudin Bin Osman</p></li><li><p>Muhammad Sani Bin Ahmad</p></li><li><p>Haslina Pardon</p></li><li><p>Yacob Bin Hussain</p></li><li><p>Johan Bin Salim, PBM</p></li><li><p>Norami Aliza Harun, PBM</p></li><li><p>Zulkefle B A Rahman, BBM</p></li><li><p>Mohd Yahya Zakaria Attia, BBM</p></li><li><p>Jamalul'lail Bin Adali</p></li><li><p>Zainal Abidin Nordin, PBM</p></li><li><p>Iskandar Abdullah</p></li><li><p>Mohamed Fadzil Bin Mohamed Hamzah</p></li><li><p>Nurhidayati Muhd Suphan</p></li><li><p>Nur Hafizah Binte Ismail</p></li><li><p>Nurul Amelia Bte Akhtiar</p></li><li><p>Norazlan Ibrahim</p></li><li><p>Awalludin Abdul Jabbar</p></li><li><p>Abdul Malik Bn Abdul Kadar</p></li><li><p>Nurfara Binte Pawzi</p></li><li><p>Dania Binte Kamaludeen</p></li><li><p>Salman Bin Kamiso</p></li></ul></td></tr></tbody></table><p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/M3_Bedok_Option_1.jpg">
+</div>
+<p>Launched in April 2019, M³@Bedok aims to uplift the lives of the Malay/Muslim
+community in the vibrant neighbourhoods of Bedok and Aljunied.</p>
+<p>M³@Bedok operates based on the values of the C.A.R.E Framework:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Contact and Connect</p>
+</li>
+<li>
+<p>Analysis of the Data</p>
+</li>
+<li>
+<p>Resource Mapping</p>
+</li>
+<li>
+<p>Effective Engagement through Last Mile Service Delivery</p>
+</li>
+</ul>
+<p>With a dedicated team of volunteers and a passion for positive change,
+M³@Bedok strives to create a lasting impact, fostering a sense of unity,
+strength, and growth within the local community.</p>
+<p>Follow us on <a href="https://www.instagram.com/m3atbedok/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> and
+<a href="https://www.facebook.com/M3atBedok" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>!</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h5>Key Members of M³@Bedok</h5>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Chairperson: </strong>Mohamed Raihan Hafidz bin Mohd Rafiek</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Adviser: </strong>Minister Dr Maliki Osman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Muhammad Sani bin Ahmad (Chairman, Bedok MAEC)</p>
+</li>
+<li>
+<p>Ms Haslina bte Pardon (Chairman, Changi Simei MAEC)</p>
+</li>
+<li>
+<p>Mr Muhammad Helmi bin Khaswan (Chairman, Kampong Chai Chee MAEC)</p>
+</li>
+<li>
+<p>Mr Mohd Imhar bin Mohd Said (Chairman, Siglap MAEC)</p>
+</li>
+<li>
+<p>Mr Johan bin Salim (Chairman, Fengshan MAEC)</p>
+</li>
+<li>
+<p>Mr Norizam bin Baharon (Chairman, Kaki Bukit MAEC)</p>
+</li>
+<li>
+<p>Mr Azri Zulfarhan bin Kamsin (Chairman, Eunos MAEC)</p>
+</li>
+<li>
+<p>Mr Zainal Abidin Nordin (Chairman, Bedok-Reservoir Punggol)</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
