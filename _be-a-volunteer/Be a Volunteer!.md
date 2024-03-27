@@ -53,5 +53,15 @@ especially about owning their own homes, where possible.</p>
 <p>Make a difference by joining the M<sup>3</sup>&nbsp;family, today! No
 act of kindness, no matter how small, is ever wasted. Submit your details
 at the link below and we will get in touch with you.</p>
-<p><a href="https://form.gov.sg/5c48f3157fa6a90017c8511a" rel="noopener noreferrer nofollow" target="_blank"><u>Submit your interest to volunteer here!</u></a>
-</p>
+<h2>Be a Dian Ambassador</h2>
+<p>The Dian Ambassador initiative, which is part of Project Dian@M³, is to
+better facilitate the upstream support for families with young children,
+in hopes to empower and motivate parents to be more involved in the development
+growth of their children. It also aims to inculcate the desire to read
+and learn in the children while also preparing them to be school-ready.</p>
+<p></p>
+<p>As a Dian Ambassador, volunteers will provide home-based support programme
+with children aged three to six years old, across the towns of Project
+Dian@M³.</p>
+<p></p>
+<p>Submit your interest to volunteer <a href="https://form.gov.sg/5c48f3157fa6a90017c8511a" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
