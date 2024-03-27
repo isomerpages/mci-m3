@@ -16,14 +16,14 @@ they confront the challenges, changes, and diversity in our society. This
 will ensure a resilient and adaptive attitude towards their goals in life.
 It is important to inculcate an inclusive and contributive mindset in order
 to be a significant part of our social ethos and identity in Singapore.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Launched in February 2021, M³@Jalan Besar aims to build a strong network
 of partners and volunteers to support vulnerable families, with a strong
 emphasis on mental health and digital literacy. M³@Jalan Besar was formed
 to streamline the efforts of the seven Malay Activity Executive Committees
 (MAEC) and 14 mosques in Jalan Besar GRC in meeting the needs of the Malay/
 Muslim community in the GRC.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Together with representatives from MUIS and MENDAKI, M³@Jalan Besar strives
 to work with the Malay/Muslim professionals to be a one-stop centre for
 local customised programmes dedicated in meeting the residents’ ever-changing
