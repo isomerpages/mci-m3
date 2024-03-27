@@ -72,7 +72,7 @@ strength, and growth within the local community.</p>
 <p>Mr Azri Zulfarhan bin Kamsin (Chairman, Eunos MAEC)</p>
 </li>
 <li>
-<p>Mr Zainal Abidin Nordin (Chairman, Bedok-Reservoir Punggol</p>
+<p>Mr Zainal Abidin Nordin (Chairman, Bedok-Reservoir Punggol)</p>
 </li>
 </ul>
 </td>
