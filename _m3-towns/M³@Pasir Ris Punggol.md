@@ -11,7 +11,8 @@ description: ""
 <p>Launched in October 2018, M³@Pasir Ris-Punggol is a community coming together
 to do good for Pasir Ris-Punggol. The activities by M³@Pasir Ris-Punggol
 focus on education and strengthening family and community ties.</p>
-<p></p>
+<p>Follow M³@Chua Chu Kang on <a href="https://www.instagram.com/m3atprpg/" rel="noopener noreferrer nofollow" target="_blank"><u>Instagram</u></a>
+</p>
 <table>
 <tbody>
 <tr>
