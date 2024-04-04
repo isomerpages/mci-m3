@@ -24,7 +24,7 @@ to reintegrate and contribute towards our society.</p>
 to offer a Mentorship programme for Malay youths. on its network of volunteers
 there to offer a Mentorship programme for Malay youths.</p>
 <p>Volunteer <a href="https://form.gov.sg/65a64824f2138c00121ca31a" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p>Follow M³@Chua Chu Kang on <a href="https://www.instagram.com/m3atcck/" rel="noopener noreferrer nofollow" target="_blank"><u>Instagram</u></a> and <a href="Fb.com/m3atCCK" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>!</p>
+<p>Follow M³@Chua Chu Kang on <a href="Fb.com/m3atCCK" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>!</p>
 <table>
 <tbody>
 <tr>
