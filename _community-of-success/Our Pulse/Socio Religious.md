@@ -71,7 +71,7 @@ services are integrated with initiatives to increase charity and social
 resilience. This effort in shaping our religious life transcends physical
 mosques by growing Virtual Faithspaces, connecting the community with purposeful
 content suited for all, powered by Zakat to strengthen the community.</p>
-<p>Visit the <a href="https://muslim.sg/salamsg/aboutSalamSG" rel="noopener noreferrer nofollow" target="_blank">SalamSG</a> website
+<p>Visit the <a href="https://salamsg.assyafaah.sg/" rel="noopener noreferrer nofollow" target="_blank">SalamSG</a> website
 for more information.</p>
 <p></p>
 <h3><strong>Related Content</strong></h3>
