@@ -92,8 +92,7 @@ view infographics on Pergas Gracious Package.</p>
 <h5><strong>CariKerja App &amp; JUMP Virtual Career Fair</strong></h5>
 <p>Download the FindJobs or <em>CariKerja</em> app and visit our JUMP Virtual
 Career Fair, where more than 1,000 job vacancies across various sectors
-are available.</p>
-<p>Click <a href="/files/PDF/CARIKERJA_APP_AND_JUMP_VIRTUAL_CAREER_FAIR_476KB.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+are available. Click <a href="/files/PDF/CARIKERJA_APP_AND_JUMP_VIRTUAL_CAREER_FAIR_476KB.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 view infographics on the <em>CariKerja</em> App.</p>
 <p></p>
 <div class="isomer-image-wrapper">
