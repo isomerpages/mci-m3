@@ -95,7 +95,7 @@ assessed areas of needs either through MENDAKI’s programmes and services,
 eg the MENDAKI Tuition Scheme, Mentoring @ MTS or through referral to other
 services provided by the Social Service Office or the Family Service Centres
 etc.&nbsp;</p>
-<h3><strong>M<sup>3</sup> Engagement Coordination Office (M<sup>3 </sup>ECO)</strong>&nbsp;</h3>
+<h3><strong>M<sup>3</sup>  Engagement Coordination Office (M<sup>3 </sup>ECO)</strong>&nbsp;</h3>
 <p>M<sup>3 </sup>ECO is an integrated office comprising officers from People’s
 Association, MUIS and Yayasan MENDAKI.​&nbsp;</p>
 <p>To assist offenders in their reintegration journey, M<sup>3</sup> Engagement
