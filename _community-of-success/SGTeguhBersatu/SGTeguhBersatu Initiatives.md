@@ -115,8 +115,6 @@ measures and leveraging on available programmes that have been put in place
 to assist businesses. Members can book a consultation with SMCCI to assess
 support schemes that they can tap on to see them through these challenging
 times.</p>
-<p>Click here to book a consultation: <a href="https://www.smcci.org.sg/covid-19response/" rel="noopener noreferrer nofollow" target="_blank"><u>www.smcci.org.sg/covid-19response/</u></a>
-</p>
 <h4><strong>FOR STUDENTS</strong></h4>
 <h5><strong>Tertiary Tuition Fee Subsidy (TTFS)</strong></h5>
 <p>Existing TTFS applicants from Universities, Polytechnics, ITE (Technical
