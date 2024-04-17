@@ -8,49 +8,67 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/focus-area-vulnerable.jpg">
 </div>
-<p>Rehabilitation is a challenging journey for offenders but with strong
-support from the community as well as the availability of holistic in-care
-and after-care programmes, they will have a better chance for reintegration
-back into the community and minimise the likelihood of re-offending.</p>
-<p>In partnership with the Ministry of Home Affairs (MHA), Singapore Prison
-Service (SPS) and community organisations, M³ agencies provide holistic
-support for offenders, ex-offenders, as well as their families so that
-they will have opportunities for progress. This workstream is led by Associate
-Professor Dr Muhammad Faishal Ibrahim, Minister of State, Ministry of Home
-Affairs and Ministry of National Development.</p>
+<p>The rehabilitation and reintegration journey can be filled with many challenges.
+Support from the community through various in-care and aftercare programmes
+can help our inmates and ex-offenders stay on course for long term desistance.&nbsp;</p>
+<p>The Ministry of Home Affairs (MHA) works with other public agencies, and
+community partners, to support inmates, ex-offenders, and their families
+on the rehabilitation and reintegration journey.&nbsp;&nbsp;</p>
+<p>In addition to broad-based programmes that are available to all inmates
+and ex-offenders, MHA also works with MM organisations and the M<sup>3</sup> agencies,
+to develop culturally-nuanced programmes to address the specific needs
+of MM inmates, ex-offenders, and their families.&nbsp;&nbsp;</p>
+<p>This workstream is led by Associate Professor Dr Muhammad Faishal Ibrahim,
+Minister of State, Ministry of Home Affairs and Ministry of National Development.&nbsp;</p>
 <h3><strong>FITRAH</strong></h3>
-<p>The FITRAH*&nbsp;(Family and Inmates Throughcare Assistance Haven) programme
-by the Islamic Religious Council of Singapore (Muis) aims to provide integrated
-and holistic support for inmates as well as their families - from in-care
-to aftercare. The families will be connected to the necessary network of
-assistance while their spouses who are in prison are duly supported with
-in-care services.</p>
-<p>A total of 385 families have benefitted from services offered by FITRAH,
-which include befriending, referral for financial assistance, Islamic learning
-at Mosques and referral to MENDAKI for employment and tuition for their
-children.</p>
-<p>To date, more than 330 volunteers, including religious counsellors, have
-been recruited to support inmates and former inmates under FITRAH.</p>
-<p>FITRAH continues to provide services via online platforms in the midst
-of the COVID-19 pandemic.</p>
-<p>Its services include:</p>
-<h5><strong>Structured in-care religious programmes, including customised Friday Sermons</strong></h5>
-<p>FITRAH deploys&nbsp;<em>Imams/Khatib</em>&nbsp;for Friday prayers &amp;
-Hari Raya prayers, and religious counsellors for counselling sessions with
-inmates. There are currently 130 religious counsellors.</p>
-<p>These programmes address relevant issues and matters such as the pursuit
-of religious guidance and the righteous path, as well as the importance
-of staying optimistic in preparation for life after release.</p>
-<h5><strong>Community Befriending</strong></h5>
-<p>FITRAH has recruited more than 200 community befrienders to conduct joint
-home visits to families of those incarcerated by Community Befrienders
-and Yellow Ribbon Community Project (YRCP) volunteers, and to offer befriending
-services to inmates in prisons and upon release.</p>
-<h5><strong>Back-to-FITRAH Package</strong></h5>
-<p>FITRAH officers and volunteers are deployed to receive ex-offenders at
-the prison gate and give them a Back-To-FITRAH package which includes fidyah**&nbsp;voucher,
-an EZ-link card, a prayer mat and an information package on assistance
-available. 320 ex-offenders have benefitted from this initiative.</p>
+<p>The FITRAH (Family and Inmates Throughcare Assistance Haven) office was
+set up in November 2018 to provide a more coordinated and holistic support
+to MM inmates throughout their incarceration period, as well as their families.&nbsp;&nbsp;</p>
+<p><u>Incare Programmes</u>&nbsp;</p>
+<p>FITRAH has developed a structured and values-centric religious programme
+for inmates. It also prepares Friday prayer sermons that are contextualised
+to the rehabilitation needs of the inmate.&nbsp;&nbsp;</p>
+<p>On average, FITRAH conducts 30 Friday prayer sessions and 50 counselling
+sessions weekly.&nbsp;</p>
+<p>FITRAH’s religious counsellors continue to extend their pro-social support
+to inmates upon release on a voluntary basis. This could be in the form
+of befriending or outreach to the individuals to participate in FITRAH’s
+activities in the community.&nbsp;</p>
+<p><u>Aftercare Programmes and Support</u>&nbsp;
+<br>&nbsp;<em>Befriending Support</em>&nbsp;</p>
+<p>FITRAH has a pool of volunteer befrienders that provide befriending support
+to both ex-offenders and their families. The befrienders provide the ex-offenders
+and their families with social and emotional support, and connect them
+with the community to expand their pro-social network. The befrienders
+will also refer those who need, to support systems in the community.&nbsp;</p>
+<p><em>Case Management Support&nbsp;</em>&nbsp;&nbsp;</p>
+<p>FITRAH provide case management services to inmates emplaced on the community-based
+programme.&nbsp;&nbsp;</p>
+<p>The 18-month case management programme adopt a family-centric approach
+that supports the offenders and their immediate family members as well.&nbsp;&nbsp;</p>
+<p><em>Back-to-FITRAH Package</em>&nbsp;</p>
+<p>FITRAH officers and volunteers receive ex-offenders at the prison gate
+on their date of release, and welcome them with a Back-To-FITRAH package
+which includes fidyah voucher, and an EZ-link card.&nbsp;</p>
+<p><em>Support Group mentoring</em>&nbsp;</p>
+<p>Support group sessions and community activities are organised to facilitate
+the integration of ex-offenders into the community and expand their pro-social
+networks. FITRAH works with various MM support groups to organise community
+activities to help expand their pro-social network and pro-social activities.
+FITRAH also provides mentorship to the MM support groups by providing them
+with guidance on their directions and focus.&nbsp;</p>
+<p><u>Throughcare Programme</u>&nbsp;</p>
+<p><em>Insan Mukmin</em>&nbsp;</p>
+<p>FITRAH collaborates with PERGAS to develop and deliver the Insan Mukmin
+programme. The programme provides participants with Islamic values and
+mindset to aid them in their rehabilitation and reintegration journey.&nbsp;&nbsp;</p>
+<p>After completing the in-prison component of the Insan Mukmin programme
+and emplacement to the community-based programme, the participants are
+assigned a befriender to guide them towards pro-social and positive support
+networks and facilitate their participation in the social activities organised
+by various mosques.&nbsp;</p>
+<p>The FITRAH office is located at En-Naeem Mosque. Click <a href="https://www.facebook.com/Fitrah-Family-and-Inmates-ThRoughcare-Assistance-Haven-400985470741061/" class="Hyperlink SCXW241685228 BCX0" rel="noreferrer noopener" target="_blank"><u>here</u></a> to
+contact FITRAH.&nbsp;</p>
 <h5><strong>Partnership with Mosques</strong></h5>
 <p>FITRAH partners with our mosques for a referral process for families of
 inmates to the network of 31 mosques disbursing zakat financial assistance.
@@ -61,34 +79,34 @@ programmes (for e.g. MENDAKI Tuition Scheme, SENSE programmes).</p>
 <p>The FITRAH office is located at En-Naeem Mosque. You can also click&nbsp;
 <a href="https://www.facebook.com/Fitrah-Family-and-Inmates-ThRoughcare-Assistance-Haven-400985470741061/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u> 
 </a>&nbsp;to get in touch with FITRAH today.</p>
-<h3><strong>Family Excellence Circle (FEC)</strong></h3>
-<p>A Family Excellence Circle (FEC) group was specially curated by MENDAKI
-for caregivers of children whose parents are/were incarcerated, to equip
-families of offenders with school-going children.</p>
-<p>The pilot group, which commenced in July 2019, had 12 members from nine
-families – this created a safe and non-judgemental environment where members
-could engage in open communication and sharing of experiences.</p>
-<p>While the adults were engaged in the FEC, the children participated in
-Art Therapy sessions, where they delved in arts and crafts to express their
-feelings.</p>
-<p>FEC members and their children had been connected to other MENDAKI programmes
-and services, such as the MENDAKI Tuition Scheme, Mentoring @ MTS and other
-developmental activities held at MENDAKI’s satellite centres.</p>
-<h3><strong>Reintegration of Ex-offenders</strong></h3>
-<p>To assist ex-offenders and their families in successfully reintegrating
-into the society, Malay Activity Executive Committees Council (MESRA) has
-helped to recruit more Malay volunteers from PA’s grassroots network to
-provide support to YRCP and its outreach efforts. This initiative was piloted
-in M³@Bedok, M³@Woodlands and M³@Jurong. Now, more than 30% of YRCP members
-in these pilot towns are Malays, as compared to 24.8% previously.</p>
-<p>MESRA also offers SHIOK Series courses to ex-offenders and their family
-members, so that they can pick up new skills and interact with other members
-of the community.</p>
-<p>For more information, click&nbsp;<a href="https://msha.ke/fitrahsg" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
-<p>You can also click&nbsp;<a href="/files/PDF/MMO_Network_Directory_of_Programmes_and Services_840KB.pdf" rel="noopener noreferrer nofollow" target="_blank">here </a>to
-find out more on other programmes and services offered in assisting ex-offenders
-and their families.</p>
+<h3><strong>MENDAKI</strong>&nbsp;</h3>
 <p></p>
+<p>MENDAKI supports Focus Area 2 efforts through a specially curated Family
+Excellence Circle (FEC) Programme for families impacted by incarceration.&nbsp;&nbsp;&nbsp;</p>
+<p>The FEC programme is contextualised to better meet the needs and challenges
+of families impacted by incarceration.&nbsp;&nbsp;&nbsp;</p>
+<p>FEC provides a platform for the families to share their challenges. This
+also creates a network of support amongst the families.&nbsp;&nbsp;</p>
+<p>The FEC consists of group work and casework support for families.&nbsp;
+The facilitated group work sessions are meant to build the families’ resilience
+and help them develop problem solving skills.&nbsp;</p>
+<p>FEC participants and their children will also be supported based on their
+assessed areas of needs either through MENDAKI’s programmes and services,
+eg the MENDAKI Tuition Scheme, Mentoring @ MTS or through referral to other
+services provided by the Social Service Office or the Family Service Centres
+etc.&nbsp;</p>
+<h3><strong>M<sup>3</sup> Engagement Coordination Office (M<sup>3 </sup>ECO)</strong>&nbsp;</h3>
+<p>M<sup>3 </sup>ECO is an integrated office comprising officers from People’s
+Association, MUIS and Yayasan MENDAKI.​&nbsp;</p>
+<p>To assist offenders in their reintegration journey, M<sup>3</sup> Engagement
+Coordination Office (M<sup>3 </sup>ECO) organises courses, workshops and
+learning journeys for offenders residing in Pertapis Halfway House, Jamiyah
+Halfway House, PPIS Rise Above Halfway House and Selarang Halfway House,
+as well as their families through support provided by PA MESRA.&nbsp;&nbsp;</p>
+<p>The courses and workshops include those that impart lifeskills and improve
+employment opportunities.&nbsp;&nbsp;&nbsp;</p>
+<p>M<sup>3 </sup>ECO provides support to M<sup>3</sup>@Towns to engage families
+of incarcerated persons.&nbsp;</p>
 <h3><strong>Malay/Muslim Organisations (MMOs) Rehabilitation Network</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Launch of MMO Rehabilitation Network" src="/images/MMO_Network_Launch.jpg">
