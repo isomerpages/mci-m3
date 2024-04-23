@@ -7,15 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>AS DELIVERED</p>
-<p><strong>SPEECH BY MR MASAGOS ZULKIFLI, MINISTER FOR SOCIAL AND FAMILY</strong>
-</p>
-<p><strong>DEVELOPMENT, SECOND MINISTER FOR HEALTH AND MINISTER-IN-</strong>
-</p>
-<p><strong>CHARGE OF MUSLIM AFFAIRS FOR MINISTER'S HARI RAYA GET-TOGETHER</strong>
-</p>
-<p><strong>ON FRIDAY, 19 APRIL 2024</strong>
-</p>
 <p><strong><em>“Preserving tradition of a contributing community”</em></strong>
 </p>
 <p><strong><em>(Budaya Berbakti, Tradisi Dilestari)</em></strong>
