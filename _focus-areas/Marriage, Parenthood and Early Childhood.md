@@ -45,6 +45,8 @@ before the big day and through the first two years of their lives together.
 Couples begin their pre-marriage journey with a face-to-face meeting with
 their selected Naib Kadi prior to their solemnisation ceremony. Over 26,500
 couples have benefited from the Bersamamu programme as of January 2024.</p>
+<p>Click <a href="https://www.marriage.gov.sg/muslim/marriage-process" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+find out more about the Muslim Marriage Process.</p>
 <h5><strong>Marital First Responder Training</strong></h5>
 <p><em>Building community capability for strong marriages</em>
 </p>
