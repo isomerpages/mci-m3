@@ -43,8 +43,8 @@ families to ensure regular attendance after enrolment.</p>
 by Naib Kadi (marriage solemniser) supports couples in their journey from
 before the big day and through the first two years of their lives together.
 Couples begin their pre-marriage journey with a face-to-face meeting with
-their selected Naib Kadi prior to their solemnisation ceremony. As of Sep
-2020, over 5,700 couples have benefited from the programme.</p>
+their selected Naib Kadi prior to their solemnisation ceremony. Over 26,500
+couples have benefited from the Bersamamu programme as of January 2024.</p>
 <h5><strong>Marital First Responder Training</strong></h5>
 <p><em>Building community capability for strong marriages</em>
 </p>
