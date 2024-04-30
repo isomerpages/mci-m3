@@ -18,3 +18,7 @@ community is more empowered and has built a strong foundation for itself.</p>
 <p>Minister Masagos announced the formation of Islamic Legacy Planning Workgroup
 and Pro-Tem committee to support Wakaf Masyarakat Singapura when it's launched.</p>
 <p>Read more on Minister Masagos speech <a href="https://www.m3.gov.sg/minister-s-hari-raya-get-together-2024/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6RCifvB16V8?si=g0g0f3Nxzhngme1l"></iframe>
+</div>
+<p></p>
