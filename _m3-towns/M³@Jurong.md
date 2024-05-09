@@ -148,21 +148,9 @@ and activities that we hope will benefit these residents.</p>
 <li>
 <p>#amPowered</p>
 </li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
 <li>
 <p>Senang Senam</p>
 </li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
 <li>
 <p>Project S.H.E.</p>
 </li>
