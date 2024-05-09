@@ -199,4 +199,37 @@ focus on education and strengthening family and community ties.</p>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h5><strong>M³@Pasir Ris-Punggol Key/Signature Programmes</strong></h5>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Learning Joruney to S.T.E.M. Companies</p>
+</li>
+<li>
+<p>Ramadan Ride</p>
+</li>
+<li>
+<p>#HashTech</p>
+</li>
+<li>
+<p>Back to School @ Pasir Ris (BTS@Pasir Ris)</p>
+</li>
+<li>
+<p>Back to School @ Punggol (BTS@Punggol)</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
