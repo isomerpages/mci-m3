@@ -28,7 +28,7 @@ a difference.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h5>Key Members of M³@Geylang Serai</h5>
+<h5><strong>Key Members of M³@Geylang Serai</strong></h5>
 </td>
 </tr>
 <tr>
