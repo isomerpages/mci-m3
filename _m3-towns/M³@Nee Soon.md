@@ -17,7 +17,10 @@ programme that equips community volunteers with knowledge and skills to
 provide basic marriage advice to couples.</p>
 <p></p>
 <p>Follow M³@Nee Soon on <a href="https://www.facebook.com/M3-at-Nee-Soon-103809594541207" rel="noopener noreferrer nofollow" target="_blank"><u>Facebook</u></a>!</p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -27,6 +30,20 @@ provide basic marriage advice to couples.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Chairperson:</strong> Ms Siti Mariam Abu Bakar</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Vice-Chairperson:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Abdul Razak Abdul Raheem</p>
+</li>
+<li>
+<p>Ms Zarina Zaharudin</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -87,6 +104,30 @@ provide basic marriage advice to couples.</p>
 </li>
 <li>
 <p>Ms Seri Rahayu Ariff</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h5>M³@Nee Soon Key/Signature Programmes</h5>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Food Distributions</p>
+</li>
+<li>
+<p>Heritage Trails</p>
 </li>
 </ul>
 </td>
