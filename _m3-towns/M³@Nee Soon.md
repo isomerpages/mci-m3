@@ -24,7 +24,7 @@ provide basic marriage advice to couples.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h5>Key Members of M³@Nee Soon</h5>
+<h5><strong>Key Members of M³@Nee Soon</strong></h5>
 </td>
 </tr>
 <tr>
@@ -117,7 +117,7 @@ provide basic marriage advice to couples.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h5>M³@Nee Soon Key/Signature Programmes</h5>
+<h5><strong>M³@Nee Soon Key/Signature Programmes</strong></h5>
 </td>
 </tr>
 <tr>
