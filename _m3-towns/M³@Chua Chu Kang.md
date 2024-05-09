@@ -32,7 +32,7 @@ there to offer a Mentorship programme for Malay youths.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h5>Key Members of M³@Chua Chu Kang</h5>
+<h5><strong>Key Members of M³@Chua Chu Kang</strong></h5>
 </td>
 </tr>
 <tr>
