@@ -123,8 +123,6 @@ Engineering Diploma) and Building &amp; Construction Authority Academy
 is affected due to COVID-19. Re-application is open till Thursday, 15 May
 2020 (for polytechnic, ITE &amp; BCA applicants), from 1 May to 31 Jul
 (for University applicants including NAFA and LaSalle).</p>
-<p>To reapply for TTFS, visit <a href="https://www.smcci.org.sg/covid-19response/" rel="noopener noreferrer nofollow" target="_blank"><u>tfas.mendaki.org.sg/TTFS/Registration/ReApplication</u></a>
-</p>
 <p>Click <a href="/files/PDF/TTFS_MENDAKI_4.9MB.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 view infographics on MENDAKI’s TTFS.</p>
 <p></p>
