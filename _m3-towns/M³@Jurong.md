@@ -41,11 +41,14 @@ and activities that we hope will benefit these residents.</p>
 <p>Follow M³@Jurong on&nbsp;<a href="https://www.facebook.com/m3atjurong/" rel="noopener noreferrer nofollow" target="_blank"><u>Facebook</u></a>&nbsp;,&nbsp;
 <a href="https://www.instagram.com/m3atjurong/" rel="noopener noreferrer nofollow" target="_blank"><u>Instagram</u> 
 </a>&nbsp;and&nbsp;<a href="https://t.me/m3atjurong" rel="noopener noreferrer nofollow" target="_blank"><u>Telegram</u></a>&nbsp;!</p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h5>Key Members of M³@Jurong</h5>
+<h5><strong>Key Members of M³@Jurong</strong></h5>
 </td>
 </tr>
 <tr>
@@ -127,9 +130,31 @@ and activities that we hope will benefit these residents.</p>
 </ul>
 </td>
 </tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<h5><strong>M³@Jurong Key/Signature Programmes</strong></h5>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>#amPowered</p>
+</li>
+<li>
+<p>Senang Senam</p>
+</li>
+<li>
+<p>Project S.H.E.</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>

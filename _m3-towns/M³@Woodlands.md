@@ -46,7 +46,10 @@ Sembawang GRC. The program will facilitate initiatives to guide vulnerable
 families towards achieving sustainable income levels to enhance their financial
 well-being, while also providing mentorship and empowerment for the youth.</p>
 <p>Follow M³@Woodlands on <a href="https://www.facebook.com/M3atWoodlands" rel="noopener noreferrer nofollow" target="_blank"><u>Facebook</u></a>!</p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">

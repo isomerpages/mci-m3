@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/M3_Geylang_Serai.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/M3_Geylang_Photo.png">
 </div>
 <p>Since its establishment in January 2021, M³@Geylang Serai prides itself
 as a focal point for Malay cultural, educational, and social activities.</p>
@@ -18,13 +19,16 @@ and organisations.</p>
 a difference.</p>
 <p>Learn more about MudaSG and volunteer <a href="https://linktr.ee/mudasg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>Follow M³@Geylang Serai on <a href="https://facebook.com/M3atGeylangSerai" rel="noopener noreferrer nofollow" target="_blank"><u>Facebook</u></a>, <a href="https://www.instagram.com/m3atgeylangserai/" rel="noopener noreferrer nofollow" target="_blank"><u>Instagram</u></a> and
-<a href="https://t.me/M3atGeylangSerai" rel="noopener noreferrer nofollow" target="_blank"><u>Telegram</u>
+<a href="https://t.me/M3atGeylangSerai" rel="noopener noreferrer nofollow" target="_blank"><u>Telegram</u> 
 </a>!</p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h5>Key Members of M³@Geylang Serai</h5>
+<h5><strong>Key Members of M³@Geylang Serai</strong></h5>
 </td>
 </tr>
 <tr>

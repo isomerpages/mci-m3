@@ -30,11 +30,14 @@ M³@Bedok strives to create a lasting impact, fostering a sense of unity,
 strength, and growth within the local community.</p>
 <p>Follow us on <a href="https://www.instagram.com/m3atbedok/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> and
 <a href="https://www.facebook.com/M3atBedok" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>!</p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h5>Key Members of M³@Bedok</h5>
+<h5><strong>Key Members of M³@Bedok</strong></h5>
 </td>
 </tr>
 <tr>

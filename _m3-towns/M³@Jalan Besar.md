@@ -7,7 +7,10 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHOTO-2022-09-05-16-11-53.jpg">
 </div>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -40,11 +43,14 @@ and confidence amongst the residents.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h5>Key Members of M³@Jalan Besar</h5>
+<h5><strong>Key Members of M³@Jalan Besar</strong></h5>
 </td>
 </tr>
 <tr>
@@ -119,6 +125,45 @@ and confidence amongst the residents.</p>
 </li>
 <li>
 <p>Zulazmie Ahmad Salleh</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h5><strong>M³@Jalan Besar Key/Signature Programmes</strong></h5>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Project Dian</p>
+</li>
+<li>
+<p>Outreach Programme to an incarcerated person's family</p>
+</li>
+<li>
+<p>Youth Mentoring Programme</p>
+</li>
+<li>
+<p>Employment and Employability programmes</p>
+</li>
+<li>
+<p>Saham Kesihatan</p>
+</li>
+<li>
+<p>Bazar Bestari</p>
+</li>
+<li>
+<p>Projek Khas Untukmu</p>
 </li>
 </ul>
 </td>

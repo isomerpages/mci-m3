@@ -25,11 +25,14 @@ to offer a Mentorship programme for Malay youths. on its network of volunteers
 there to offer a Mentorship programme for Malay youths.</p>
 <p>Volunteer <a href="https://form.gov.sg/65a64824f2138c00121ca31a" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>Follow M³@Chua Chu Kang on <a href="https://www.instagram.com/m3atcck/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>!</p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h5>Key Members of M³@Chua Chu Kang</h5>
+<h5><strong>Key Members of M³@Chua Chu Kang</strong></h5>
 </td>
 </tr>
 <tr>
@@ -101,6 +104,27 @@ there to offer a Mentorship programme for Malay youths.</p>
 </li>
 <li>
 <p>Mr Ibrahim Fergo (Member)</p>
+</li>
+<li>
+<p>Ms Siti Raihanah (Member)</p>
+</li>
+<li>
+<p>Mr Muhammad Othman Bin Sharif (Member)</p>
+</li>
+<li>
+<p>Ms Fazlina Sapuan (Member)</p>
+</li>
+<li>
+<p>Ms Rakinah Binte Mohamed Ali (Member)</p>
+</li>
+<li>
+<p>Ms Nurfara Binte Pawzi (Member)</p>
+</li>
+<li>
+<p>Mr I Naishad Kai-ren (Member)</p>
+</li>
+<li>
+<p>Mr Aidan Bakti Bin Mohd Zaidi (Member)</p>
 </li>
 </ul>
 </td>
