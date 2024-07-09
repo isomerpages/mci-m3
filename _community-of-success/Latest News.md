@@ -4,6 +4,23 @@ permalink: /latest-news/
 variant: tiptap
 description: ""
 ---
+<h1>M<sup>3</sup> Youth Festival</h1>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/M3_YF1.jpg">
+</div>
+<p>M<sup>3</sup> Youth Festival returned for its sixth year on 6 Jul 2024.
+At the event, Minister of State for Health and Digital Development and
+Information Rahayu Mahzam launched Cool Yah Conversations.</p>
+<p>The Cool Yah Conversations is a refreshed mentoring approach which will
+be implemented in M<sup>3</sup>@Towns. The 'flash mentoring' initiative
+provides flexibility and targeted mentorship that accommodates the needs
+and schedules of our youths. It builds leadership and mentoring skills
+among youths, empowering them to play an active role in the community.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/M3_YF3.jpg">
+</div>
+<hr>
 <h1>Minister Hari Raya Get-Together 2024</h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/437962155_969026231256839_4053882815264942570_n.jpg">
