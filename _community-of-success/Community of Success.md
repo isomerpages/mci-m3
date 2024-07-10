@@ -4,9 +4,29 @@ permalink: /community-of-success/communityofsuccess/
 variant: tiptap
 description: ""
 ---
+<h1></h1>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NbMm1-O-Ww0?si=c0IqycQGj4ULEwy-"></iframe>
+</div>
+<h1>Gemilang<br>Our Success, Our Unity</h1>
+<p>The Singapore Malay/Muslim community exemplifies good Character, strong
+Competency and active Ctiizenry. These 3Cs are pillars that form the foundation
+of our Community of Success.</p>
+<p>Introducing Gemilang - a symbol of strength and unity - where we attain
+success by working together and harnessing our collective strength to uplift
+the community. It's more than a celebration of our achievements; it's a
+reminder of our purpose to contribute back to our community and country.</p>
+<p>Follow us for uplifting stories and be part of the movement as we celebrate
+successes and share valuable resources by M<sup>3</sup>.</p>
+<p>Follow us on <a href="https://www.linkedin.com/company/community-of-success-singapore/" rel="noopener noreferrer nofollow" target="_blank">LinkedIn</a> to
+find out more.</p>
+<p></p>
+<hr>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1kQQfVImyLk?si=Z3MPptt4SD1j9dmU"></iframe>
 </div>
+<p></p>
 <h3><strong>About Us</strong></h3>
 <p>Singapore’s Malay/Muslim community makes up about 15% of the total population.
 Being a minority Muslim community in a multi-religious and multi-racial
