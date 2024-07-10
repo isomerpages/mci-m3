@@ -4,8 +4,11 @@ permalink: /community-of-success/communityofsuccess/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<h1>              Gemilang<br>Our Success, Our Unity</h1>
+<h1></h1>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NbMm1-O-Ww0?si=c0IqycQGj4ULEwy-"></iframe>
+</div>
+<h1>Gemilang<br>Our Success, Our Unity</h1>
 <p>The Singapore Malay/Muslim community exemplifies good Character, strong
 Competency and active Ctiizenry. These 3Cs are pillars that form the foundation
 of our Community of Success.</p>
