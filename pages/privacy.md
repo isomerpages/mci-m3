@@ -23,8 +23,8 @@ variant: markdown
     
 6.  This digital service may contain links to non-Government digital services whose data protection and privacy practices may differ from ours.  We are not responsible for the content and privacy practices of these other digital services and encourage you to consult the privacy notices of those digital services.
     
-7.  Please contact [MCI\_Connects@mci.gov.sg](mailto:MCI_Connects@mci.gov.sg) if you:
+7.  Please contact [MDDI\_Connects@mddi.gov.sg](mailto:MDDI_Connects@mddi.gov.sg) if you:
     
-    (a) have any enquires or feedback on our data protection policies and procedures,
+    (a) have any enquiries or feedback on our data protection policies and procedures,
     
     (b) need more information on or access to data which you have provided to us in the past.
