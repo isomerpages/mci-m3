@@ -4,6 +4,48 @@ permalink: /latest-news/
 variant: tiptap
 description: ""
 ---
+<h1>National Day Rally</h1>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NaA2VQDiNO0?si=gg38Z8PiyltdL7bw"></iframe>
+</div>
+<p>At National Day Rally (NDR), Prime Minister (PM) Lawrence Wong announced
+the establishment of the Singapore College of Islamic Studies (SICS). THe
+college aims to train asatizah to provide religious relevant guidance within
+Singapore's context.
+<br>
+<br>PM Wong reiterated his commitment to work with the Malay/Muslim community
+to attain success.</p>
+<p>Read PM Wong speech here: <a href="https://www.pmo.gov.sg/Newsroom/National-Day-Rally-2024-Malay" rel="noopener noreferrer nofollow" target="_blank">PMO | National Day Rally 2024 (Malay)</a>
+</p>
+<h1>Wakaf Masyarakat Singapura</h1>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image_123650291.jpg">
+</div>
+<p></p>
+<p>Wakaf Masyarakat Singapura (WMS) was officially launched on 3 August 2024
+by Minister-in-charge of Muslim Affairs Masagos Zulkifli. WMS, a new Islamic
+Endowment Fund by the community for the community, creates a long-term
+sustainable funding stream for the evolving needs of the Singapore Muslim
+community.</p>
+<p>The establishment of WMS comes back to two important reasons:</p>
+<p>A good Islamic practice and tradition. Our forefathers have bequeathed
+their land and properties for specific purposes that benefit the wider
+community, as guided by Islamic principles. We now have 91 Wakaf, as an
+Amanah, entrusted for us to preserve them for future generations. This
+is a practice that we can learn from and build on – but the last wakaf
+was contributed a long time back in 1978.</p>
+<p>Renewing our mosque land leases. In the next 30 years, we will need at
+least $300 million to renew our mosque land leases in quick succession.
+Our existing community funds such as the Mosque Building and Mendaki Fund
+(MBMF) and Zakat can support the community’s current operation needs. But
+in the long term, we need to do more to strengthen our religious institutions
+such as madrasahs, and develop our Asatizah sector.</p>
+<p></p>
+<p>By establishing the WMS, we will allow ourselves a long runway to raise
+smaller tranches of funds over time and generate a resilient income stream
+to support our future growing needs.</p>
+<hr>
 <h1>M<sup>3</sup> Youth Festival</h1>
 <p></p>
 <div class="isomer-image-wrapper">
