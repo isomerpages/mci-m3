@@ -4,7 +4,26 @@ permalink: /latest-news/
 variant: tiptap
 description: ""
 ---
-<h2></h2>
+<h2>Bersamamu 5th Anniversary Celebration</h2>
+<p>Bersamamu has provided invaluable support and guidance to Muslim couples
+across Singapore since its launch in July 2019. Through Bersamamu, the
+Naib Kadi (marriage solemnisers) will meet and befriend the couples they
+solemnise and provide marriage advice and refer them to national-level
+programmes and services.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kxdxZNnJPro?si=24k2tfbqm3jZxo5Q"></iframe>
+</div>
+<p>At the event, Minister-in-charge of Muslim Affairs Masagos Zulkifli officially
+launched the new Bersamamu logo, and presented awards to the dedicated
+Kadi, Naib Kadi, and female Asatizah, whose dedication have been instrumental
+in the success of the programme. Ustaz Pasuni Maulan and Ustaz Sallim Jasman,
+two highly respected Kadis, were each bestowed with the prestigious "Anugerah
+Kadi Sepanjang Hayat” (Lifetime Achievement Award) in recognition of their
+unwavering commitment to strengthening families’ efforts, beyond solemnising
+marriages, over their combined 100 years of service to the community.</p>
+<p>Read Minister's Masagos speech here: <a href="https://www.mccy.gov.sg/about-us/news-and-resources/speeches/2024/Aug/Bersamamu-5th-Anniversary-Event" rel="noopener nofollow" target="_blank">Bersamamu 5th Anniversary Event</a>
+</p>
+<hr>
 <h1>National Day Rally</h1>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NaA2VQDiNO0?si=gg38Z8PiyltdL7bw"></iframe>
