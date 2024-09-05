@@ -94,7 +94,7 @@ to help them envision their post-secondary pathways. Those in the Normal
 Technical stream will also be bridged to MENDAKI’s YouthSpaces @ ITE for
 ongoing support, should they choose to progress to the ITE after their
 ‘N’ Levels.</p>
-<p>To register as a mentor for #amPowered@MTS, click <a href="https://www.tinyurl.com/volunteerMENDAKI2021" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+<p>To register as a mentor for #amPowered@MTS, click <a href="https://go.gov.sg/mendaki-volunteer" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <h3><strong>#amPowered@M³Towns</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
