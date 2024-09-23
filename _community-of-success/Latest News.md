@@ -4,6 +4,25 @@ permalink: /latest-news/
 variant: tiptap
 description: ""
 ---
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/e3DyLIoZZwU?si=_a_hHykiRUVp3CuL"></iframe>
+</div>
+<h1>Malay/Muslim Community’s Appreciation Dinner for Senior Minister Lee Hsien Loong</h1>
+<p>On 20 September 2024, a tribute event was held for Senior Minister (SM)
+Lee Hsien Loong, organised by MENDAKI with support from various Malay/Muslim
+organisations.</p>
+<p>SM Lee has significantly influenced the Malay/Muslim community and Singapore
+through his sensitive approach to issues like terrorism, the wearing of
+‘tudung’ for our healthcare workers, and Section 377A.</p>
+<p>The community expresses deep gratitude for his unwavering dedication and
+service, which have fostered unity and understanding. Together, we will
+continue to honour his legacy and uphold the values he has embodied for
+future generations.</p>
+<p>Read more about it in Minister Masagos' Facebook post <a href="https://go.gov.sg/minister-masagos-on-mm-appreciation-event" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.m3.gov.sg/minister-s-hari-raya-get-together-2024/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/240419MUIS021.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Minister Masagos Hari Raya Get-Together Speech 2024</div><div class="isomer-card-description">In this year's gathering, Minister retiterated that citizenry remains at the core of our Singaporean Muslim identity – to contribute to a united society, striving together for the common good.</div><div class="isomer-card-link">Read more</div></div></a>
+</div>
+<hr>
 <h2>Bersamamu 5th Anniversary Celebration</h2>
 <p>Bersamamu has provided invaluable support and guidance to Muslim couples
 across Singapore since its launch in July 2019. Through Bersamamu, the
