@@ -4,10 +4,10 @@ permalink: /latest-news/
 variant: tiptap
 description: ""
 ---
+<h1>Malay/Muslim Community’s Appreciation Dinner for Senior Minister Lee Hsien Loong</h1>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/e3DyLIoZZwU?si=_a_hHykiRUVp3CuL"></iframe>
 </div>
-<h1>Malay/Muslim Community’s Appreciation Dinner for Senior Minister Lee Hsien Loong</h1>
 <p>On 20 September 2024, a tribute event was held for Senior Minister (SM)
 Lee Hsien Loong, organised by MENDAKI with support from various Malay/Muslim
 organisations.</p>
