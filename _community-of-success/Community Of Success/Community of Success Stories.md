@@ -18,7 +18,7 @@ youths. <a href="https://www.facebook.com/share/p/j5mRmaMbDv3y58D4/" rel="noopen
 </p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/1721727400266.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/1721727400266.jpg">
 </div>
 <h4>Ella Badis</h4>
 <p>Find out more about giving back to your community, and what skills you
