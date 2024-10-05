@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Community Of Success Stories/.keep
-      - Community of Success.md
       - Our Pulse/.keep
       - Our Pulse/Language & Culture.md
       - Our Pulse/Education.md
