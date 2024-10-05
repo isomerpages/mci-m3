@@ -5,10 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Community Of Success
 ---
-<h3>Community of Success Stories </h3>
+<h3>Community of Success Stories</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1721119731131.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/1721119731131.jpg">
 </div>
 <h4>Ustaz Ahmad Muhsein</h4>
 <p>Through his role at Assyakirin Mosque and involvement with various youth
@@ -17,9 +17,8 @@ to advocate for equitable opportunities and holistic development for Singapore's
 youths. <a href="https://www.facebook.com/share/p/j5mRmaMbDv3y58D4/" rel="noopener nofollow" target="_blank">Read more</a>
 </p>
 <hr>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1721727400266.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/1721727400266.jpg">
 </div>
 <h4>Ella Badis</h4>
 <p>Find out more about giving back to your community, and what skills you
@@ -28,7 +27,7 @@ marketer and salesperson with over 10+ years of experience. <a href="https://www
 </p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/455273046_901031908735881_9041713322818716655_n.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/455273046_901031908735881_9041713322818716655_n.jpg">
 </div>
 <h4>Ustaz Zaki</h4>
 <p>Ustaz Zaki has been serving the community in various posts, such as youth
@@ -41,7 +40,7 @@ with faith, understanding, and support. <a href="https://www.facebook.com/share/
 </p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_10_05_at_8_01_17_PM.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_10_05_at_8_01_17_PM.png">
 </div>
 <h4>Alia Kalistiani</h4>
 <p>Alia Kalistiani’s impressive return to the workforce offers valuable insights
@@ -50,7 +49,7 @@ tips she has to share? <a href="https://www.linkedin.com/pulse/how-ww-helped-ali
 </p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_10_05_at_8_02_34_PM.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_10_05_at_8_02_34_PM.png">
 </div>
 <h4>Ustaz Zulhilmi</h4>
 <p>As a trainer in the Marital First Responder (MFR) programme, Ustaz Zulhilmi
@@ -60,7 +59,7 @@ marital issues from escalating. <a href="https://fb.watch/v0XSI3F0MW/" rel="noop
 </p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_10_05_at_8_02_56_PM.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_10_05_at_8_02_56_PM.png">
 </div>
 <h4>Shahida</h4>
 <p>Explore Shahida's insights as a Care Advisor at Yayasan MENDAKI on the
@@ -68,7 +67,7 @@ vital roles of family and community in shaping youth success. <a href="https://f
 </p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_10_05_at_8_03_31_PM.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_10_05_at_8_03_31_PM.png">
 </div>
 <h4>Noreen Abdullah</h4>
 <p>Find out how Noreen Abdullah’s KelasMateMatika experience has enabled
@@ -77,7 +76,7 @@ her and her family to turn everyday moments into learning opportunities.
 </p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_10_05_at_8_04_05_PM.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_10_05_at_8_04_05_PM.png">
 </div>
 <h4>Nur Nadiah Nisabella</h4>
 <p>Nadiah's journey shows how mentorship boosts motivation, confidence, and
