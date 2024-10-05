@@ -2,7 +2,7 @@ collections:
   community-of-success:
     output: true
     order:
-      - Community Of Success Stories/.keep
+      - Community Of Success/.keep
       - Our Pulse/.keep
       - Our Pulse/Language & Culture.md
       - Our Pulse/Education.md
