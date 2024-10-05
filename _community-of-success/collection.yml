@@ -2,6 +2,7 @@ collections:
   community-of-success:
     output: true
     order:
+      - Community Of Success/Community of Success.md
       - Community Of Success/Community of Success Stories.md
       - Community Of Success/.keep
       - Our Pulse/.keep
