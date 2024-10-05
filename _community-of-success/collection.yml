@@ -2,15 +2,16 @@ collections:
   community-of-success:
     output: true
     order:
+      - Community Of Success/.keep
       - Community Of Success/Community of Success.md
       - Community Of Success/Community of Success Stories.md
-      - Community Of Success/.keep
       - Our Pulse/.keep
       - Our Pulse/Language & Culture.md
       - Our Pulse/Education.md
       - Our Pulse/Socio Religious.md
       - Our Pulse/Social & Health Development.md
       - Our Pulse/Arts & Sports.md
+      - Latest News.md
       - News Gallery/.keep
       - News Gallery/2024.md
       - News Gallery/2023.md
@@ -27,4 +28,3 @@ collections:
       - SGTeguhBersatu/SGTeguhBersatu Taskforce Members.md
       - SGTeguhBersatu/SGTeguhBersatu Initiatives.md
       - CiptaSama@M³.md
-      - Latest News.md
