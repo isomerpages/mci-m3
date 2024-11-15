@@ -4,6 +4,50 @@ permalink: /latest-news/
 variant: tiptap
 description: ""
 ---
+<h1><strong>M³ Forum: Celebrating 5 Years of M³</strong></h1>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/collage.jpg">
+</div>
+<p>M<sup>3</sup> celebrates its 5<sup>th</sup> anniversary this year, marking
+a huge milestone in the efforts to uplift the Malay/Muslim community. To
+cap off the celebrations, over 1,000 community partners including Malay/Muslim
+organisations, professionals, and dedicated M³@Towns volunteers gathered
+on 10 November 2024 at the M<sup>3</sup> Forum to celebrate this momentous
+occasion. We were also honoured to have Prime Minister Lawrence Wong in
+attendance as he gave a rousing speech in which he reiterated the Government’s
+commitment to support the Malay/Muslim community in achieving its vision
+of a Community of Success. PM Wong announced three transformative projects
+set to enrich the Malay/Muslim community’s cultural and educational landscape.</p>
+<p>One of which is the Singapore College of Islamic Studies (SCIS). This
+college will serve as a monumental educational institution to shape future
+asatizah with the confidence to address contemporary challenges in Singapore’s
+multi-racial and multi-religious context.</p>
+<p>Additionally, the rejuvenation of the Geylang Serai Cultural Belt, featuring
+a revitalised Tanjong Katong Complex, and the reopening of the Malay Heritage
+Centre at Kampong Gelam, will breathe new life into Singapore’s heritage
+spaces. A major upgrade to Sultan Mosque is also slated for next year.&nbsp;</p>
+<p>The event also marked the launch of M³'s fifth anniversary book titled
+‘Realising the Vision of a Community: The M³ Journey’ published by Berita
+Harian. Inspired by the resilience of the Malay/Muslim community through
+challenges like the COVID-19 pandemic, the book chronicles M³’s collaborative
+achievements since its inception and stands as an inspiration for volunteers,
+and a guide for leaders.</p>
+<p>In addition, awards were presented to outstanding volunteers and for special
+projects, honouring the invaluable contributions that have helped shape
+M³'s impact over the years.&nbsp;</p>
+<p>Minister Maliki also provided an update on the Organisation Volunteer
+initiative launched earlier this year, rallying support from organisations
+and corporations to encourage employees to give back through Project Dian.
+Changi General Hospital (CGH) is the first to step forward, recently leading
+an enriching KidZania experience for children and parents, sparking positive
+career conversations in a fun setting. Other partners, including the Public
+Service Division and TAQWA Financial Services, have also come onboard,
+with promising engagement from public service officers eager to volunteer
+with M³.</p>
+<p>
+<br>
+</p>
 <h1>Malay/Muslim Community’s Appreciation Dinner for Senior Minister Lee Hsien Loong</h1>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/e3DyLIoZZwU?si=_a_hHykiRUVp3CuL"></iframe>
