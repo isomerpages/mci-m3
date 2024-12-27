@@ -4,13 +4,28 @@ permalink: /focus-areas/employment-and-employability/
 variant: tiptap
 description: ""
 ---
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/FA_4___1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FA_4___1.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/FA_4___2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FA_4___2.jpg">
 </div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Given the evolving economic landscape, it is important to support the
 Malay/Muslim (MM) community in remaining relevant and employable. By providing
 essential skills development and career guidance, M³ empowers individuals
@@ -109,4 +124,3 @@ overall success of both jobseekers and employers.</p>
 </p>
 <p>WSG: <a rel="noopener noreferrer nofollow" target="_blank">www.ssg.gov.sg</a>
 </p>
-<p></p>
