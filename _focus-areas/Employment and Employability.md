@@ -4,4 +4,110 @@ permalink: /focus-areas/employment-and-employability/
 variant: tiptap
 description: ""
 ---
-<p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/focus-area-employment-thumb.jpg"></div><p>COVID-19 has taken a toll on the Malay/Muslim workforce as Singapore rides through the economic impact of the pandemic. In order to remain resilient, M³ continues to play an integral role to support the community in ensuring that they can remain employed by having the necessary skillsets and optimising available opportunities.</p><p>Led by Mr Fahmi Aliman and launched in October 2020, this focus area aims to bridge our workers to employment and employability opportunities to meet their immediate needs. Through this focus area, M³&nbsp;aims to enhance the capability of our workforce through skills upgrading and lifelong learning initiatives, thereby strengthening their resilience and ensuring their employability in the future.</p><p>This focus area will look towards reaching out to a range of jobseekers from mature jobseekers (40 years and above), PMET jobseekers (mid-career switchers), fresh graduates, young workers and the general community (including the self-employed, vulnerable and low-wage workers).</p><h3><strong>JUMP Campaign</strong></h3><p><em>Bringing various agencies together to tackle Job Opportunities, Upskilling, Mobility (Career) and Professional Development, in order to ensure our Malay/Muslim community remains mobile, agile and progressive in these economic times.</em></p><p>As part of the JUMP (Job Opportunities, Upskilling, Mobility (Career) and Professional Development) campaign, the JUMP Career Fair provides an employability platform for job seekers to find career and training opportunities. Organised by MENDAKI SENSE, the JUMP Career Fair was incepted in 2018 and started as a physical outreach. Since April this year, Virtual Career Fairs were rolled out to assist with the employment needs of jobseekers in the current pandemic situation. To date, JUMP has organised six Virtual Career Fairs, with more than 3,000 job seekers registered through the platform via Cari Kerja App.</p><h5><strong>Job Opportunities</strong></h5><p>MENDAKI SENSE, together with MESRA and its MAEC network, SkillsFuture Singapore, Workforce Singapore and Yayasan MENDAKI, are collaborating to organise both physical and virtual career events.</p><p>Apart from the virtual career fairs organised, physical events will be organised at various community centres across Singapore. Job opportunities in the growth sectors (early childhood, healthcare, manufacturing and social services) will be offered by participating companies and employers.</p><p>SkillsFuture Advice @ CDC (SFA@CDC) will be on board to engage participants and provide SkillsFuture Advice consultations, whilst MENDAKI SENSE will continue to provide personalised assistance to job seekers so as to broaden their understanding of jobs in demand and skills required in specific sectors. The collaboration targets to engage 20,000 jobseekers which includes 3,000 low wage workers, 1,000 vulnerable workers, and 5,000 tertiary students.</p><h5><strong>Upskilling</strong></h5><p>In collaboration with partners such as ITE, SalesForce, Union Leaders, MyFinB, MENDAKI SENSE has been running free virtual workshops/teasers on essential skills such as digital and financial literacy, as well as in-demand technical skills.</p><p>Through lighter programmes, this will create more accessible learning opportunities that are also less daunting, thereby encouraging participants to take greater investment into upskilling themselves. This will in turn enhance participants’ employability and continue to enhance success for the individuals and community. This collaboration is expected to run until March 2021 and targets 1,000 Malay Muslim online participants.</p><h5><strong>Mobility (Career)</strong></h5><p>Under the scope of mobility, MENDAKI SENSE will enhance and scale the outreach and impact of archetype-specific programmes for PMETs and Women Returning to Work. This is done through a collaboration with partners such as MENDAKI, AMP and PPIS.</p><p>Programmes for PMETs will focus on enhancing their career mobility by boosting their contacts and skills, through professional networking sessions and workshops. For women returning to work, participants will be guided over three steps (Step In, Step Up &amp; Step Out) to enhance their career mobility by assisting them to develop new skills and competencies.</p><h5><strong>Professional Development</strong></h5><p>In the area of professional development, MUIS and MENDAKI SENSE have been collaborating in skills development of local asatizah, based on the Asatizah Career &amp; Competency Framework, whilst leveraging on SSG sector-based skills frameworks.</p><p>SENSE career advisors also play a vital role to enhance employability of job seekers. They adopt the ACE IT! approach when providing career and training guidance to job seekers, which includes assessment of individual needs, creating awareness of available assistance, establishing career and training pathways, implementation of training plans, job placement, and tracking of progress.</p><p>Moreover, SENSE career advisors assist individuals from various profiles (Rank-and-file, Seniors, and Mid-Career switchers) to explore new sectors for career switch or gain information on training opportunities to further their careers. Since its launch in October 2019, ACE IT! has been deployed for 3,000 job seekers and successfully matched 620 job seekers to jobs in various sectors.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/FA_4___1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/FA_4___2.jpg">
+</div>
+<p>Given the evolving economic landscape, it is important to support the
+Malay/Muslim (MM) community in remaining relevant and employable. By providing
+essential skills development and career guidance, M³ empowers individuals
+to seize available opportunities and thrive in the workforce.</p>
+<p>Led by Mayor of South East District &nbsp;Fahmi Aliman and launched in
+October 2020, this focus area aims to bridge our workers to employment
+opportunities to meet their immediate needs, as well as enhance the capability
+of our workforce through skills upgrading and lifelong learning initiatives,
+thereby strengthening their resilience and ensuring their employability
+in the future.</p>
+<p>This focus area supports a wide spectrum of the community, including mature
+jobseekers (40 years and above), mid-career switchers, fresh graduates,
+young workers, women looking to re-enter the workforce, platform workers
+and vulnerable workers.</p>
+<h4><strong>Ecosystem of Support</strong></h4>
+<p>The rapid pace of technological innovation is revolutionising the job
+market, rendering certain industries obsolete and transforming the skills
+required for success. To remain competitive in this dynamic landscape,
+individuals must proactively acquire new knowledge and skills. Our ecosystem,
+including NTUC's e2i (Employment and Employability Institute), NTUC LearningHub
+(NTUC LHUB), SkillsFuture Singapore (SSG), Lifelong Learning Institute
+(LLI), Workforce Singapore (WSG), and MENDAKI, offers a comprehensive range
+of resources designed to assist workers in adapting to the evolving demands
+of the future of work.</p>
+<p>By providing targeted initiatives and short-term training programs, we
+empower individuals to transition seamlessly into emerging fields and industries.
+These programs equip workers with the essential skills and competencies
+needed to thrive in the job market, such as digital literacy, data analytics,
+artificial intelligence, and automation. By investing in the development
+of our workforce, we can increase employment opportunities, enhance productivity,
+and ensure Singapore's continued economic prosperity in the face of technological
+disruption.</p>
+<h4><strong>Partnerships and collaborations</strong></h4>
+<p>NTUC with NTUC’s e2i, NTUC LearningHub, Workforce Singapore (WSG), Lifelong
+Learning Institute (LLI) and MENDAKI, through career fairs and the recent
+Jobs &amp; Skills Carnival, assisted approximately more than 6,000 Malay/Muslim
+workers and close to 20% them had received further coaching and guidance
+through Focus Area 4’s (FA4) initiatives. This includes career guidance,
+job matching and upskilling opportunities.</p>
+<p>This partnership has strengthened coordination and collaboration in M<sup>3</sup> networks
+in the delivery of relevant employment and employability programmes. For
+example, the NTUC Women and Family (WAF) and MENDAKI had worked together
+to provide link ups between the WAF’s Women Supporting Women Mentoring
+Programme and MENDAKI’s Women At Work (W@W) programme, where the W@W participants
+were referred to NTUC’s e2i for career coaching and job assistance through
+NTUC’s WAF.</p>
+<h4><strong>Community Engagements</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/FA_4___7.jpg">
+</div>
+<p>FA4 employs a multi-faceted communication strategy to reach a broader
+audience and raise awareness of its initiatives. This includes the use
+of podcasts and radio programs as valuable platforms for disseminating
+information about career opportunities, skills development programmes,
+and other relevant resources. These channels allow for in-depth discussions,
+sharing of expert insights, and direct engagement with listeners, making
+them effective tools for fostering awareness and interest.</p>
+<p>In addition to broadcast media, FA4 actively organizes community events
+and dialogue sessions to facilitate engagement with the Malay/Muslim community.
+These gatherings provide a valuable face-to-face opportunity for individuals
+to ask questions, seek advice, and learn more about the available support
+services. By combining these diverse communication channels, FA4 has been
+able to effectively reach and engage a wide range of individuals, promoting
+awareness and participation in its initiatives.</p>
+<h4><strong>Last Mile Delivery</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/FA_4___8.jpg">
+</div>
+<p>Union leaders, acting as trusted intermediaries, play a pivotal role in
+connecting jobseekers with relevant employment opportunities within FA4's
+Greenlane business partners. Through personalised home visits, the union
+leaders engage in in-depth conversations with residents to understand the
+individual's specific needs, career aspirations, and unique challenges.
+This empathetic approach allows union leaders to build rapport and gain
+valuable insights that facilitate the job matching process for residents.
+&nbsp;</p>
+<p>With a deep understanding of each jobseeker's qualifications, skills,
+and preferences, union leaders actively seek out suitable roles within
+FA4's Greenlane network. They leverage their industry knowledge and relationships
+to identify companies that align with the jobseeker's career goals and
+offer promising opportunities for growth and development. By carefully
+matching the jobseeker to &nbsp;appropriate positions, union leaders help
+to ensure a seamless transition into the workforce and contribute to the
+overall success of both jobseekers and employers.</p>
+<p><em>For further information, you can reach FA4 at: </em><strong><em>FA4@ntuc.org.sg</em></strong>
+</p>
+<p>MENDAKI: <a rel="noopener noreferrer nofollow" target="_blank">https://www.mendaki.org.sg/programmes/women-at-work/</a>
+</p>
+<p>NTUC’s e2i: <a rel="noopener noreferrer nofollow" target="_blank">https://www.e2i.com.sg/</a>
+</p>
+<p>NTUC LearningHub: <a rel="noopener noreferrer nofollow" target="_blank">https://www.ntuclearninghub.com/</a>
+</p>
+<p>SSG: <a rel="noopener noreferrer nofollow" target="_blank">myskillsfuture.gov.sg</a>
+</p>
+<p>LLI: <a rel="noopener noreferrer nofollow" target="_blank">https://www.lli.sg/</a>
+</p>
+<p>WSG: <a rel="noopener noreferrer nofollow" target="_blank">www.ssg.gov.sg</a>
+</p>
+<p></p>
