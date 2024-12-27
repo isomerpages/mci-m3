@@ -86,16 +86,15 @@ by various mosques.&nbsp;</p>
 contact FITRAH.&nbsp;</p>
 <h4><strong>Partnership with Mosques</strong></h4>
 <p>FITRAH partners with our mosques for a referral process for families of
-inmates to the network of <s>31</s> 35 mosques disbursing zakat financial
-assistance. At the mosques, families of inmates will be connected to support
-programmes, as well as Islamic Education programmes under aLIVE, ADIL,
-and Home-based Islamic Learning. In addition, FITRAH partners with mosques'
-asatizah to provide religious programmes for inmates and befriending support
-for ex-offenders. This approach ensures continuous spiritual and social
-care throughout the rehabilitation process, from incarceration to reintegration
-in the community.</p>
-<p>The FITRAH office is located at En-Naeem Mosque. You can also click&nbsp;&nbsp;
-<a href="https://www.facebook.com/Fitrah-Family-and-Inmates-ThRoughcare-Assistance-Haven-400985470741061/" rel="noopener noreferrer nofollow" target="_blank">here&nbsp;</a>&nbsp;to get in touch with FITRAH today.</p>
+inmates to the network of 35 mosques disbursing zakat financial assistance.
+At the mosques, families of inmates will be connected to support programmes,
+as well as Islamic Education programmes under aLIVE, ADIL, and Home-based
+Islamic Learning. In addition, FITRAH partners with mosques' asatizah to
+provide religious programmes for inmates and befriending support for ex-offenders.
+This approach ensures continuous spiritual and social care throughout the
+rehabilitation process, from incarceration to reintegration in the community.</p>
+<p>The FITRAH office is located at En-Naeem Mosque. You can also click&nbsp;
+<a href="https://www.facebook.com/Fitrah-Family-and-Inmates-ThRoughcare-Assistance-Haven-400985470741061/" rel="noopener noreferrer nofollow" target="_blank">here&nbsp;</a>to get in touch with FITRAH today.</p>
 <h4><strong>Family Excellence Circle by MENDAKI</strong>&nbsp;</h4>
 <p>MENDAKI supports Focus Area 2 efforts through a specially curated Family
 Excellence Circle (FEC) Programme for families impacted by incarceration.</p>
@@ -137,8 +136,7 @@ Faishal Ibrahim&nbsp;on 30 November 2021.</p>
 <h4><strong>Developments and Events</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Annual MMO Rehabilitation Network Korban Distribution Event </strong>
-<br>
+<p><strong>Annual MMO Rehabilitation Network Korban Distribution Event</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -222,7 +220,6 @@ issues, the paper aims to inspire more individuals and organisations to
 join this effort. Click&nbsp;<a href="https://apac01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.mha.gov.sg%2Fdocs%2Fdefault-source%2Fdefault-document-library%2Fpaper-on-working-with-the-mm-community-to-prevent-offending-and-reoffending.pdf&amp;data=05%7C02%7C%7Cbec87a91ac2543dc70c408dc4d4fc006%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C638470252155363439%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=XugIXieyKXBi%2BpC80uUXj%2BvR5Zqife87kQ6CFd2rXAg%3D&amp;reserved=0" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 download the paper.
 <br>
-<br>
 </p>
 </li>
 <li>
@@ -241,10 +238,8 @@ sharing sessions to provide members with the opportunity to better understand
 the various programmes and services provided by the different MMOs. Such
 sessions also provide members with the opportunity to explore ways to better
 support their beneficiaries.</p>
-</li>
-</ol>
 <p></p>
-<ol start="5" data-tight="true" class="tight">
+</li>
 <li>
 <p><strong>The Next Lap projects</strong>
 </p>
