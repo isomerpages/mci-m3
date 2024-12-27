@@ -76,7 +76,6 @@ services. By combining these diverse communication channels, FA4 has been
 able to effectively reach and engage a wide range of individuals, promoting
 awareness and participation in its initiatives.</p>
 <h4><strong>Last Mile Delivery</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/FA_4___8.jpg">
 </div>
