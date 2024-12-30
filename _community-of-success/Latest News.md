@@ -45,9 +45,7 @@ career conversations in a fun setting. Other partners, including the Public
 Service Division and TAQWA Financial Services, have also come onboard,
 with promising engagement from public service officers eager to volunteer
 with M³.</p>
-<p>
-<br>
-</p>
+<p></p>
 <h1>Malay/Muslim Community’s Appreciation Dinner for Senior Minister Lee Hsien Loong</h1>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/e3DyLIoZZwU?si=_a_hHykiRUVp3CuL"></iframe>
