@@ -4,6 +4,215 @@ permalink: /latest-news/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<h1><strong>Singapore’s next chapter in building a Malay/Muslim community of success</strong></h1>
+<blockquote>
+<p><em>By Minister Masagos Zulkifli, Minister for Social and Family Development and Minister-in-Charge of Muslim Affairs, Second Minister for Health.</em>
+</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/IMG_3645.jpg">
+</div>
+<p>In 2018, as Minister-in-charge of Muslim Affairs, I officiated the Islamic
+Religious Council of Singapore (Muis) annual zakat distribution to lower-income
+families for the first time.</p>
+<p>Back then, I asked whether the families were known to the Malay/Muslim
+community's self-help group Mendaki<a href="https://www.straitstimes.com/singapore/mendaki-is-better-meeting-malaymuslim-community-s-needs-zaqy-mohamad" class="anchor-link" rel="nofollow noopener" target="_blank"> </a>and
+whether the children were enrolled in its programmes. As it turned out,
+they were not.</p>
+<p>Mendaki has many good programmes which have uplifted the educational achievements
+of the community over the years under the leadership of successive ministers.</p>
+<p>I thought then that while these programmes were effective, they had not
+been scaled widely enough to reach every family in need.</p>
+<p>A similar observation arose with the People’s Association Malay Activity
+Executive Committees Council (PA Mesra).</p>
+<p>The group – meant to bring the Malay community together – was sizeable,
+but its membership and leadership had stagnated over the years, lacking
+the renewal needed to stay relevant and dynamic.</p>
+<p>The community had achieved considerable success, but was confronted by
+new challenges.</p>
+<p>As I took on the role of Minister-in-charge of Muslim Affairs, I contemplated:
+How could the community build on its past successes? What would its next
+bound be?</p>
+<p>These questions sparked the genesis of M<sup>3</sup> (M-cube).</p>
+<p>It was&nbsp;an initiative to bring the three key Malay/Muslim institutions&nbsp;–
+Muis, Mendaki and PA Mesra – under a single umbrella for stronger collaboration
+and to better support the community’s needs.</p>
+<p>Before the establishment of M<sup>3</sup>,&nbsp;the three institutions
+engaged the community effectively but operated independently.&nbsp;</p>
+<p>Individuals seeking their services had to approach each agency separately,
+as there was no structured framework for inter-agency coordination.</p>
+<p>The idea was simple: Collaborate to achieve more. As the name M<sup>3</sup> suggests,&nbsp;the
+aim wasn’t just to add value – it was to multiply it and create a bigger,
+lasting impact.</p>
+<h4>M<sup>3</sup> in action</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/PHOTO_2024_07_03_15_19_52.jpg">
+</div>
+<p>Once the organisations began working in synergy, we could focus on refreshing
+existing programmes and creating new ones.&nbsp;</p>
+<p>M<sup>3</sup> was to become the rallying call for the community – bringing
+the Government, community leaders and volunteers together to confront the
+challenges of the day.</p>
+<p>The first mission was to strengthen last-mile service delivery by ensuring
+that services provided by one organisation were made accessible to the
+immediate clients of another.&nbsp;</p>
+<p>We began with the five focus areas: strengthening marriages, parenthood
+and early childhood education, supporting vulnerable individuals and families,
+youth empowerment and mentoring, employment and employability, and health.</p>
+<p>Our goal was clear – to enhance last-mile service delivery, ensuring that
+help would reach those who need it the most, with no one falling through
+the cracks.</p>
+<p>To make a direct impact and tap into the expertise of professionals, we
+established 11 M<sup>3</sup>@Towns across the island.</p>
+<p>These local hubs fostered collaboration at the community level, bringing
+M<sup>3</sup>’s services closer to the ground.</p>
+<h4>Building a community of success</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHOTO_2024_07_03_15_22_07.jpg">
+</div>
+<p>M<sup>3</sup> laid a solid foundation for the Malay/Muslim community to
+pursue its vision of becoming a community of success – a vision defined
+by three key pillars: Character, competency and citizenry.</p>
+<p>First, I believe our community’s unique character is deeply rooted in
+the practice of Islam which upholds values of care and compassion.</p>
+<p>At the inaugural International Conference on Communities of Success (ICCOS)
+in 2022, prominent religious scholars from around the world reached a consensus:
+minority Muslim communities can greatly benefit from a body of knowledge
+that guides them in applying Islam in context.</p>
+<p>This perspective reinforces the importance of being valued citizens of
+our country – contributing to peace, harmony and progress. In Singapore’s
+multiracial and multi-religious society, this affirmation holds even greater
+significance.</p>
+<p>It is because of this unique character that the Malay/Muslim community
+could respond to the Covid-19 crisis calmly.</p>
+<p>The community contributed to the national effort at containing the pandemic,
+including postponing the haj pilgrimage and not congregating for the weekly
+Friday prayers. They even conformed to the safe management measures during
+Hari Raya visiting.</p>
+<p>Recently when confronted with the Israel-Hamas conflict, the Mufti guided
+the community to remain calm and pray for peace.</p>
+<p>The community funnelled its energy towards <a href="https://www.straitstimes.com/singapore/spore-charity-raises-over-2-6m-to-fund-humanitarian-aid-for-children-families-in-gaza" class="anchor-link" rel="nofollow noopener" target="_blank">providing aid for the Palestinians,</a> with
+organisations like the Rahmatan Lil Alamin Foundation raising a record
+$12.8 million to date for the people of Gaza during this recent conflict.</p>
+<p>Second, we aim to build competency by empowering the community to excel
+in education. Our goal is to nurture the next generation of Malay/Muslim
+professionals and entrepreneurs who will take on leadership roles across
+the private, public and people sectors.</p>
+<p>Third, in building a united and strong Muslim community, we aspire to
+develop an active citizenry – one that contributes to nation-building and
+passionately gives back to the wider Singapore society.</p>
+<p>Ultimately, this is about building trust with other communities. By staying
+strong, united and engendering trust with other communities, we can confidently
+and courageously tackle the challenges ahead.</p>
+<h4>Our progress</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_7091.jpg">
+</div>
+<p>I am proud of the Malay/Muslim community’s achievements thus far. In just
+five years, we have achieved considerable scale in reaching out and uplifting
+the community.</p>
+<p>Many have benefited from the enhanced accessibility of various community
+programmes under M<sup>3</sup>. Mendaki’s KelasMateMatika (KMM) early childhood
+initiative has supported over 10,000 parents and children.</p>
+<p>The Bersamamu programme has helped more than 30,000 couples strengthen
+marital foundations through marriage preparation courses.</p>
+<p>Beyond these, other M<sup>3</sup> programmes have begun to positively impact
+our youth, workers and families in larger numbers.</p>
+<p>Thanks to the combined efforts of the National Trades Union Congress (NTUC)
+and Mendaki, we’ve seen an increase in the proportion of Malays who hold
+PMET (professionals, managers, executives and technicians) positions from
+23.4 per cent in 2000 to 39 per cent in 2020.</p>
+<p>We’ve also witnessed a vast reduction in the two-year recidivism rate
+of Malay ex-offenders, from 35 per cent for the 2011 release cohort to
+26 per cent for the 2021 cohort.</p>
+<p>We have also built a strong pool of volunteers who played an instrumental
+role throughout this journey.</p>
+<p>I’m heartened by the strong support of our 850 volunteers across 11 M<sup>3</sup>@Towns,
+who have devoted their time and talent to connect M<sup>3</sup>’s last-mile
+service delivery to citizens in need.</p>
+<p>These volunteers are Malay/Muslim professionals from various fields –
+lawyers, doctors, engineers, social workers and civil servants – whom we
+called on to step up to give back to the community.</p>
+<p>I’m pleased that they have the spirit of paying it forward. They volunteer
+their time and expertise at M<sup>3</sup>@Towns and contribute to ground-up
+initiatives. One example is the group of lawyers who provide essential
+pro bono legal services to the community and recently established a formal
+organisation, Peguam, to offer help in a more structured way.</p>
+<p>Our achievements as a community have not gone unnoticed. Our success story
+has been seen as a model for other Muslim minority communities internationally.</p>
+<p>In October 2024, Singapore hosted the second ICCOS, bringing together
+leaders of Muslim minority communities from around the world.</p>
+<p>The conference focused on sharing experiences in integrating religious
+and cultural diversity while addressing socio-religious challenges in a
+multicultural society.</p>
+<p>I am glad many of our young Muslims participated and heard first-hand
+the positive feedback from international participants about our model of
+religious and racial harmony.</p>
+<p>This experience, I believe, instilled a strong sense of pride in all of
+us as Singaporean Muslims.</p>
+<h4>The road ahead</h4>
+<p>Today, the Malay/Muslim community operates from an ever greater position
+of strength.</p>
+<p>We have an exciting journey ahead. I am optimistic that the five years
+ahead will be even better than the five years before.</p>
+<p>To mark the culmination of five years of our renewed spirit of collaboration,
+the M<sup>3 </sup>Forum was held, bringing together 4,000 volunteers –
+both new and veterans. In his speech, Prime Minister Lawrence Wong outlined
+the Government’s plans to work alongside the Malay/Muslim community to
+shape the next phase of development.</p>
+<p>We look forward to upcoming plans such as the establishment of the Singapore
+College of Islamic Studies (SCIS), the rejuvenation of the Geylang Serai
+Cultural Belt, the reopening of the Malay Heritage Centre in Kampong Glam
+and the restoration works of the Sultan Mosque.</p>
+<p>SCIS represents an important milestone for the community. It seeks to
+groom our future religious teachers (asatizah) with the knowledge and skills
+to provide contexualised religious guidance for Muslim communities living
+in diverse and contemporary societies like Singapore.</p>
+<p>Through these efforts, we will instil noble character in the next generation
+of Muslims. The recently established Wakaf Masyarakat Singapura (Singapore
+Community Endowment) will play an important role in supporting the long-term
+socio-religious needs of our Malay/Muslim community.</p>
+<p>This will empower our community to become self-reliant and capable of
+addressing the needs of future generations.</p>
+<p>Similarly, we look forward to the revitalisation of our cultural precincts
+in Kampong Glam and Geylang Serai. These iconic spaces hold a special place
+in the hearts of Malay/Muslims, as they are integral to our heritage, telling
+the stories of our community’s rich history and culture.</p>
+<h4>Building our future together</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_01_07_at_3_08_52_PM.jpg">
+</div>
+<p>I am deeply thankful to all who have joined us on this journey. In addition
+to the collective efforts of M<sup>3 </sup>agencies, we are also grateful
+for the contributions of several other Malay/Muslim organisations. We also
+appreciate the strong support of government agencies and partners.</p>
+<p>Mufti of Singapore, Dr Nazirudin Nasir, shared a hadith (sayings or traditions
+of Prophet Muhammad) in one of his Friday sermons: “Whichever part of the
+date palm tree you take, it is sure to be of benefit.” Mufti elaborated
+that the character of a confident, resilient and empowered Muslim is like
+a date palm tree that provides protection to others and contributes meaningfully
+to the world.</p>
+<p>If a Muslim is like a date palm tree, then our community is like a date
+farm – a farm that thrives on collective strength. It flourishes when we
+work together with others in various areas, building trust with other communities
+and the Government.</p>
+<p>This year, Singapore celebrates SG60. This is a significant milestone
+for our country, a celebration of how far we have progressed as a nation,
+and an occasion to rally all Singaporeans to build our future Singapore
+together.</p>
+<p>In a similar way, SG60 presents an opportunity for the Malay/Muslim community
+to reflect on how far we have come as a community of success, and to re-commit
+ourselves to the cause of uplifting fellow members of our community and
+Singapore.</p>
+<p>As the Malay proverb goes, “seikat bak sirih, serumpun bak serai”. The
+road ahead may be fraught with challenges and uncertainties, but it also
+brings hopes and opportunities for a brighter future.</p>
+<p>I am confident that the Malay/Muslim community will continue to stand
+together in unity and solidarity, to build a bright future for our next
+generation.</p>
+<p>Read it in Malay on <strong>Berita Harian</strong>  <a href="https://go.gov.sg/read-in-malay-here" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h1><strong>M³ Forum: Celebrating 5 Years of M³</strong></h1>
 <p></p>
 <div class="isomer-image-wrapper">
