@@ -9,9 +9,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Jurong_Group_Photo.jpg">
 </div>
-<p>Launched in April 2019 by Grassroots Adviser Senior Parliamentary Secretary
-Madam Rahayu Mahzam, M<sup>3</sup>@Jurong aims to empower and uplift the
-youth and low-income Malay/Muslim families in Jurong.</p>
+<p>Launched in April 2019 by Grassroots Adviser Minister of State Madam Rahayu
+Mahzam, M<sup>3</sup>@Jurong aims to empower and uplift the youth and low-income
+Malay/Muslim families in Jurong.</p>
 <p>M³@Jurong’s hashtag #kitadisini reminds the community that it is here
 to assist residents who require help.</p>
 <p></p>
@@ -38,9 +38,15 @@ cluster.</p>
 MENDAKI, community leaders, and volunteers to create programmes, workshops
 and activities that we hope will benefit these residents.</p>
 <p></p>
-<p>Follow M³@Jurong on&nbsp;<a href="https://www.facebook.com/m3atjurong/" rel="noopener noreferrer nofollow" target="_blank"><u>Facebook</u></a>&nbsp;,&nbsp;
-<a href="https://www.instagram.com/m3atjurong/" rel="noopener noreferrer nofollow" target="_blank"><u>Instagram</u> 
-</a>&nbsp;and&nbsp;<a href="https://t.me/m3atjurong" rel="noopener noreferrer nofollow" target="_blank"><u>Telegram</u></a>&nbsp;!</p>
+<p>Volunteer with us <a href="https://go.gov.sg/m3jurongvol" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p></p>
+<p>Follow M³@Jurong on&nbsp;<a href="https://www.facebook.com/m3atjurong/" rel="noopener noreferrer nofollow" target="_blank"><u>Facebook</u></a>,&nbsp;
+<a href="https://www.instagram.com/m3atjurong/" rel="noopener noreferrer nofollow" target="_blank"><u>Instagram</u>
+</a>,&nbsp;<a href="https://t.me/m3atjurong" rel="noopener noreferrer nofollow" target="_blank"><u>Telegram</u></a>,
+and <a href="wa.me/6580245727" rel="noopener nofollow" target="_blank">WhatsApp</a> for
+more updates!</p>
+<p></p>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -58,7 +64,7 @@ and activities that we hope will benefit these residents.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Adviser: </strong>Senior Parliamentary Secretary Mdm Rahayu Mahzam</p>
+<p><strong>Adviser: </strong>Minister of State Mdm Rahayu Mahzam</p>
 </td>
 </tr>
 <tr>
@@ -72,6 +78,12 @@ and activities that we hope will benefit these residents.</p>
 </li>
 <li>
 <p>Syahrizan Mansor (Vice-Chairperson)</p>
+</li>
+<li>
+<p>Shahrin bin Abdol Salam, PBM (Vice-Chairperson)</p>
+</li>
+<li>
+<p>Muhammad Danial Hakim Bin Rosli</p>
 </li>
 <li>
 <p>Dr Asyifah Rashid</p>
