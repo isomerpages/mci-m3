@@ -68,9 +68,17 @@ well-being, while also providing mentorship and empowerment for the youth.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Members:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Muhammad Harmizan Bin Abdul Hamid (Deputy Chairperson)</p>
+</li>
+<li>
+<p>Deanna Binte Shaharuddin</p>
+</li>
+<li>
+<p>Salleh Abu Bakar</p>
 </li>
 <li>
 <p>Mohamed Shahril Bin Jaffar</p>
@@ -80,9 +88,6 @@ well-being, while also providing mentorship and empowerment for the youth.</p>
 </li>
 <li>
 <p>Ghazali Bin Ramdan</p>
-</li>
-<li>
-<p>Deanna Binte Shaharuddin</p>
 </li>
 <li>
 <p>Zarina Yusof</p>
@@ -97,31 +102,31 @@ well-being, while also providing mentorship and empowerment for the youth.</p>
 <p>Raja Hamzah Bin Raja Zulkifli, PBM</p>
 </li>
 <li>
-<p>Mohamad Saddiq Mohammad Sa’id</p>
+<p>Mohamad Saddiq Mohamad Sa’id</p>
 </li>
 <li>
 <p>Siti Rasyidah Sheihk Abdul Hakim</p>
 </li>
 <li>
-<p>Muhammad Imran Abdul Rahim</p>
+<p>Hassan Mulyadi Mohamed</p>
 </li>
 <li>
-<p>Shahrudin B Salleh</p>
+<p>Muhammad Umar Bin Mohammad Yosof</p>
 </li>
 <li>
-<p>Izuan M Rais</p>
+<p>Shahrudin Bin Salleh</p>
 </li>
 <li>
 <p>Fadli Osman</p>
-</li>
-<li>
-<p>Abdul Raimee</p>
 </li>
 <li>
 <p>Taibah Ismail</p>
 </li>
 <li>
 <p>Abdul Fattah Abdussamad</p>
+</li>
+<li>
+<p>Ahmad Ghazali Nordin</p>
 </li>
 <li>
 <p>Mazlan Boyamin</p>
@@ -151,9 +156,6 @@ well-being, while also providing mentorship and empowerment for the youth.</p>
 <p>Mohamed Ismail Abu Bakar</p>
 </li>
 <li>
-<p>Muhammad Syahmi Bin Sumadi</p>
-</li>
-<li>
 <p>Shazwani Jumat</p>
 </li>
 <li>
@@ -181,9 +183,6 @@ well-being, while also providing mentorship and empowerment for the youth.</p>
 <p>Sarinah Isa</p>
 </li>
 <li>
-<p>Salleh Abu Bakar</p>
-</li>
-<li>
 <p>Noor Danial Bin Noor Hizat</p>
 </li>
 <li>
@@ -196,10 +195,13 @@ well-being, while also providing mentorship and empowerment for the youth.</p>
 <p>Nur Hazwani Binte Mohamad Azih</p>
 </li>
 <li>
-<p>Saiful Saroni</p>
+<p>Muhammad Imran Abdul Rahim</p>
 </li>
 <li>
-<p>Fathiah Najwa</p>
+<p>Haji Amin Abdul Latif</p>
+</li>
+<li>
+<p>Haji Sanef</p>
 </li>
 </ul>
 </td>
