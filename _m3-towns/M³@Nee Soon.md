@@ -4,8 +4,9 @@ permalink: /m3-towns/nee-soon/
 variant: tiptap
 description: ""
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/m3-nee-soon.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/M3_Nee_Soon.jpg">
 </div>
 <p>M³@Nee Soon was launched in March 2019 and aims to build stronger family
 ties, including helping parents to forge stronger bonds with their children.</p>
@@ -34,14 +35,15 @@ provide basic marriage advice to couples.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vice-Chairperson:</strong>
-</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Abdul Razak Abdul Raheem</p>
+<p>Mr Abdul Razak Abdul Raheem (Vice-Chairperson)</p>
 </li>
 <li>
-<p>Ms Zarina Zaharudin</p>
+<p>Ms Zarina Zaharudin (Vice-Chairperson)</p>
+</li>
+<li>
+<p>Mr Izuan M Rais (Vice-Chairperson)</p>
 </li>
 </ul>
 </td>
@@ -53,12 +55,11 @@ provide basic marriage advice to couples.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Members:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Abdul Razak Abdul Raheem (Vice-Chairperson)</p>
-</li>
-<li>
-<p>Ms Zarina Zaharudin&nbsp;Mdm Norbaieyah Binte Ismail (Vice-Chairperson)</p>
+<p>Mdm Norbaieyah Binte Ismail</p>
 </li>
 <li>
 <p>Mdm Dahlia Bin Dali</p>
@@ -128,6 +129,9 @@ provide basic marriage advice to couples.</p>
 </li>
 <li>
 <p>Heritage Trails</p>
+</li>
+<li>
+<p>Keluargaku Kukuh, Masyarakatku Utuh Forums</p>
 </li>
 </ul>
 </td>
