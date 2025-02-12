@@ -122,5 +122,5 @@ overall success of both jobseekers and employers.</p>
 </p>
 <p>LLI: <a rel="noopener noreferrer nofollow" target="_blank">https://www.lli.sg/</a>
 </p>
-<p>WSG: <a rel="noopener noreferrer nofollow" target="_blank">www.ssg.gov.sg</a>
+<p>WSG: <a rel="noopener noreferrer nofollow" target="_blank">www.wsg.gov.sg</a>
 </p>
