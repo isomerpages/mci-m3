@@ -4,8 +4,9 @@ permalink: /m3-towns/marsiling-yew-tee/
 variant: tiptap
 description: ""
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/m3-marsiling.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/M3_MYT.jpg">
 </div>
 <p>Since its inception in July 2019, M<sup>3</sup>@Marsiling-Yew Tee has
 been engaging the Malay Muslim community in providing last-mile help to
@@ -35,7 +36,7 @@ Area 3), and the recently added Focus Area 5 on Health.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Chairperson: </strong>Mdm Rahidah Bte Mohd Noor, PBM</p>
+<p><strong>Chairperson: </strong>Dr Faisal Johandi</p>
 </td>
 </tr>
 <tr>
@@ -45,54 +46,43 @@ Area 3), and the recently added Focus Area 5 on Health.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Board Members: </strong>Mr Azriman Mansor (Deputy Chairman)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Core Committee Members:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mohamed Wahed Bin Sawpi</p>
+<p>Mohamed Jaafar Bin M.H</p>
+</li>
+<li>
+<p>Shabirin Ariffin</p>
 </li>
 <li>
 <p>Syed Mohamad Bin Syed Hamid</p>
 </li>
 <li>
-<p>Mohamed Jaafar Bin M.H</p>
-</li>
-<li>
 <p>Abdul Rahman Bin Minhad</p>
-</li>
-<li>
-<p>Amirul Hairi</p>
 </li>
 <li>
 <p>Muhammad Azrin Bin Abdullah</p>
 </li>
 <li>
-<p>Siti Patimah Abdul lRazak</p>
+<p>Siti Patimah Abdul Razak</p>
 </li>
 <li>
-<p>Zaiton Bte Osman</p>
-</li>
-<li>
-<p>Abdul Raof Bin Ab Hamid</p>
-</li>
-<li>
-<p>Kamsani Bin Harop</p>
-</li>
-<li>
-<p>Heah Kian Beng @ Ridhwan Heah</p>
-</li>
-<li>
-<p>Abdul Ghani Bin Fathli, PBM</p>
+<p>Zarina Bte Amo'in</p>
 </li>
 <li>
 <p>Ahmad Al-Mahir Bin Abu Bakar</p>
 </li>
 <li>
-<p>Rohani Bte Paei</p>
+<p>Maslindah Bte Sain</p>
 </li>
 <li>
-<p>Nor Kamaliah Bte Mohd Nor</p>
-</li>
-<li>
-<p>Muhammad Farhan Firdaus</p>
+<p>Mislina Bte Timat</p>
 </li>
 <li>
 <p>Azman Bin Ab Jalil</p>
@@ -104,13 +94,7 @@ Area 3), and the recently added Focus Area 5 on Health.</p>
 <p>Abdul Wahab Bin Ahmad</p>
 </li>
 <li>
-<p>Tengku Darwiis</p>
-</li>
-<li>
-<p>Muhammad Haizuruldin Bin Gimin</p>
-</li>
-<li>
-<p>Dr Faisal Johandi</p>
+<p>Qayyum Lukman</p>
 </li>
 <li>
 <p>Hj Juraiman</p>
@@ -125,40 +109,69 @@ Area 3), and the recently added Focus Area 5 on Health.</p>
 <p>Faizal Abdul Rahim</p>
 </li>
 <li>
-<p>Moliah Hashim</p>
+<p>Abdul Samad Abdul Wahab</p>
 </li>
 <li>
-<p>Azriman Mansor</p>
+<p>Tengku Darwiis</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Community Volunteers:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Herman Bin Ali</p>
 </li>
 <li>
-<p>Djoni Huang Sian Wei</p>
+<p>Abdul Raof Bin Ab Hamid</p>
 </li>
 <li>
-<p>Rohan Nizam Basheer</p>
+<p>Ari Andrian Paul</p>
+</li>
+<li>
+<p>Madam Moliah Hashim</p>
 </li>
 <li>
 <p>Rita Zarina Mohd Nazeer</p>
 </li>
 <li>
-<p>Noorfarahin Ahmad</p>
+<p>Muhammad Haizuruldin Bin Gimin</p>
 </li>
 <li>
 <p>Suhaila Mohd Zan</p>
-</li>
-<li>
-<p>Salbiah Abu Dalap</p>
-</li>
-<li>
-<p>Abdul Samad bin Abdul Wahab</p>
-</li>
-<li>
-<p>Sumaiyah Abdul Kader</p>
 </li>
 <li>
 <p>Siti Nurhidayah</p>
 </li>
 <li>
 <p>Noreen Ismail</p>
+</li>
+<li>
+<p>Nurul Izzah Binte Mohd Noor</p>
+</li>
+<li>
+<p>Shamim aizat bin asrak</p>
+</li>
+<li>
+<p>Danial Izwan Bin Mohd Shahri</p>
+</li>
+<li>
+<p>Djoni Huang Sian Wei</p>
+</li>
+<li>
+<p>Muhammad Syahmi Bin Sahri</p>
+</li>
+<li>
+<p>Siti Mariam</p>
+</li>
+<li>
+<p>Mohammad Fahmie Bin Mohammed Kamis</p>
+</li>
+<li>
+<p>Mohammad Hozzaidi Bin Osman</p>
 </li>
 </ul>
 </td>
@@ -180,13 +193,13 @@ Area 3), and the recently added Focus Area 5 on Health.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>#amPowered@Marsiling-Yew Tee</p>
+<p>Gaya Sihat @ Marsiling-Yew Tee</p>
 </li>
 <li>
-<p>Jom Sihat Bersama M<sup>3</sup>@Marsiling-Yew Tee</p>
+<p>#amPowered @ Marsiling-Yew Tee</p>
 </li>
 <li>
-<p>KMM@CC</p>
+<p>Hijrah Walk</p>
 </li>
 </ul>
 </td>
