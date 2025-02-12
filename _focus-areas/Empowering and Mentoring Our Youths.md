@@ -67,7 +67,7 @@ as teambuilding, motivational talks, sharing sessions and developmental
 workshops, the programme motivates students to towards graduation with
 at least a NITEC qualification. Click <a href="https://youtu.be/5P5CLRez9eA" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to find out more about
 #amPowered@ITE.</p>
-<p>To register as a mentor for #amPowered@ITE, click <a href="https://www.tinyurl.com/volunteerMENDAKI2021" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+<p>To register as a mentor for #amPowered@ITE, click <a href="https://go.gov.sg/mendaki-volunteer" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <h3><strong>#amPowered@MTS</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
