@@ -5,6 +5,46 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<h1><strong>Committee Of Supply 2025 (Muslim Affairs)</strong></h1>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cQXKvo3jeqg?si=DIsFm_fYPwGb-Azy"></iframe>
+</div>
+<p></p>
+<p>At the Committee Of Supply (Muslim Affairs) debates, Minister-in-charge
+of Muslim Affairs, Masagos Zulkifli, unveiled strategies to develop the
+asatizah sector.</p>
+<p>The main strategy to enhance the attractiveness of our asatizah sector
+is through the Common Salary Guideline (CSG) which will be implemented
+in stages. Since 2023, the salaries of asatizah working in mosques and
+religious schools have increased by more than 80% to meet the salary ceiling
+of CSG, with an average salary increase of 5% to 12%.</p>
+<p>Read Minister Masagos' speech here: <a href="https://www.mccy.gov.sg/about-us/news-and-resources/speeches/2025/Mar/Empowering-the-community-and-religious-sector-to-progress-with-confidence" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.mccy.gov.sg/about-us/news-and-resources/speeches/2025/Mar/Empowering-the-community-and-religious-sector-to-progress-with-confidence</u></a>
+</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HBsoRrl5su0?si=f73qKw_-soeHzFhH"></iframe>
+</div>
+<p>At the Committee of Supply (Muslim Affairs) debates, Minister in Prime
+Minister's Office (PMO), and Second Minister (Education and Foreign Affairs)
+Dr Maliki Osman announced the expansion of Project Dian@M<sup> 3</sup> to
+all 11&nbsp;M<sup> 3</sup>@Towns. In line with SG60, M<sup> 3</sup>@Towns
+is raising funds for the Aid for Gaza campaign. The public is welcome to
+contribute sincerely.</p>
+<p>Read Minister Maliki's speech here: <a href="https://www.mccy.gov.sg/about-us/news-and-resources/speeches/2025/Mar/Nurturing-a-spirit-of-citizenry-towards-community-and-nation-building" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.mccy.gov.sg/about-us/news-and-resources/speeches/2025/Mar/Nurturing-a-spirit-of-citizenry-towards-community-and-nation-building</u></a>&nbsp;
+<br>
+</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/84y6l23vsOM?si=hBPDjwh1NKeAmlzn"></iframe>
+</div>
+<p>At the Committee of Supply (Muslim Affairs) debate, Senior Minister of
+State (Defence and Manpower) and Deputy Chairman of MENDAKI, Zaqy Mohamad,
+shared MENDAKI’s strategy to meet the needs of professional skills enhancement
+and to promote life-long learning among Malay/Muslim workers. M<sup>3 </sup>Focus
+Area 4 complements the national efforts in life-long learning and helps
+workers to remain competitive as employment demands increase.</p>
+<p>Read SMS Zaqy's speech here: <a href="https://www.mccy.gov.sg/about-us/news-and-resources/speeches/2025/Mar/Transforming-to-equip-our-community-for-the-future" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.mccy.gov.sg/about-us/news-and-resources/speeches/2025/Mar/Transforming-to-equip-our-community-for-the-future</u></a>
+<br>
+</p>
 <h1><strong>Singapore’s next chapter in building a Malay/Muslim community of success</strong></h1>
 <blockquote>
 <p><em>By Minister Masagos Zulkifli, Minister for Social and Family Development and Minister-in-Charge of Muslim Affairs, Second Minister for Health.</em>
