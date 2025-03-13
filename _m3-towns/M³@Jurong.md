@@ -113,9 +113,6 @@ more updates!</p>
 <p>Dr Mohamad Shamsuri Juhari</p>
 </li>
 <li>
-<p>Shahrin bin Abdol Salam, PBM</p>
-</li>
-<li>
 <p>Mohamed Fazal Bin Abd Hamid</p>
 </li>
 <li>
