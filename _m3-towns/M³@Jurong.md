@@ -92,7 +92,7 @@ more updates!</p>
 <p>Abdul Karim Shahul Hameed, PBM</p>
 </li>
 <li>
-<p>Ratinah Rawi Rawi, PBM</p>
+<p>Ratinah Rawi, PBM</p>
 </li>
 <li>
 <p>Zulkifli Shualman</p>
