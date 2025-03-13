@@ -92,7 +92,7 @@ more updates!</p>
 <p>Abdul Karim Shahul Hameed, PBM</p>
 </li>
 <li>
-<p>Ratinah Rawi Rawi, PBM</p>
+<p>Ratinah Rawi, PBM</p>
 </li>
 <li>
 <p>Zulkifli Shualman</p>
@@ -111,9 +111,6 @@ more updates!</p>
 </li>
 <li>
 <p>Dr Mohamad Shamsuri Juhari</p>
-</li>
-<li>
-<p>Shahrin bin Abdol Salam, PBM</p>
 </li>
 <li>
 <p>Mohamed Fazal Bin Abd Hamid</p>

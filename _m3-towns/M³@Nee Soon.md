@@ -35,21 +35,6 @@ provide basic marriage advice to couples.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Mr Abdul Razak Abdul Raheem (Vice-Chairperson)</p>
-</li>
-<li>
-<p>Ms Zarina Zaharudin (Vice-Chairperson)</p>
-</li>
-<li>
-<p>Mr Izuan M Rais (Vice-Chairperson)</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Adviser: </strong>Assoc. Prof. Muhammad Faishal Ibrahim</p>
 </td>
 </tr>
@@ -58,6 +43,15 @@ provide basic marriage advice to couples.</p>
 <p><strong>Members:</strong>
 </p>
 <ul data-tight="true" class="tight">
+<li>
+<p>Mr Abdul Razak Abdul Raheem (Vice-Chairperson)</p>
+</li>
+<li>
+<p>Ms Zarina Zaharudin (Vice-Chairperson)</p>
+</li>
+<li>
+<p>Mr Izuan M Rais</p>
+</li>
 <li>
 <p>Mdm Norbaieyah Binte Ismail</p>
 </li>
