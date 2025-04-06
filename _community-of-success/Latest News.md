@@ -4,7 +4,37 @@ permalink: /latest-news/
 variant: tiptap
 description: ""
 ---
+<h1><strong>Minister's Hari Raya Get-Together 2025</strong></h1>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/IMG_1353.jpg">
+</div>
+<p>At the annual Minister's Hari Raya Get-Together, Minister-in-Charge of
+Muslim Affairs, Mr Masagos Zulkifli, reflected on the remarkable progress
+the Malay/Muslim (MM) community has made over the past 60 years.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_04_03_at_18_36_57.jpg">
+</div>
+<p>We have come far - through working hand-in-hand with other communities
+to contribute to the well-being of the broader society, while shaping a
+better future for all Singaporeans.</p>
+<p>The next five years hold many exciting milestones for the MM community.
+Later this year, the first Forum of Regional Communities of Success will
+be convening with friends from Cambodia, the Philippines &amp; Thailand.
+Featuring three components, the forum will induct the first batch participants
+to the Communities Of Success Programme 2.0 (COSP 2.0). Volunteers from
+the MM community will get the chance to visit regional partners to share
+their experience through capacity-building programmes. Scholarships or
+attachments to Muslim secondary school students from these countries to
+study in our local madrasah are also being explored. The second half of
+this year will be an exciting one!</p>
+<p>There are many developments that the community can look forward to in
+the coming year. These reflect our shared aspirations for a thriving Community
+of Success and positions us as a global example for minority communities
+everywhere. Let us remain steadfast in our commitment to grow while honouring
+the foundations laid by our pioneers. By staying united, supporting one
+another, and building on the progress of past generations, we can continue
+charting a promising future for generations to come!</p>
 <h1><strong>Committee Of Supply 2025 (Muslim Affairs)</strong></h1>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cQXKvo3jeqg?si=DIsFm_fYPwGb-Azy"></iframe>
