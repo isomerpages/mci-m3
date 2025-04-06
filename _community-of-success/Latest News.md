@@ -12,12 +12,12 @@ description: ""
 <p>At the annual Minister's Hari Raya Get-Together, Minister-in-Charge of
 Muslim Affairs, Mr Masagos Zulkifli, reflected on the remarkable progress
 the Malay/Muslim (MM) community has made over the past 60 years.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_04_03_at_18_36_57.jpg">
-</div>
 <p>We have come far - through working hand-in-hand with other communities
 to contribute to the well-being of the broader society, while shaping a
 better future for all Singaporeans.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_04_03_at_18_36_57.jpg">
+</div>
 <p>The next five years hold many exciting milestones for the MM community.
 Later this year, the first Forum of Regional Communities of Success will
 be convening with friends from Cambodia, the Philippines &amp; Thailand.
