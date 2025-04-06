@@ -51,7 +51,7 @@ and prosperity.&nbsp;</p>
 <li>
 <p>We did not achieve this by chance, but through deliberate and concerted
 effort.</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>In the early years, successive community leaders worked hard to set robust
 foundations for the community.</p>
@@ -59,7 +59,7 @@ foundations for the community.</p>
 <li>
 <p>Our religious and ethnic-based organisations were committed to helping
 our Muslim community:&nbsp;</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Practice their faith confidently and harmoniously with other groups,&nbsp;</p>
 </li>
@@ -70,14 +70,14 @@ and acquires skills to tap on employment opportunities, and&nbsp;</p>
 <li>
 <p>Encourage civic and community participation.&nbsp;</p>
 </li>
-</ol>
+</ul>
 </li>
-</ol>
+</ul>
 </li>
 <li>
 <p>Recently, we strengthened these foundations, by working together to build
 a Community of Success.&nbsp;</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>We coordinated the resources of MUIS, MENDAKI, and PA MESRA under the
 M<sup>3</sup> framework, and many professionals stepped forward to give
@@ -87,7 +87,7 @@ back.&nbsp;</p>
 <p>Last year, many of you attended M<sup>3</sup>’s fifth anniversary and
 I was glad to hear from you the positive impact that M3 had on the community.&nbsp;</p>
 </li>
-</ol>
+</ul>
 </li>
 <li>
 <p>Today, we stand as a thriving society built on these strong foundations.</p>
@@ -111,7 +111,7 @@ aunited Malay/Muslim community.&nbsp;</p>
 <p>Over the years, our community has nurtured the spirit of gotong royong
 and strengthened our mutual trust. This trust produces unity, and unity
 achieves big results.&nbsp;</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Today, our community contributes generously to uplift one another. For
 example, we raise $40 million annually for the Mosque Building and MENDAKI
@@ -119,12 +119,12 @@ Fund, and an additional $70 million in Zakat. Unity and generosity - are
 why we accumulate over $100 million every year from our small community
 of 650,000!</p>
 </li>
-</ol>
+</ul>
 </li>
 <li>
 <p>Beyond donations, many of you also giving much of your time and talent
 to support those in need.&nbsp;</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>In fact, volunteering has become a multi-generational effort. Mr Deddy
 Zulkarnain, a systems analyst, started volunteering because of his father,
@@ -142,7 +142,7 @@ these efforts!</p>
 <p>Ladies and gentlemen, this is community unity in action. Going together,
 is how we can uplift our community.</p>
 </li>
-</ol>
+</ul>
 <h3><strong>Go wide: Building bridges across communities and contributing to a shared future&nbsp;</strong></h3>
 </li>
 <li>
@@ -153,18 +153,18 @@ importance as it contributes to a strong and resilient society in Singapore.</p>
 <li>
 <p>Today, fostering racial and religious harmony has become part of our everyday
 lives in Singapore.</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>The fact that leaders of different communities are here tonight is a testament
 of our collective commitment to our life of harmony. Similarly, Muslims
 also graciously partake in other communities’ festivities in Singapore.&nbsp;</p>
 </li>
-</ol>
+</ul>
 </li>
 <li>
 <p>Just as we come together during good times, we also stand by one another
 during tough times.</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>We have overcome many challenges over the years, and have emerged stronger
 than before, such as the COVID-19 pandemic.</p>
@@ -172,7 +172,7 @@ than before, such as the COVID-19 pandemic.</p>
 <li>
 <p>And this is how we will face tomorrow’s challenges. United and together.</p>
 </li>
-</ol>
+</ul>
 </li>
 <li>
 <p>So let’s go wide and continue to look beyond ourselves. In this SG60 year,
@@ -196,7 +196,7 @@ membina asas yang kukuh bagi memperkasa masyarakat kita.&nbsp;</p>
 <p>Untuk maju sebagai Masyarakat Gemilang ke tahap seterusnya, kita mesti
 meniti masa depan dengan Melangkah Bersama, Merangkai Jalinan dan Merentas
 Sempadan.&nbsp;</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Pertama, kita perlu Melangkah Bersama sebagai masyarakat yang bersatu
 padu untuk mencapai cita-cita yang kita idam-idamkan.</p>
@@ -215,7 +215,7 @@ berani mencabar batasan serta giat meneroka peluang-peluang baru.&nbsp;</p>
 kita boleh Melangkah Bersama dan Merangkai Jalinan. Izinkan saya terangkan
 pula bagaimana kita boleh Merentas Sempadan sebagai satu masyarakat.</p>
 </li>
-</ol>
+</ul>
 <p>
 <br><em>Merentas Zaman</em>
 <br>
@@ -231,7 +231,7 @@ berkekalan dan mampan.</p>
 </li>
 <li>
 <p>Atas dasar inilah kami wujudkan Wakaf Masyarakat Singapura (WMS).</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Sumbangan anda kepada WMS, tidak kira kecil atau besar, adalah sadaqah
 jariyah yang akan menjana pahala berkekalan hingga ke akhirat, InsyaAllah.</p>
@@ -242,7 +242,7 @@ akan menyokong keperluan sosio-agama masyarakat Islam dalam jangka panjang.
 Inilah cara kita mengekalkan institusi keagamaan dan mendokong barisan
 asatizah kita.</p>
 </li>
-</ol>
+</ul>
 </li>
 <li>
 <p>Dalam&nbsp; hal ini, sukacita saya ingin mengumumkan bahawa MUIS akan
@@ -283,7 +283,7 @@ betul daripada asatizah yang bertauliah.</p>
 dan peluang-peluang baru untuk berkembang dan merinitis sempadan yang belum
 pernah kita terokai. Saya sendiri sudah mula mempelajari cara menggunakan
 AI, dan ia merupakan pengalaman yang sangat menarik dan membuka minda saya.</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Baru-baru ini, semasa saya ada sedikit masa terluang, saya cuba mencipta
 sebuah lagu dengan menggunakan AI. Mula-mula saya karang sebuah puisi.
@@ -300,7 +300,7 @@ for a snippet of the song&gt; &lt;Applause&gt;</p>
 agak sederhana itu, akhirnya menjadi sebuah lagu lengkap yang menggambarkan
 visi Masyarakat Gemilang kita.</p>
 </li>
-</ol>
+</ul>
 </li>
 <li>
 <p>Jadi, ayuh kita segera mendakap arus perkembangan ini. Kita boleh mula&nbsp;
@@ -339,19 +339,19 @@ hingga ke Palestin harus wujud untuk mereka yang berjiran dengan kita.&nbsp;</p>
 Awam Singapura (SCDF) dengan segera menghantar satu misi penyelamat ke
 Myanmar untuk membantu mangsa-mangsa gempa bumi termasuk pegawai-pegawai
 yang beragama Islam yang tidak dapat beraya. Terima kasih kepada mereka.</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Siang tadi, RLAF telah menganjurkan kutipan dana di masjid-masjid untuk
 mangsa gempa di Myanmar semasa solat Jumaat. Kutipan akan disalurkan kepada
 dana Palang Merah Singapura. Saya amat mengalu-alukan sumbangan anda semua.</p>
 </li>
-</ol>
+</ul>
 </li>
 <li>
 <p>Secara lebih luas, visi kita membangun Masyarakat Gemilang telah menarik
 perhatian masyarakat Islam minoriti antarabangsa yang mahu belajar daripada
 pengalaman Singapura.</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Di Persidangan Antarabangsa mengenai Masyarakat Gemilang atau ICCOS Oktober
 lalu, para peserta seperti Dr. Baptiste Brodard, dari Universiti Fribourg,
@@ -367,7 +367,7 @@ dalam perbincangan mengenai pembangunan masyarakat Islam minoriti. Para
 peserta COSP datang dari pelbagai negara termasuk dari Papua New Guinea
 dan Sepanyol.</p>
 </li>
-</ol>
+</ul>
 </li>
 <li>
 <p>Baru-baru ini, saya bertemu dengan rakan-rakan sejawat, menteri-menteri
@@ -390,7 +390,7 @@ untuk berbincang lebih lanjut.&nbsp;</p>
 <p>Pertama, COSP versi dua&nbsp; akan melengkapkan para peserta dengan pengetahuan
 dan keupayaan untuk menyesuaikan apa yang telah dipelajari di Singapura
 dengan konteks tempatan mereka sendiri. Secara khusus, ini termasuk:&nbsp;</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Program-program pembangunan masyarakat yang diadakan di masjid sebagai
 wadah untuk mendekati masyarakat;</p>
@@ -402,7 +402,7 @@ ROMM; dan</p>
 <li>
 <p>Program pementoran belia dan kepimpinan masyarakat.</p>
 </li>
-</ol>
+</ul>
 </li>
 <li>
 <p>Kedua, dengan COSP versi 2.0, kami akan bekerjasama dengan rakan kongsi
@@ -443,7 +443,7 @@ menyumbang kepada kemakmuran Singapura dan dunia.&nbsp;
 <li>
 <p>As we continue to build a Community of Success, our Malay/Muslim community
 is in a position of strength.&nbsp;</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>We uplift others in the community, chart new aspirations, and contribute
 meaningfully to Singapore’s progress.&nbsp;</p>
@@ -451,14 +451,14 @@ meaningfully to Singapore’s progress.&nbsp;</p>
 <li>
 <p>We also have much to offer to other communities beyond our borders.&nbsp;</p>
 </li>
-</ol>
+</ul>
 </li>
 <li>
 <p>And our road ahead is an exciting one with much to look forward to.&nbsp;</p>
 </li>
 <li>
 <p>Let me outline some key highlights in the next five years.&nbsp;&nbsp;</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>This June, the Advisory Panel of the Singapore College of Islamic Studies
 (SCIS) will convene in Singapore for the first time. Leaders from partner
@@ -492,7 +492,7 @@ vision for the Geylang Serai Cultural Belt.</p>
 of Success that will create meaningful and lasting impact for our community
 and those around us.</p>
 </li>
-</ol>
+</ul>
 </li>
 <li>
 <p>As we chart our future, let us remember that the grandest vision is only
@@ -500,13 +500,13 @@ possible when we stand united, with peace as our guiding principle.&nbsp;</p>
 </li>
 <li>
 <p>History has shown us that unity and peace unlock progress.&nbsp;&nbsp;&nbsp;</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>The Treaty of Hudaybiyyah demonstrated how the Prophet SAW prioritised
 peace and unity over confrontation and conflict, which paved the way for
 Islam to thrive beyond what the companions could imagine.&nbsp;</p>
 </li>
-</ol>
+</ul>
 </li>
 <li>
 <p>The lesson is clear: success is not just about ambition – it’s about wisdom,
