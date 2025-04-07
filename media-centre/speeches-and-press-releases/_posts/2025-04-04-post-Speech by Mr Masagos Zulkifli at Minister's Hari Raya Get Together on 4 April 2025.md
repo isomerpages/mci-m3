@@ -565,8 +565,7 @@ Community of Success.</p>
 </li>
 </ol>
 <h4><strong><u>English Translation</u></strong></h4>
-<p><strong><u>Go far: Confidently advancing our Community of Success</u></strong>
-</p>
+<h4><u>Go far: Confidently advancing our Community of Success</u></h4>
 <ol start="18" data-tight="true" class="tight">
 <li>
 <p>The Malay/Muslim community has made great strides over the last 60 years.
@@ -597,8 +596,7 @@ and dare to push the boundaries and explore new possibilities.</p>
 me now elaborate on how we can “go far<strong>”</strong> as a community.</p>
 </li>
 </ul>
-<p><strong><em>Go far in time</em></strong>
-</p>
+<h4><em>Go far in time</em></h4>
 <ol start="20" data-tight="true" class="tight">
 <li>
 <p>The first boundary we need to overcome is the boundary of time. As the
@@ -633,8 +631,7 @@ efforts in developing a sustainable <em>wakaf</em> ensure the sustainability
 of our religious institutions over time.</p>
 </li>
 </ol>
-<p><strong><em>Go far with technology</em></strong>
-</p>
+<h4><em>Go far with technology</em></h4>
 <ol start="24" data-tight="true" class="tight">
 <li>
 <p>Secondly, we must “go far” by embracing technological changes.</p>
@@ -684,8 +681,7 @@ start by understanding how to harness new technologies and use them purposefully
 to build our Community of Success. Let us go far with technology, together!</p>
 </li>
 </ol>
-<p><strong><em>Go far in space</em></strong>
-</p>
+<h4><em>Go far in space</em></h4>
 <ol start="29" data-tight="true" class="tight">
 <li>
 <p>Ladies and gentlemen, lastly, we must go far in space – beyond the boundaries
