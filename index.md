@@ -4,7 +4,9 @@ title: M³
 description: An Isomer site of the Singapore Government
 image: /images/m3-logo-horizontal.svg
 permalink: /
-notification: ""
+notification: Government officials will NEVER ask you to transfer money or
+  disclose banking details over a phone call. Call the 24/7 ScamShield Helpline
+  at 1799 if you are unsure if something is a scam.
 sections:
   - hero:
       title: Progressing With M³
