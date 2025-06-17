@@ -16,8 +16,6 @@ of COVID-19. It includes several religious advisories that have been issued
 during this outbreak. Other related frequently-asked religious queries
 that have been put forth by the members of the public are also addressed
 in the Handbook.</p>
-<p>View the Contemporary Irsyad Series Vol 2 here – <a href="https://bit.ly/3cdBdlO" rel="noopener noreferrer nofollow" target="_blank"><u>English</u></a> &amp; <a href="https://bit.ly/2YuXbgd" rel="noopener noreferrer nofollow" target="_blank"><u>Malay</u></a>
-</p>
 <h5><strong>#SGUnited Buka Puasa</strong></h5>
 <p>The #SGUnited Buka Puasa initiative is a ground-up effort to provide meals
 for breaking of fast during the month of Ramadan. Daily meals will be extended
