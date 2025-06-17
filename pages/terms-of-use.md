@@ -24,7 +24,7 @@ and other forms of proprietary rights. All rights, title and interest in
 the Contents are owned by, licensed to or controlled by MDDI.</p>
 <p><strong>Privacy Policy</strong>
 </p>
-<p>5. Click here to review this&nbsp;<a href="https://www.mddi.gov.sg/privacy/" rel="noopener noreferrer nofollow" target="_blank">Website Privacy Policy Statement</a>.</p>
+<p>5. Click here to review this&nbsp;<a href="https://www.mddi.gov.sg/privacy-statement/" rel="noopener noreferrer nofollow" target="_blank">Website Privacy Policy Statement</a>.</p>
 <p><strong>Restrictions on use of Materials</strong>
 </p>
 <p>6. Except as otherwise provided, the Contents of this Website shall not
