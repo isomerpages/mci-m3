@@ -16,8 +16,6 @@ of COVID-19. It includes several religious advisories that have been issued
 during this outbreak. Other related frequently-asked religious queries
 that have been put forth by the members of the public are also addressed
 in the Handbook.</p>
-<p>View the Contemporary Irsyad Series Vol 2 here – <a href="https://bit.ly/3cdBdlO" rel="noopener noreferrer nofollow" target="_blank"><u>English</u></a> &amp; <a href="https://bit.ly/2YuXbgd" rel="noopener noreferrer nofollow" target="_blank"><u>Malay</u></a>
-</p>
 <h5><strong>#SGUnited Buka Puasa</strong></h5>
 <p>The #SGUnited Buka Puasa initiative is a ground-up effort to provide meals
 for breaking of fast during the month of Ramadan. Daily meals will be extended
@@ -68,7 +66,7 @@ GIRO to help support the mosques in the long term.</p>
 </div>
 <p>This booklet provides information on support for <em>asatizah</em> who have
 been affected by COVID-19 crisis.</p>
-<p>Click <a href="/files/PDF/SUPPORT_ASATIZAH_2.5MB.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Click <a href="https://isomer-user-content.by.gov.sg/48/61dd8dc3-940a-4529-81ae-eca28af83bc0/ARS%20IECP%20Guidebook%20English.pdf" rel="noopener nofollow" target="_blank">here </a>to
 view the ARS Booklet.</p>
 <h5><strong>Pergas Gracious Package</strong></h5>
 <p>With the temporary closure of mosques and suspension of large-group events
@@ -82,8 +80,6 @@ the Gracious Package to provide affected <em>asatizah</em> with financial
 support during these challenging times.</p>
 <p>Visit <a href="https://www.pergas.org.sg/gracious-package" rel="noopener noreferrer nofollow" target="_blank"><u>www.pergas.org.sg/gracious-package</u></a> for
 more information.</p>
-<p>Click <a href="/files/PDF/PERGAS_230KB.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-view infographics on Pergas Gracious Package.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PERGAS_THUMB_1.2MB.jpg">
@@ -92,8 +88,7 @@ view infographics on Pergas Gracious Package.</p>
 <h5><strong>CariKerja App &amp; JUMP Virtual Career Fair</strong></h5>
 <p>Download the FindJobs or <em>CariKerja</em> app and visit our JUMP Virtual
 Career Fair, where more than 1,000 job vacancies across various sectors
-are available. Click <a href="/files/PDF/CARIKERJA_APP_AND_JUMP_VIRTUAL_CAREER_FAIR_476KB.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-view infographics on the <em>CariKerja</em> App.</p>
+are available.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CARIKERJA_APP_AND_JUMP_VIRTUAL_CAREER_FAIR_THUMB_856KB.jpg">
@@ -103,8 +98,6 @@ view infographics on the <em>CariKerja</em> App.</p>
 training enquiries. Available from Monday to Friday 8.30am to 6.00pm and
 Saturday 8.30am to 1.00pm.</p>
 <p>Call the Career Advisory Helpline at 6653 1203 for more information.</p>
-<p>Click <a href="/files/PDF/CAREER_ADVISORY_HELPLINE_122KB.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-view infographics on the Career Advisory Helpline.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CAREER_ADVISORY_THUMB_HELPLINE_1.8MB.jpg">
@@ -122,9 +115,7 @@ Engineering Diploma) and Building &amp; Construction Authority Academy
 (Diploma) can re-apply to get a higher subsidy if their household income
 is affected due to COVID-19. Re-application is open till Thursday, 15 May
 2020 (for polytechnic, ITE &amp; BCA applicants), from 1 May to 31 Jul
-(for University applicants including NAFA and LaSalle).</p>
-<p>Click <a href="/files/PDF/TTFS_MENDAKI_4.9MB.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-view infographics on MENDAKI’s TTFS.</p>
+(for university applicants including NAFA and LaSalle).</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TTFS_MENDAKI_226KB.jpg">

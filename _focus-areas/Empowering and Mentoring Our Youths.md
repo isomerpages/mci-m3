@@ -27,8 +27,7 @@ is achieved by adopting and contextualising the Gift-Centred Mentoring
 the Youth Mentoring Connection (YMC) based in Los Angeles, USA, to enhance
 and build the competency of the community.</p>
 <p>For any questions seeking enquiries to the Youth Mentoring Office, please
-email <a href="https://www.tinyurl.com/volunteerMENDAKI2021" rel="noopener noreferrer nofollow" target="_blank">ymo@mendaki.org.sg</a>
-</p>
+email <strong><em>ymo@mendaki.org.sg</em></strong>.</p>
 <h3><strong>Gift-Centred Mentor Training</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FA_3___1.jpg">
@@ -118,7 +117,7 @@ mentors.</p>
 are keen to join a community of professionals, building connections with
 those in the finance and consulting, marketing, technology, sales and operations
 industries, among others.</p>
-<p>To find out more about MARA Mentoring, click <a href="https://www.maramentoring.com/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+<p>To find out more about MARA Mentoring, click <a href="https://www.mendakiclub.org.sg/mara" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <h3><strong>Project Pathfinder</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FA3_Pathfinder.JPG">

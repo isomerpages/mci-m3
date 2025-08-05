@@ -1,9 +1,9 @@
 ---
-title: Community of Success Stories
+title: Our Community of Success Stories
 permalink: /community-of-success-stories/
 variant: tiptap
 description: ""
-third_nav_title: Community Of Success
+third_nav_title: Our Community Of Success
 ---
 <h3>Community of Success Stories</h3>
 <p></p>
