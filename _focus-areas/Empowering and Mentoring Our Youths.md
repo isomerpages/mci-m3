@@ -117,7 +117,7 @@ mentors.</p>
 are keen to join a community of professionals, building connections with
 those in the finance and consulting, marketing, technology, sales and operations
 industries, among others.</p>
-<p>To find out more about MARA Mentoring, click <a href="https://www.maramentoring.com/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+<p>To find out more about MARA Mentoring, click <a href="https://www.mendakiclub.org.sg/mara" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <h3><strong>Project Pathfinder</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FA3_Pathfinder.JPG">
