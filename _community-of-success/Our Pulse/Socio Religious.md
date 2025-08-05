@@ -70,7 +70,6 @@ resilience. This effort in shaping our religious life transcends physical
 mosques by growing Virtual Faithspaces, connecting the community with purposeful
 content suited for all, powered by Zakat to strengthen the community.</p>
 <h3><strong>Related Content</strong></h3>
-<h3></h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.zakat.sg/zahid-yassin-an-embodiment-of-never-give-up" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/socio1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Zakat SG</div><div class="isomer-card-description">“I told myself that I was going to be independent and didn’t want to depend on anyone else.”, Zahid Yassin, a recipient of zakat, who perseveres through his adversities and condition. </div><div class="isomer-card-link">Read more on Zahid's story</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://pride.kindness.sg/interfaith-iftar-volunteers-beneficiaries-meet-at-heartbeat-bedok-for-ramadan-community-event/" class="isomer-card">
 <div class="isomer-card-image">
